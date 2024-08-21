@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "db7f0736c1c46679",
+    "type": "split",
+    "children": [
+      {
+        "id": "b69f7f5728c52232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11b22dc3f451375d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instytut Rybny.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "657a63f36c07d91c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9edec84ed033eaa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instytut Rybny.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af7c589a1d1f2fbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c0d78d61142c1bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0db010e2edc0165",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f07ddfbf26b78fb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46230664a750e65a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1b34d6a8082fc98",
+    "type": "split",
+    "children": [
+      {
+        "id": "b914a98f97c6a8a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e9cf3115eb396ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Instytut Rybny.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "213c8d12b3f6dbcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Instytut Rybny.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9f4e9c2ae8376ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ecbe4de38661ad0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Instytut Rybny.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "11b22dc3f451375d",
+  "lastOpenFiles": [
+    "Instytut Rybny.md",
+    "Welcome.md"
+  ]
+}
