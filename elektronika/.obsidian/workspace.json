@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "990553fce5cfe00e",
+        "id": "0dc1bc694f82470b",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e671e0ba8ae10a",
+            "id": "12c9f79f6ee8735c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dremel/561.md",
-                "mode": "source",
+                "file": "dremel/Spis elementów.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -22,35 +22,22 @@
         ]
       },
       {
-        "id": "e14ede95bde27c02",
+        "id": "1102a189bfbf22c3",
         "type": "tabs",
         "children": [
           {
-            "id": "181b8c9f9682de9a",
+            "id": "d1c5c7097677e27e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "dremel/932.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c145e39bb069bc8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dremel/560.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dremel/561.md",
+                "file": "dremel/932.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dremel/561.md",
+                "file": "dremel/932.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dremel/561.md"
+                "file": "dremel/932.md"
               }
             }
           }
@@ -177,25 +164,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3e79064020376b1",
+  "active": "d1c5c7097677e27e",
   "lastOpenFiles": [
-    "dremel/560.md",
-    "dremel/561.md",
-    "dremel/565.md",
     "dremel/576.md",
+    "dremel/565.md",
+    "dremel/561.md",
+    "dremel/562.md",
+    "dremel/560.md",
+    "dremel/407.md",
+    "dremel/Spis elementów.md",
     "dremel/932.md",
     "dremel/figs/561-2.png",
     "dremel/figs/561-2.png.opdownload",
     "dremel/figs/561-1.png",
-    "dremel/Spis elementów.md",
     "dremel/figs/560-2.png",
     "dremel/figs/562-2.png",
     "dremel/figs/562-2.png.opdownload",
     "dremel/figs/560-1.png",
-    "dremel/562.md",
     "dremel/figs/565.png",
     "Ścieranie.md",
-    "dremel/407.md",
     "dremel/figs/407.png",
     "dremel/figs/932-2.png",
     "dremel/figs/932.png",
