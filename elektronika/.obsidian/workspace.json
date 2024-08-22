@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "561.md",
+                "file": "dremel/561.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "932.md",
+                "file": "dremel/932.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "560.md",
+                "file": "dremel/560.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "561.md",
+                "file": "dremel/561.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "561.md",
+                "file": "dremel/561.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "561.md"
+                "file": "dremel/561.md"
               }
             }
           }
@@ -177,25 +177,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4e671e0ba8ae10a",
+  "active": "c3e79064020376b1",
   "lastOpenFiles": [
-    "560.md",
-    "561.md",
-    "565.md",
-    "576.md",
-    "932.md",
+    "dremel/560.md",
+    "dremel/561.md",
+    "dremel/565.md",
+    "dremel/576.md",
+    "dremel/932.md",
     "dremel/figs/561-2.png",
     "dremel/figs/561-2.png.opdownload",
     "dremel/figs/561-1.png",
-    "Spis elementów.md",
+    "dremel/Spis elementów.md",
     "dremel/figs/560-2.png",
     "dremel/figs/562-2.png",
     "dremel/figs/562-2.png.opdownload",
     "dremel/figs/560-1.png",
-    "562.md",
+    "dremel/562.md",
     "dremel/figs/565.png",
     "Ścieranie.md",
-    "407.md",
+    "dremel/407.md",
     "dremel/figs/407.png",
     "dremel/figs/932-2.png",
     "dremel/figs/932.png",
