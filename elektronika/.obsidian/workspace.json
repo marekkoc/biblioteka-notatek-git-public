@@ -1,39 +1,70 @@
 {
   "main": {
-    "id": "db7f0736c1c46679",
+    "id": "a127129033ae63d1",
     "type": "split",
     "children": [
       {
-        "id": "37fc27458b27f73d",
+        "id": "990553fce5cfe00e",
         "type": "tabs",
         "children": [
           {
-            "id": "3c640f4f0d11e020",
+            "id": "c4e671e0ba8ae10a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instytut Rybny.md",
+                "file": "561.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "e14ede95bde27c02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "181b8c9f9682de9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "932.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c145e39bb069bc8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "560.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "af7c589a1d1f2fbd",
+    "id": "da2e2c8e5003adbf",
     "type": "split",
     "children": [
       {
-        "id": "6c0d78d61142c1bb",
+        "id": "4f54be22727a088a",
         "type": "tabs",
         "children": [
           {
-            "id": "a0db010e2edc0165",
+            "id": "c3e79064020376b1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +74,7 @@
             }
           },
           {
-            "id": "f07ddfbf26b78fb3",
+            "id": "0d77b36e7e6b584c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +89,7 @@
             }
           },
           {
-            "id": "46230664a750e65a",
+            "id": "9ab27fd336900a07",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +103,20 @@
     "width": 300
   },
   "right": {
-    "id": "a1b34d6a8082fc98",
+    "id": "1230550c9925ff44",
     "type": "split",
     "children": [
       {
-        "id": "b914a98f97c6a8a9",
+        "id": "d6ac757ad88b302a",
         "type": "tabs",
         "children": [
           {
-            "id": "9e9cf3115eb396ed",
+            "id": "7f89b1c4f0eba9d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instytut Rybny.md",
+                "file": "561.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +128,19 @@
             }
           },
           {
-            "id": "213c8d12b3f6dbcb",
+            "id": "4a047702f0b3d8af",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instytut Rybny.md",
+                "file": "561.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f9f4e9c2ae8376ee",
+            "id": "a2a6a32fe2bce121",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +151,12 @@
             }
           },
           {
-            "id": "4ecbe4de38661ad0",
+            "id": "7ab34c19332effac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instytut Rybny.md"
+                "file": "561.md"
               }
             }
           }
@@ -146,9 +177,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c640f4f0d11e020",
+  "active": "c4e671e0ba8ae10a",
   "lastOpenFiles": [
-    "Instytut Rybny.md",
-    "Welcome.md"
+    "560.md",
+    "561.md",
+    "565.md",
+    "576.md",
+    "932.md",
+    "dremel/figs/561-2.png",
+    "dremel/figs/561-2.png.opdownload",
+    "dremel/figs/561-1.png",
+    "Spis elementów.md",
+    "dremel/figs/560-2.png",
+    "dremel/figs/562-2.png",
+    "dremel/figs/562-2.png.opdownload",
+    "dremel/figs/560-1.png",
+    "562.md",
+    "dremel/figs/565.png",
+    "Ścieranie.md",
+    "407.md",
+    "dremel/figs/407.png",
+    "dremel/figs/932-2.png",
+    "dremel/figs/932.png",
+    "dremel/figs/576.png",
+    "dremel/figs/576.png.opdownload",
+    "dremel/figs",
+    "Welcome.md",
+    "dremel"
   ]
 }

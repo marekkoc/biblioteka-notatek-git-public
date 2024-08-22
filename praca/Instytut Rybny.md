@@ -44,6 +44,7 @@ Pierwsza rozmowa kwalifikacyjna na stanowisko **Senior system developer** w Inst
 1. Skopiowac MCI
 2. Pestki kiwi 
 3. Luca
+4. KidneySegmentacja
 
 # Co chcę:
 1. Chcę uczestniczyć w tworzeniu fajnych, przydatnych projektów
