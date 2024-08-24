@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6c1c24dba6e6b9e",
+        "id": "4100f81ecbc0a322",
         "type": "tabs",
         "children": [
           {
-            "id": "d5afc477e7e8470e",
+            "id": "c3681c322c069b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dremel/Spis elementów.md",
+                "file": "dremel/561.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "max",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dremel/Spis elementów.md",
+                "file": "dremel/561.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dremel/Spis elementów.md",
+                "file": "dremel/561.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dremel/Spis elementów.md"
+                "file": "dremel/561.md"
               }
             }
           }
@@ -146,38 +147,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5afc477e7e8470e",
+  "active": "c3681c322c069b3d",
   "lastOpenFiles": [
-    "dremel/628.md",
-    "dremel/figs/628-3.JPEG",
-    "dremel/figs/628-2.JPEG",
-    "dremel/4486.md",
-    "dremel/Spis elementów.md",
-    "dremel/figs/628-1.png",
-    "dremel/407.md",
-    "dremel/670.md",
-    "dremel/546.md",
-    "dremel/932.md",
-    "dremel/576.md",
-    "540.md",
-    "dremel/figs/546-2.png",
-    "dremel/figs/546-2.png.opdownload",
-    "dremel/figs/546-1.png",
-    "dremel/565.md",
+    "dremel/figs/561-4.JPEG",
     "dremel/561.md",
-    "dremel/figs/670.png",
+    "dremel/figs/561-3.JPEG",
+    "dremel/figs/561-4.JPEG.opdownload",
+    "dremel/figs/561-3.JPEG.opdownload",
+    "dremel/Spis elementów.md",
+    "dremel/114.md",
+    "dremel/4486.md",
+    "dremel/628.md",
+    "dremel/546.md",
+    "dremel/670.md",
     "dremel/560.md",
+    "dremel/565.md",
+    "dremel/932.md",
+    "dremel/407.md",
+    "dremel/576.md",
+    "dremel/figs/114-2.png",
+    "dremel/figs/114-3.JPEG",
+    "dremel/figs/114-4.JPEG",
+    "Untitled.canvas",
+    "dremel/SC402.md",
+    "dremel/4485.md",
+    "dremel/575.md",
+    "dremel/402.md",
+    "dremel/401.md",
+    "dremel/figs/114-4.JPEG.opdownload",
+    "dremel/figs/114-3.JPEG.opdownload",
+    "dremel/figs/114-2.png.opdownload",
+    "dremel/figs/114-1.png",
+    "dremel/figs/114-1.png.opdownload",
+    "dremel/figs/4486-3.jpeg",
+    "dremel/figs/4486-3.jpeg.opdownload",
+    "dremel/figs/4486-2.JPEG",
+    "dremel/figs/4486-2.JPEG.opdownload",
+    "dremel/figs/4486-1.png",
+    "dremel/figs/628-3.JPEG",
+    "540.md",
+    "dremel/figs/546-2.png.opdownload",
     "dremel/562.md",
-    "dremel/figs/561-2.png",
     "dremel/figs/561-2.png.opdownload",
-    "dremel/figs/561-1.png",
-    "dremel/figs/560-2.png",
-    "dremel/figs/562-2.png",
-    "dremel/figs/562-2.png.opdownload",
     "Ścieranie.md",
-    "dremel/figs/576.png.opdownload",
-    "dremel/figs",
-    "Welcome.md",
-    "dremel"
+    "Welcome.md"
   ]
 }
