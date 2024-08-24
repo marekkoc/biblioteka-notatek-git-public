@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37fc27458b27f73d",
+        "id": "42efc176ca1da9fe",
         "type": "tabs",
         "children": [
           {
-            "id": "3c640f4f0d11e020",
+            "id": "b69e2c141a6a98eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instytut Rybny.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instytut Rybny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instytut Rybny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Instytut Rybny.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c640f4f0d11e020",
+  "active": "b69e2c141a6a98eb",
   "lastOpenFiles": [
     "Instytut Rybny.md",
+    "Next.md",
     "Welcome.md"
   ]
 }

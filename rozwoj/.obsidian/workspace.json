@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41ad6f11c130add3",
+        "id": "af1543bbeefc3b73",
         "type": "tabs",
         "children": [
           {
-            "id": "3f00320eccee231b",
+            "id": "ee9c601d495a7e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codzienne/2024-08-22.md",
+                "file": "8 powodów prokrastynacji.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codzienne/2024-08-22.md",
+                "file": "8 powodów prokrastynacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codzienne/2024-08-22.md",
+                "file": "8 powodów prokrastynacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codzienne/2024-08-22.md"
+                "file": "8 powodów prokrastynacji.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f00320eccee231b",
+  "active": "ee9c601d495a7e33",
   "lastOpenFiles": [
-    "8 powodów prokrastynacji.md",
     "Prokrastynacja.md",
+    "8 powodów prokrastynacji.md",
+    "codzienne/2024-08-23.md",
+    "codzienne/2024-08-22.md",
     "2024-08-22.md",
     "figs/20240822.png",
     "figs",
