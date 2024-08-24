@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "4100f81ecbc0a322",
+        "id": "076e990ef1773a05",
         "type": "tabs",
         "children": [
           {
-            "id": "c3681c322c069b3d",
+            "id": "c7bb262552f4c39a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5e17fbbc988aea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73763e9c52e3f7ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dremel/561.md",
+                "file": "Do-przeczytania.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dremel/561.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dremel/561.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dremel/561.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,33 +156,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3681c322c069b3d",
+  "active": "c7bb262552f4c39a",
   "lastOpenFiles": [
+    "edw/edw-2024-04.md",
+    "Zadanie-glowne.md",
+    "zasilacz.md",
+    "dremel/546.md",
+    "wyswietlacz-graficzny.md",
+    "Do-nauczenia-sie.md",
+    "Do-przeczytania.md",
+    "Arduino.md",
+    "Co-tu-nie-gra.md",
+    "Rozwiazanie-zadania.md",
+    "Szkola-konstruktorow.md",
+    "Rozne.md",
+    "MOSFET.md",
+    "tranzystor.md",
+    "Wokol-Arduino.md",
+    "kurs-arduino.md",
+    "Kuchnia-konstruktora.md",
+    "Programowanie.md",
+    "Skrzynka-porad.md",
+    "Feleton.md",
+    "Projety-AVT***.md",
+    "Projekty-AVT**.md",
+    "automatyka-domowa.md",
+    "projekty-avt**.md",
+    "projekty-avt***.md",
+    "system-automatyki-domowej.md",
+    "edw",
     "dremel/figs/561-4.JPEG",
-    "dremel/561.md",
     "dremel/figs/561-3.JPEG",
     "dremel/figs/561-4.JPEG.opdownload",
     "dremel/figs/561-3.JPEG.opdownload",
-    "dremel/Spis elementów.md",
-    "dremel/114.md",
-    "dremel/4486.md",
-    "dremel/628.md",
-    "dremel/546.md",
-    "dremel/670.md",
-    "dremel/560.md",
-    "dremel/565.md",
-    "dremel/932.md",
-    "dremel/407.md",
-    "dremel/576.md",
     "dremel/figs/114-2.png",
     "dremel/figs/114-3.JPEG",
     "dremel/figs/114-4.JPEG",
     "Untitled.canvas",
-    "dremel/SC402.md",
-    "dremel/4485.md",
-    "dremel/575.md",
-    "dremel/402.md",
-    "dremel/401.md",
     "dremel/figs/114-4.JPEG.opdownload",
     "dremel/figs/114-3.JPEG.opdownload",
     "dremel/figs/114-2.png.opdownload",
@@ -185,11 +204,6 @@
     "dremel/figs/4486-2.JPEG.opdownload",
     "dremel/figs/4486-1.png",
     "dremel/figs/628-3.JPEG",
-    "540.md",
-    "dremel/figs/546-2.png.opdownload",
-    "dremel/562.md",
-    "dremel/figs/561-2.png.opdownload",
-    "Ścieranie.md",
-    "Welcome.md"
+    "dremel/figs/546-2.png.opdownload"
   ]
 }
