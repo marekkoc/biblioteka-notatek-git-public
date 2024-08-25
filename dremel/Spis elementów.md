@@ -17,6 +17,8 @@
 | 9.   | [[628]]  | wiercenie                                    | Zestaw precyzyjnych wierteł do wiercenia w materiałach miękkich  | [[4486]], [[4485]]            | 1 (zestaw zawiera 7 wierteł) |
 | 10.  | [[4486]] | akcesoria - tuleje zaciskowe- trzpienie      | Uchwyt uniwersalny (0,8 - 3,2 mm) - wycofany ze sprzedarzy       | [[628]], [[4485]],<br>[[575]] | 1                            |
 | 11.  | [[114]]  | Rzeźbienie, grawerowanie                     | Frez szybkotnący 7,8 mm                                          | luz x2,                       | 2                            |
+| 12.  | [[107]]  | Rzeźbienie, grawerowanie                     | Frez do grawerowania 2,4 mm                                      | luz x3                        | 3                            |
+| 13.  | [[192]]  | Rzeźbienie, grawerowanie                     | Frez szybkotnący 4,8 mm                                          | lux x2                        | 2                            |
 
 
 # Kupić:
