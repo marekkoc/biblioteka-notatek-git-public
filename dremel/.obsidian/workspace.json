@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "a127129033ae63d1",
+    "id": "7638cd82a64e3843",
     "type": "split",
     "children": [
       {
-        "id": "c5e17fbbc988aea8",
+        "id": "d2abbafcf3c80bad",
         "type": "tabs",
         "children": [
           {
-            "id": "73763e9c52e3f7ac",
+            "id": "1d28a9c5d718c913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edw/numery/edw-2024-04.md",
+                "file": "Spis elementów.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "da2e2c8e5003adbf",
+    "id": "bfbda7a7279b7924",
     "type": "split",
     "children": [
       {
-        "id": "4f54be22727a088a",
+        "id": "2e44cc2776fcfa96",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e79064020376b1",
+            "id": "591747a84634978d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "0d77b36e7e6b584c",
+            "id": "9b95b51ac949481f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "9ab27fd336900a07",
+            "id": "9ebf836e1dc789ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "1230550c9925ff44",
+    "id": "97f329f24a4b8ded",
     "type": "split",
     "children": [
       {
-        "id": "d6ac757ad88b302a",
+        "id": "c784f42366b9407c",
         "type": "tabs",
         "children": [
           {
-            "id": "7f89b1c4f0eba9d9",
+            "id": "c407e6a024c604fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edw/numery/edw-2024-04.md",
+                "file": "Spis elementów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "4a047702f0b3d8af",
+            "id": "1a6f39adedb6f818",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "edw/numery/edw-2024-04.md",
+                "file": "Spis elementów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a2a6a32fe2bce121",
+            "id": "522eae4bcf49cea4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "7ab34c19332effac",
+            "id": "322ec4ad74e40dbe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "edw/numery/edw-2024-04.md"
+                "file": "Spis elementów.md"
               }
             }
           }
@@ -146,53 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73763e9c52e3f7ac",
+  "active": "1d28a9c5d718c913",
   "lastOpenFiles": [
-    "edw/zasilacz.md",
-    "edw/wyswietlacz-graficzny.md",
-    "edw/Wokol-Arduino.md",
-    "Do-nauczenia-sie.md",
-    "edw/numery/edw-2024-04.md",
-    "edw/Rozwiazanie-zadania.md",
-    "edw/numery",
-    "Do-przeczytania.md",
-    "edw/Co-tu-nie-gra.md",
-    "edw/Zadanie-glowne.md",
-    "dremel/546.md",
-    "edw/Arduino.md",
-    "edw/Szkola-konstruktorow.md",
-    "edw/Rozne.md",
-    "edw/MOSFET.md",
-    "edw/tranzystor.md",
-    "edw/kurs-arduino.md",
-    "edw/Kuchnia-konstruktora.md",
-    "edw/Programowanie.md",
-    "edw/Skrzynka-porad.md",
-    "edw/Feleton.md",
-    "edw/Projety-AVT***.md",
-    "edw/Projekty-AVT**.md",
-    "edw/automatyka-domowa.md",
-    "projekty-avt**.md",
-    "projekty-avt***.md",
-    "edw",
-    "dremel/figs/561-4.JPEG",
-    "dremel/figs/561-3.JPEG",
-    "dremel/figs/561-4.JPEG.opdownload",
-    "dremel/figs/561-3.JPEG.opdownload",
-    "dremel/figs/114-2.png",
-    "dremel/figs/114-3.JPEG",
-    "dremel/figs/114-4.JPEG",
-    "Untitled.canvas",
-    "dremel/figs/114-4.JPEG.opdownload",
-    "dremel/figs/114-3.JPEG.opdownload",
-    "dremel/figs/114-2.png.opdownload",
-    "dremel/figs/114-1.png",
-    "dremel/figs/114-1.png.opdownload",
-    "dremel/figs/4486-3.jpeg",
-    "dremel/figs/4486-3.jpeg.opdownload",
-    "dremel/figs/4486-2.JPEG",
-    "dremel/figs/4486-2.JPEG.opdownload",
-    "dremel/figs/4486-1.png",
-    "dremel/figs/628-3.JPEG"
+    "576.md",
+    "Spis elementów.md",
+    "407.md",
+    "932.md",
+    "565.md",
+    "560.md",
+    "561.md",
+    "670.md",
+    "546.md",
+    "628.md",
+    "4486.md",
+    "114.md",
+    "107.md",
+    "192.md",
+    "192-4.md",
+    "figs/192-4.JPEG",
+    "figs/192-4.JPEG.opdownload",
+    "figs/192-3.JPEG",
+    "figs/192-3.JPEG.opdownload",
+    "figs/192-2.png",
+    "figs/192-2.png.opdownload",
+    "figs/192-1.png",
+    "figs/192-1.png.opdownload",
+    "figs/107-3.JPEG",
+    "figs/107-3.JPEG.opdownload",
+    "figs/107-2.JPEG",
+    "figs/107-2.JPEG.opdownload",
+    "figs/107-1.png"
   ]
 }
