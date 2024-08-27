@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bf56093d100107be",
+        "id": "7e7ff1cbbbad26c8",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa794f06b2226ee",
+            "id": "b514cf9e0e19cb9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciekawe-kity-avt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciekawe-kity-avt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciekawe-kity-avt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ciekawe-kity-avt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aa794f06b2226ee",
+  "active": "b514cf9e0e19cb9e",
   "lastOpenFiles": [
+    "Ciekawe-kity-avt.md",
+    "mk-Pomodoro.md",
+    "Do-zrobienia-projekty.md",
     "edw/numery/edw-2020-01.md",
     "edw/numery/edw-2024-04.md",
-    "Ciekawe-kity-avt.md",
     "edw/Projekty-AVT**.md",
     "edw/zasilacz.md",
     "edw/wyswietlacz-graficzny.md",
@@ -173,8 +167,6 @@
     "edw/Skrzynka-porad.md",
     "edw/Feleton.md",
     "edw/Projety-AVT***.md",
-    "edw/automatyka-domowa.md",
-    "projekty-avt**.md",
     "edw",
     "dremel/figs/561-4.JPEG",
     "dremel/figs/561-3.JPEG",
