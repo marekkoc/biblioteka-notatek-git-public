@@ -11,8 +11,12 @@
             "id": "3aa794f06b2226ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ciekawe-kity-avt.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Skrzynka-porad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edw/numery/edw-2024-04.md",
+                "file": "Ciekawe-kity-avt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "edw/numery/edw-2024-04.md",
+                "file": "Ciekawe-kity-avt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edw/numery/edw-2024-04.md"
+                "file": "Ciekawe-kity-avt.md"
               }
             }
           }
@@ -143,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d77b36e7e6b584c",
+  "active": "3aa794f06b2226ee",
   "lastOpenFiles": [
     "edw/numery/edw-2020-01.md",
-    "Ciekawe-kity-avt.md",
     "edw/numery/edw-2024-04.md",
+    "Ciekawe-kity-avt.md",
     "edw/Projekty-AVT**.md",
     "edw/zasilacz.md",
     "edw/wyswietlacz-graficzny.md",

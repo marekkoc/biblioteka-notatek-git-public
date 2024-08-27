@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef75e58922982634",
+        "id": "ce89f88e99a0e2b4",
         "type": "tabs",
         "children": [
           {
-            "id": "fa9d6a38c74643b5",
+            "id": "58b8340b3bcd6653",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Python-programmer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zrodla-filmy-materialy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zrodla-filmy-materialy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zrodla-filmy-materialy.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -145,8 +141,8 @@
   },
   "active": "bde0b68550010b94",
   "lastOpenFiles": [
-    "codzienne/2024-08-25.md",
     "zrodla-filmy-materialy.md",
+    "codzienne/2024-08-25.md",
     "ksiazki/2018xOakley_Ucz-sie-szybko-i-skutecznie.md",
     "codzienne/2024-08-26.md",
     "ksiazki",

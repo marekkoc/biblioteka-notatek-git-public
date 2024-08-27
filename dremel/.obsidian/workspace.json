@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spis elementów.md",
+                "file": "9903.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#ciec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spis elementów.md",
+                "file": "9903.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spis elementów.md",
+                "file": "9903.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spis elementów.md"
+                "file": "9903.md"
               }
             }
           }
@@ -148,20 +148,33 @@
   },
   "active": "1d28a9c5d718c913",
   "lastOpenFiles": [
-    "576.md",
+    "figs/9903-2.png",
+    "figs/9903-2.png.opdownload",
+    "figs/9903-1.png",
     "Spis elementów.md",
-    "407.md",
-    "932.md",
-    "565.md",
-    "560.md",
-    "561.md",
-    "670.md",
-    "546.md",
+    "134.md",
+    "9903.md",
+    "SC402.md",
     "628.md",
     "4486.md",
+    "192.md",
+    "figs/134-2.png",
+    "figs/134-2.png.opdownload",
+    "figs/134-1.png",
+    "4485.md",
+    "932.md",
+    "670.md",
+    "576.md",
+    "575.md",
+    "565.md",
+    "561.md",
+    "560.md",
+    "546.md",
+    "407.md",
+    "402.md",
+    "401.md",
     "114.md",
     "107.md",
-    "192.md",
     "192-4.md",
     "figs/192-4.JPEG",
     "figs/192-4.JPEG.opdownload",
