@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9903.md",
+                "file": "Spis-elementow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9903.md",
+                "file": "Spis-elementow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9903.md",
+                "file": "Spis-elementow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9903.md"
+                "file": "Spis-elementow.md"
               }
             }
           }
@@ -148,12 +148,20 @@
   },
   "active": "1d28a9c5d718c913",
   "lastOpenFiles": [
+    "9903.md",
+    "figs/9903-3.JPEG",
+    "134.md",
+    "Spis-elementow.md",
+    "figs/9903-4.JPEG",
+    "figs/9903-4.JPEG.opdownload",
+    "figs/9903-3.JPEG.opdownload",
+    "figs/134-4.JPEG",
+    "figs/134-4.JPEG.opdownload",
+    "figs/134-3.JPEG",
+    "figs/134-3.JPEG.opdownload",
     "figs/9903-2.png",
     "figs/9903-2.png.opdownload",
     "figs/9903-1.png",
-    "Spis elementów.md",
-    "134.md",
-    "9903.md",
     "SC402.md",
     "628.md",
     "4486.md",
@@ -180,14 +188,7 @@
     "figs/192-4.JPEG.opdownload",
     "figs/192-3.JPEG",
     "figs/192-3.JPEG.opdownload",
-    "figs/192-2.png",
     "figs/192-2.png.opdownload",
-    "figs/192-1.png",
-    "figs/192-1.png.opdownload",
-    "figs/107-3.JPEG",
-    "figs/107-3.JPEG.opdownload",
-    "figs/107-2.JPEG",
-    "figs/107-2.JPEG.opdownload",
-    "figs/107-1.png"
+    "figs/192-1.png.opdownload"
   ]
 }
