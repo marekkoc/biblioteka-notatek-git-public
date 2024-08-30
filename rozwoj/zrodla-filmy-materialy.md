@@ -1,7 +1,7 @@
 #  Uczenie się #uczenie-sie
 1. #Coursera: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn?): Powerful mental tools to help you master tough subjects - Kurs przygotowany i polecany w książce Barbary Oakley
 2. # Marty Lobdell - [Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0&t=1815s)
-3
+3 #Python-programmer:[The Best Learning Method in History](https://www.youtube.com/watch?v=L_MXu1_UrBE): 2,400 Years Ahead of Its Time
 
 ---
 
@@ -47,3 +47,8 @@
 2. [Python Tools for Scientists: An Introduction to Using Anaconda, JupyterLab, and Python's Scientific Libraries](https://www.amazon.com/Python-Tools-Scientists-Introduction-JupyterLab/dp/1718502664/ref=sr_1_1?crid=NGJE47T0YN87&dib=eyJ2IjoiMSJ9.iWqgTGQ2RCwrLJqLmKRUhsUxCh3SCbfxisr-7Kpfmp93LGtvc-uczgPj-O4_w2FLZRAq_6mRS-vhjkmXrMKcLD-v-kVE56GozDKfaofbZCxxJLGugc5GSjuyOthuHQbF9OiLveih1uOL8i_hTuRO0dWpECwYzvMqvNDZapOFiFjbQ4rlh6cozYftA8HZdlEeraMdnOryA5dX4xkAHBrOMqTDXRyfxStLq5fW0OOin0M.fOQITxVLJ3cG9ekIk-4yK_N3sgcWgS0Sx1JngGUFwH4&dib_tag=se&keywords=python+tools+for+scientists&qid=1724597058&sprefix=python+tools+fo%2Caps%2C176&sr=8-1)
 3.  [Effective Pandas: Patterns for Data Manipulation](https://www.amazon.com/Effective-Pandas-Patterns-Manipulation-Treading/dp/B09MYXXSFM/ref=sr_1_4?crid=2H1N470VR1R3W&dib=eyJ2IjoiMSJ9.Pw4cio2ozNvEIbRKIDPbQVTBmH46of4eHYLnSNIaSW9Ah1hby3H67afkclJhyHm5pLRFANtAiigbsV2PeVf8iLYUYpvSrgh8yijUC6dcpqzysYbdETaRxwdgfyv01cAuRMQHbjfgHuDGGVLWwxPcFpkzDbIUrJhd3sNKeFS43HCzvFf27Gj5ByP9D4yrQvr5UqkC71OZ0bwqQZFKxV9Dk5QsT-bl4xKYqdTKS-_9QRc.RdpJwMPgheLLgx7YoKgpuE-llChdTFOA0Ox994W2eBE&dib_tag=se&keywords=effective+pandas&qid=1724597132&sprefix=effective+panda%2Caps%2C211&sr=8-4)
 4.  [Effective Pandas 2: Opinionated Patterns for Data Manipulation (Treading on Python)](https://www.amazon.com/Effective-Pandas-Opinionated-Patterns-Manipulation/dp/B0CSRGH8R3/ref=sr_1_1?crid=2H1N470VR1R3W&dib=eyJ2IjoiMSJ9.Pw4cio2ozNvEIbRKIDPbQVTBmH46of4eHYLnSNIaSW9Ah1hby3H67afkclJhyHm5pLRFANtAiigbsV2PeVf8iLYUYpvSrgh8yijUC6dcpqzysYbdETaRxwdgfyv01cAuRMQHbjfgHuDGGVLWwxPcFpkzDbIUrJhd3sNKeFS43HCzvFf27Gj5ByP9D4yrQvr5UqkC71OZ0bwqQZFKxV9Dk5QsT-bl4xKYqdTKS-_9QRc.RdpJwMPgheLLgx7YoKgpuE-llChdTFOA0Ox994W2eBE&dib_tag=se&keywords=effective+pandas&qid=1724597132&sprefix=effective+panda%2Caps%2C211&sr=8-1)
+
+
+# Python aplikacje webowe:
+1. #Python-programmer #Make [A Python Website As Fast As Possible](https://www.youtube.com/watch?v=tELWnKCVd9k)!How to build a web app in python. Complete roadmap and learning materials..
+2.  Tech with Tim: [Make A Python Website As Fast As Possible!](https://www.youtube.com/watch?v=kng-mJJby8g)
