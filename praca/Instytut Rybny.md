@@ -1,3 +1,24 @@
+
+## 30 sierpnia - moje wnioski i spostrzeżenia po rozmowie
+
+1. Rozmowa odbyła się w siedzibie firmy na ulicy [Strandgaten 196](https://www.google.com/maps/place/Strandgaten+196,+5004+Bergen/@60.3964146,5.3117305,16z/data=!3m1!4b1!4m6!3m5!1s0x463cfc1b60a934ed:0x34c2d05fc5eb0d7a!8m2!3d60.396412!4d5.3143054!16s%2Fg%2F11c22c8fwx?entry=ttu&g_ep=EgoyMDI0MDgyNy4wIKXMDSoASAFQAw%3D%3D) Gdy przyszedłem na miejsce zarejestrowałem się w systemie, po kilku minutach przyszedł po mnie Sjur. Poszliśmy na 3 piętro do małej sali seminaryjnej gdzie były pozostałe osoby: Anthony, ten grubszy gościu z HR i jeszcze jeden młody chłopak z HR.
+2. Najpierw poprosili mnie żebym powiedział coś o sobie. 
+3. Potem jakoś o czymś długo rozmawialiśmy tak generalnie, o moich projektach i przeszłości.
+4. Około 11 Anthony dał mi 3 zadnia do roziwazania:
+	1. Posortować nazwy po każdym składowym elemencie następującej nazwy "2020-ZA145/192" zachowanej jako string. 
+	2. Posortować losowo tablicę dziesięciu elemetów [1..10] aby różnica kolejno wybranych liczb była większa od 1, czyli aby nie wybrać dwóch sąsiadujących ze sobą liczb.
+	3. Zaznaczyć wszystkie punkty węzłowe siatki które zawierają się w okręgu o zadanym promieniu i o środku w punkcie o współrzędnej float. Zadanie podobne do mojego całkowanie subwokseli w moim symulatorze obrazów rastrowych dla naczyń krwionośnych.
+5. Potem ten najmłodszy chłopak omawiał mój test MAP, i zadawał kolejne głupkowate pytania... Sjur wydawał się być tym znudzony. Rozmowa trwała do 11:10 czyli całkiem długo.
+6. Podsumowanie:
+	1. Odniosłem wrażenie jakby chcieli mnie zatrudnić, chociaż jeszcze Sjur zadzwoni do Luci lub Arvida i zawsze ostateczną decyzję podejmują jego zwierzchnicy.
+	2. Zwrócą za kurs języka norweskiego gdy zdam kolejne egzaminy. Można dostać awansem 5000 koron. 
+	3. W budynku jest siłownia, można z niej korzystać 1h dziennie w czasie pracy(!!!)
+	4. Pytali czy mogę popłynąć na rejsy na 1 tydzień lub na dłuższe np. na 1 miesiąc.
+	5. Oficjalnie jest 1 dzień w tygodniu Home Office, ale Sjur chyba preferuje przychodzenie do biura. Ja też powiedziałem że wolę przychodzić i pracować w biurze. 
+	6. Ten gościu z HR powiedział, że po uzgodnieniu mógłbym nawet klika dni popracować w Poslce jakko Home Office.
+	7. Na pytanie o zarobki, oni nie chcieli zaproponować nic, to powiedziałem, że chcę 750 000 rocznie, gość z HR powiedział że to ok, Sjur też że OK, ale trochę wewnętrznie się krzywił tak mi się wydawało.
+
+
 # 29 sierpnia 2024 - druga runda
 
 ## Podczas rozmowy
@@ -36,7 +57,7 @@
 4. assertive communication
 
 
-# Pytania
+## Pytania
 1. jakie projekty robią? 
 2. jaki jest charakter pracy ich grupy? Czy piszą końcowy soft? Czy piszą soft dla naukowców (np. skrypty)? Czym sami projektują i proponują algorytmy? Czy robią to co o co ich proszą Naukowcy?
 3. o zarobki 
@@ -52,25 +73,29 @@
 
 
 
+
+
+___
+
 # 24 sierpnia 2024
 Pierwsza rozmowa kwalifikacyjna na stanowisko **Senior system developer** w Instytucie Rybnym (Havforskningsinstituttet, INSTITUTE OF MARINE RESEARCH).
 
-# Co powiedzieć
+
 ## Wstęp
 1. Podziękować za zaproszenie na rozmowę i z możliwość tej rozmowy
 2. że Instytut jest dobrym miejscem i że wielu moich znajomych sugerowało żebym tam napisał (poczytac o firmie, nauczyć się jej nazw po ang i po norwesku)
 
-# Co mieć pod ręką
+## Co mieć pod ręką
 1. roboty
 2. książki od ML i DL
 
-# GitHUB
+## GitHUB
 1. Skopiowac MCI
 2. Pestki kiwi 
 3. Luca
 4. KidneySegmentacja
 
-# Prezentacja
+## Prezentacja
 1. Powiedzieć coś o sobie, przedstawić się
 	1. Moja historia (dokorat, IE, UiB/HVL/MMIV, związki z Bergen)
 	2. Główne projekty
