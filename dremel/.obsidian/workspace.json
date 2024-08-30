@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "125.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "125.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "125.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spis-elementow.md"
+                "file": "125.md"
               }
             }
           }
@@ -148,10 +148,19 @@
   },
   "active": "1d28a9c5d718c913",
   "lastOpenFiles": [
-    "9903.md",
-    "figs/9903-3.JPEG",
-    "134.md",
+    "figs/125-3.JPEG",
+    "125.md",
+    "figs/125-4.JPEG",
+    "figs/125-4.JPEG.opdownload",
+    "figs/125-3.JPEG.opdownload",
+    "[125.md",
     "Spis-elementow.md",
+    "134.md",
+    "9903.md",
+    "figs/125-2.png",
+    "figs/125-2.png.opdownload",
+    "figs/125-1.png",
+    "figs/9903-3.JPEG",
     "figs/9903-4.JPEG",
     "figs/9903-4.JPEG.opdownload",
     "figs/9903-3.JPEG.opdownload",
@@ -166,9 +175,7 @@
     "628.md",
     "4486.md",
     "192.md",
-    "figs/134-2.png",
     "figs/134-2.png.opdownload",
-    "figs/134-1.png",
     "4485.md",
     "932.md",
     "670.md",
@@ -184,11 +191,6 @@
     "114.md",
     "107.md",
     "192-4.md",
-    "figs/192-4.JPEG",
-    "figs/192-4.JPEG.opdownload",
-    "figs/192-3.JPEG",
-    "figs/192-3.JPEG.opdownload",
-    "figs/192-2.png.opdownload",
-    "figs/192-1.png.opdownload"
+    "figs/192-4.JPEG.opdownload"
   ]
 }

@@ -21,6 +21,7 @@
 | 13.  | [[192]]  | Rzeźbienie, grawerowanie                     | Frez szybkotnący 4,8 mm                                          | lux x2                        | 2                            |
 | 14.  | [[134]]  | Rzeźbienie, grawerowanie                     | Frez szybkotnący 7,2 mm                                          | luz x2                        | 2                            |
 | 15.  | [[9903]] | Rzeźbienie, grawerowanie                     | Obcinak wolframowo-węglikowy z zaostrzoną końcówką 3,2 mm        | luz x1                        | 1                            |
+| 16.  | [[125]]  | Rzeźbienie, grawerowanie                     | Frez szybkotnący 6,4 mm                                          | luz x2                        | 2                            |
 
 
 # Kupić:
