@@ -1,10 +1,5 @@
-**24 sierpnia 2024** roku
-Pierwsza rozmowa kwalifikacyjna na stanowisko **Senior system developer** w Instytucie Rybnym (Havforskningsinstituttet, INSTITUTE OF MARINE RESEARCH).
+# 29 sierpnia 2024 - druga runda
 
-# Co powiedzieć
-## Wstęp
-1. Podziękować za zaproszenie na rozmowę i z możliwość tej rozmowy
-2. że Instytut jest dobrym miejscem i że wielu moich znajomych sugerowało żebym tam napisał (poczytac o firmie, nauczyć się jej nazw po ang i po norwesku)
 ## Podczas rozmowy
 1. Ze chce się czegoś nauczyć, jestem otwarty na naukę 
 2. że jestem team player i otwarty na współprace
@@ -14,16 +9,13 @@ Pierwsza rozmowa kwalifikacyjna na stanowisko **Senior system developer** w Inst
 	3. że lubię tłumaczyc  innym, jestem cieprliwy
 		1. pętla for dla studentów IB w PŁ
 		2. Alexandra i Ingrid
-# Prezentacja
-1. Powiedzieć coś o sobie, przedstawić się
-	1. Moja historia (dokorat, IE, UiB/HVL/MMIV, związki z Bergen)
-	2. Główne projekty
-		1. naczynia (UiB, Jena), co robiłem w tych projektach
-		2. Projekty w MMIV (segmentacja mózgu, Alzhaimer)
-2. Współpraca międzynarodowa 
-	1. Jena, Bergen, Porto, Praga (?)
-	2. liczne konferencje, szkolenia i wyjazdy
-# Moje zalety, co mogę wnieść
+## Co chcę:
+1. Chcę uczestniczyć w tworzeniu fajnych, przydatnych projektów
+2. jestem otwarty na nowe rzeczy np. programowania webowego, bazy danych, GUI
+3. Lubię Bergen i che tu pracować i zostać
+4. chcę się nauczyć norweskiego
+
+## Moje zalety, co mogę wnieść
 1. doświadczenie w pracy w multidyscyplinarnym środowisku naukowym 
 2. wieloletnie doświadczenie w pisaniu oprogramowania dla lekarzy
 3. Znajomość Pythona, C++, Matlaba, R, 
@@ -36,6 +28,38 @@ Pierwsza rozmowa kwalifikacyjna na stanowisko **Senior system developer** w Inst
 	6. electronics (Digital systems, microprocessors (Arduingo), sensros !!! )
 5. uczę się norweskiego
 
+
+## Kursy jakie zrobiłem:
+1. # DISC Personality Types: Dominance, Influence, Steadiness, Conscientiousness
+2. time menagement
+3. confidence based on facts
+4. assertive communication
+
+
+# Pytania
+1. jakie projekty robią? 
+2. jaki jest charakter pracy ich grupy? Czy piszą końcowy soft? Czy piszą soft dla naukowców (np. skrypty)? Czym sami projektują i proponują algorytmy? Czy robią to co o co ich proszą Naukowcy?
+3. o zarobki 
+4. financial supprot - employee benefits- perks
+	1. czy mogą mi współfinansować kurs norweskiego (???)
+	2. siłownia
+	3. healthcare benefits
+	4. gym access?
+	5. development courses
+5.  home office?
+6. Czego ode mnie beda wymagac na poczatku? Czy mnie wprowadza w projekty? Czy jakos porzygotuja?
+
+
+
+
+# 24 sierpnia 2024
+Pierwsza rozmowa kwalifikacyjna na stanowisko **Senior system developer** w Instytucie Rybnym (Havforskningsinstituttet, INSTITUTE OF MARINE RESEARCH).
+
+# Co powiedzieć
+## Wstęp
+1. Podziękować za zaproszenie na rozmowę i z możliwość tej rozmowy
+2. że Instytut jest dobrym miejscem i że wielu moich znajomych sugerowało żebym tam napisał (poczytac o firmie, nauczyć się jej nazw po ang i po norwesku)
+
 # Co mieć pod ręką
 1. roboty
 2. książki od ML i DL
@@ -46,16 +70,14 @@ Pierwsza rozmowa kwalifikacyjna na stanowisko **Senior system developer** w Inst
 3. Luca
 4. KidneySegmentacja
 
-# Co chcę:
-1. Chcę uczestniczyć w tworzeniu fajnych, przydatnych projektów
-2. jestem otwarty na nowe rzeczy np. programowania webowego, bazy danych, GUI
-3. Lubię Bergen i che tu pracować i zostać
-4. chcę się nauczyć norweskiego
-# Pytania
-1. jakie projekty robią? 
-2. jaki jest charakter pracy ich grupy? Czy piszą końcowy soft? Czy piszą soft dla naukowców (np. skrypty)?
-3. o zarobki (????)
-4. czy mogą mi współfinansować kurs norweskiego (???)
-5.  **Czy mogę aplikowąć na inne stanowsika? Związana z Azzure??? Czy to są oferty z ich grupy??? !!!!! **
-6. 
-7. 
+# Prezentacja
+1. Powiedzieć coś o sobie, przedstawić się
+	1. Moja historia (dokorat, IE, UiB/HVL/MMIV, związki z Bergen)
+	2. Główne projekty
+		1. naczynia (UiB, Jena), co robiłem w tych projektach
+		2. Projekty w MMIV (segmentacja mózgu, Alzhaimer)
+2. Współpraca międzynarodowa 
+	1. Jena, Bergen, Porto, Praga (?)
+	2. liczne konferencje, szkolenia i wyjazdy
+
+
