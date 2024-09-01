@@ -1,7 +1,12 @@
-# Notatki z filmów:
+# Notatki z filmów do zrobienia:
 1. Python prgrammer:
 	1. pisanie essejów: he Best Learning Tool in History](https://www.youtube.com/watch?v=lML0ndFlBuc&t=31s) - 400 years ahead of its time!
 	2. uczenie sie: #Python-programmer The Best Learning Method in History 2,400 Years Ahead of Its Time - metoda pytań Sokratesa
+	3. #Andrew-Huberman:
+		1. How to STUDY EFFECTIVELY ([www](https://www.youtube.com/watch?v=Ffh_6VkO0W8))
+		2. # How to LEARN ANYTHING ([www](https://www.youtube.com/watch?v=I2dm72OuK6M))
+		
+		
 	   
 # Notatki inne:
 	1. prokrastynacja
@@ -11,7 +16,7 @@
 	5. list od magdy adamczyk
 	6. LinkedIn -> Paul
 
-# Tematy do nauki:
+# Tematy do nauki elektroniki:
 1. Kurs Arduino cd
 2. Elektronika z kiązki :Elektronika dla wszysckich cd
 3. Elektornika z YT np. [The engineering experience](https://www.youtube.com/@TheEngineeringExperienceYT)
@@ -40,3 +45,4 @@
 		1. Grembos
 	7. R
 4. Norweski (angielski)
+5. Artificial intelligence - ksiazka od Luci
