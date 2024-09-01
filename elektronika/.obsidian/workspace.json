@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciekawe-kity-avt.md",
+                "file": "mk-Pomodoro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ed7e52fd8eca9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spis-elementow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciekawe-kity-avt.md",
+                "file": "Spis-elementow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciekawe-kity-avt.md",
+                "file": "Spis-elementow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciekawe-kity-avt.md"
+                "file": "Spis-elementow.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b514cf9e0e19cb9e",
+  "active": "6ed7e52fd8eca9fb",
   "lastOpenFiles": [
-    "Ciekawe-kity-avt.md",
     "mk-Pomodoro.md",
+    "Spis-elementow.md",
+    "Ciekawe-kity-avt.md",
     "Do-zrobienia-projekty.md",
     "edw/numery/edw-2020-01.md",
     "edw/numery/edw-2024-04.md",
@@ -174,7 +188,6 @@
     "edw/Programowanie.md",
     "edw/Skrzynka-porad.md",
     "edw/Feleton.md",
-    "edw/Projety-AVT***.md",
     "edw",
     "dremel/figs/561-4.JPEG",
     "dremel/figs/561-3.JPEG",

@@ -1,3 +1,5 @@
+# Projekt układu elektronicznego Pomodoro
+
 Created: 2024.08.27
 Modified: 2024.08.27
 Build: ------

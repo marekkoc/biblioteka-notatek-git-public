@@ -27,7 +27,13 @@
 | 19.  | [[SC476]]   | Cięcie                                       | EZ SpeedClic: tarcze tnące do plastiku                           | luz x5                        | 5                                     |
 | 20.  | [[wiertla]] | Wiercenie                                    | Wiertła luzem                                                    | luz x 9                       | 9                                     |
 | 21   | [[682]]     | Grawerowanie                                 | Zestaw do grawerowania szkła                                     |                               | Zestaw zawiera 8 elementów (6x1, 2x2) |
-
+| 22.  | [[83322]]   |                                              |                                                                  | [[682]] x2                    |                                       |
+| 23.  | [[84922]]   |                                              |                                                                  | [[682]] x2                    |                                       |
+| 24.  | [[7103]]    |                                              |                                                                  | [[682]] x1                    |                                       |
+| 25.  | [[7105]]    |                                              |                                                                  | [[682]] x1                    |                                       |
+| 26   | [[7144]]    |                                              |                                                                  | [[682]] x1                    | Sprawdzic bo jest juz wyzej luzem!!!  |
+| 27.  | [[7134]]    |                                              |                                                                  | [[682]] x1                    |                                       |
+| 28.  | [[220]]     |                                              |                                                                  |                               |                                       |
 
 # Kupić:
 1. [575](https://www.dremel.com/pl/pl/p/przystawka-katowa-dremel-26150575jb) - przystawka kątowa do wiercenia (tak)

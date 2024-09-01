@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2abbafcf3c80bad",
+        "id": "dda2c529595ff063",
         "type": "tabs",
         "children": [
           {
-            "id": "1d28a9c5d718c913",
+            "id": "7b784b2f3532a347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC476.md",
+                "file": "Spis-elementow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC476.md",
+                "file": "Spis-elementow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC476.md",
+                "file": "Spis-elementow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC476.md"
+                "file": "Spis-elementow.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d28a9c5d718c913",
+  "active": "7b784b2f3532a347",
   "lastOpenFiles": [
     "Spis-elementow.md",
+    "7144.md",
     "682.md",
-    "figs/682-1.png",
     "SC476.md",
+    "figs/682-1.png",
     "wiertla.md",
     "194.md",
-    "7144.md",
     "125.md",
     "figs/476-2.png",
     "figs/476-2.png.opdownload",
