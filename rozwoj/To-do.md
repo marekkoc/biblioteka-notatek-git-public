@@ -12,7 +12,7 @@
 	1. prokrastynacja
 	2. edw i ze cd
 	3. dremel
-	4. rutkowski
+	4. ---
 	5. list od magdy adamczyk
 	6. LinkedIn -> Paul
 
