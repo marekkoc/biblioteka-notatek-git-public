@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "7e7ff1cbbbad26c8",
+        "id": "d66e6f194d6f111d",
         "type": "tabs",
         "children": [
           {
-            "id": "b514cf9e0e19cb9e",
+            "id": "0b240c6168518bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mk-Pomodoro.md",
+                "file": "edw/numery/edw-2010-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ed7e52fd8eca9fb",
+            "id": "e92c3d239c3eff68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "Ciekawe-kity-avt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae6243be81cbf8ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "edw/numery/edw-2010-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b97fa871463be3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Do-kupienia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "edw/numery/edw-2010-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "edw/numery/edw-2010-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spis-elementow.md"
+                "file": "edw/numery/edw-2010-03.md"
               }
             }
           }
@@ -159,35 +183,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ed7e52fd8eca9fb",
+  "active": "ae6243be81cbf8ac",
   "lastOpenFiles": [
-    "mk-Pomodoro.md",
-    "Spis-elementow.md",
+    "edw/numery/edw-2009-08.md",
+    "edw/numery/edw-2010-02.md",
+    "Do-przeczytania.md",
+    "edw/numery/edw-2010-04.md",
+    "Do-kupienia.md",
+    "edw/numery/edw-2010-03.md",
     "Ciekawe-kity-avt.md",
+    "Spis-elementow.md",
+    "edw/Automatyka-domowa.md",
+    "edw/Czujnik-wilgotnosci-gleby.md",
+    "edw/Kurs-arduino.md",
+    "edw/System-automatyki-domowej.md",
+    "edw/Tranzystor.md",
+    "edw/Wyswietlacz-graficzny.md",
+    "edw/Zasilacz.md",
     "Do-zrobienia-projekty.md",
+    "projekty/mk-Pomodoro.md",
+    "projekty",
     "edw/numery/edw-2020-01.md",
     "edw/numery/edw-2024-04.md",
+    "edw/Inteligentny-dom.md",
     "edw/Projekty-AVT**.md",
-    "edw/zasilacz.md",
-    "edw/wyswietlacz-graficzny.md",
     "edw/Wokol-Arduino.md",
     "Do-nauczenia-sie.md",
     "edw/Rozwiazanie-zadania.md",
     "edw/numery",
-    "Do-przeczytania.md",
     "edw/Co-tu-nie-gra.md",
     "edw/Zadanie-glowne.md",
-    "dremel/546.md",
-    "edw/Arduino.md",
-    "edw/Szkola-konstruktorow.md",
-    "edw/Rozne.md",
-    "edw/MOSFET.md",
-    "edw/tranzystor.md",
-    "edw/kurs-arduino.md",
-    "edw/Kuchnia-konstruktora.md",
-    "edw/Programowanie.md",
-    "edw/Skrzynka-porad.md",
-    "edw/Feleton.md",
     "edw",
     "dremel/figs/561-4.JPEG",
     "dremel/figs/561-3.JPEG",
@@ -205,7 +230,6 @@
     "dremel/figs/4486-3.jpeg",
     "dremel/figs/4486-3.jpeg.opdownload",
     "dremel/figs/4486-2.JPEG",
-    "dremel/figs/4486-2.JPEG.opdownload",
     "dremel/figs/4486-1.png",
     "dremel/figs/628-3.JPEG"
   ]

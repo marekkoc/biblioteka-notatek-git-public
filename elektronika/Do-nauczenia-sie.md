@@ -1,6 +1,6 @@
 W tym pliku postaram się przedstawić dziedziny których powinienem się nauczyć podczas mojej nauki elektroniki
 
-1. Różne technologie które mogą być potrzebne w budowaniu [[inteligentny-dom]]  przedstawiono w odpowiedzi na listy w dziale **Poczta** w [[edw-2024-04]].
+1. Różne technologie które mogą być potrzebne w budowaniu [[Inteligentny-dom]]  przedstawiono w odpowiedzi na listy w dziale **Poczta** w [[edw-2024-04]].
 
 
 # Sprzęt
