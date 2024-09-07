@@ -1,6 +1,12 @@
 W tym pliku postaram się przedstawić dziedziny których powinienem się nauczyć podczas mojej nauki elektroniki
 
 1. Różne technologie które mogą być potrzebne w budowaniu [[Inteligentny-dom]]  przedstawiono w odpowiedzi na listy w dziale **Poczta** w [[edw-2024-04]].
+2. Aktualne kursy:
+	1. Z biznesem na Ty
+	2. Arduino
+	3. Zdrowie 2.0
+	4. Szybkie uczenie się - Barbara Oakley
+	5. Deep learning - Andrew Ng
 
 
 # Sprzęt
@@ -12,11 +18,14 @@ W tym pliku postaram się przedstawić dziedziny których powinienem się nauczy
 2. RPi
 3. ARM
 4. RISC-V
+5. 8051
+6. CPLD/FPGA
 
 # Języki programowania
 1. PHP
 2. HTML
-3. Java Script
+3. CSS
+4. Java Script
 
 # Systemy operacyjne
 1. Linux
