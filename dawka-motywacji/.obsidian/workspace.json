@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "60a741cba6adb7c9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "87327ae0d9dbe0d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
