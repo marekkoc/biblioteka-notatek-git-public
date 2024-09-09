@@ -12,6 +12,7 @@ W tym pliku postaram się przedstawić dziedziny których powinienem się nauczy
 # Sprzęt
 1. Oscyloskop
 2. Analizator logiczny
+3. JAK ZABEZPIECZYĆ INSTALACJĘ W BERGEN PRZED WYSADZENIEM KORKÓW!!!
 
 # Rodziny mikrokontrolerów
 1. STM32

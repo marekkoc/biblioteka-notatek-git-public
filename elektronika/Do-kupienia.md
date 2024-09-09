@@ -2,11 +2,12 @@
 	1. [[edw-2010-05]] - licznik zdarzeń
 2. CD5411 - x2
 	1.  [[edw-2010-05]] - licznik zdarzeń
-3. Jakieś "popularne" tranzystory:
-	1. bipolarne
-	2. polowe (N,P),
-	3. MOSFET
-	4. 
+3. BD243 (NPN)  + BD244 (PNP) - [[edw-2010-08]] : 34 : Wzmacniacze. Cześć 18. Wzmacniacz tranzystorowy
+4. IRF540 - MOSFET . [[edw-2010-08]]: 26 - taki zwyczajny zasilacz
+5. BD 249 - Darlington. [[edw-2010-08]]: 26 - taki zwyczajny zasilacz
+6. CMOS 4541 - licznik, [[edw-2010-09]]:10:2
+7. TLC074 - [[edw-2010-10]]:39 Ośla łączka, korektor barwy dzwięku
+8. LM833 -  [[edw-2010-10]]:39 Ośla łączka, korektor barwy dzwięku 
 
 # Kupione
 1. LM358 - wzmacniacz operacyjny,

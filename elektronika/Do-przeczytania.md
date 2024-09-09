@@ -27,7 +27,39 @@
 6. [[edw-2010-06]]
 	1. 25: #Robotyka #Robot-mobilny  - krok po kroku Kit-2935AVT, Część 4
 	2. 51: #Policz-rozwiazanie #Policz-167 Czas pracy z jednego zestawu baterii
-7. [[edw-2024-04]]
+7. [[edw-2010-07]]
+	1. 11: #Skrzynka-porad Pytanie 3: #Dokladnosc-pomiaru #Multimetr-cyfrowy 
+	2. 11: #Skrzynka-porad Pytanie 4: #Oscyloskop-cyfrowy #Sonda-pomiarowa #Tlumienie-sygnalu
+	3. 11: #Zasilacz-z-toroidem #Przepiecie #Uklad-opozniajacy [[edw-2007-02]]:21, [[edw-2007-06]]:18
+	4. 21: #Projekty-AVT-2g HAS - House\s Automated System Kit-2946AVT - Domowy system automatyczny #Inteligentny-dom #Domowy-system-automatyki
+	5. 26: #Robotyka #Robot-mobilny - krok po kroku. Część 5. Kit-2935AVT
+	6. 53: #Elektronika-2000 #Bateria-sloneczna 
+	7. 64: #Plytki-drukowane #Metoda-fotochemiczna 
+8. [[edw-2010-08]]
+	1. 14: #Jak-to-dziala-rozwiazanie ￼￼edw-2010-04￼￼ Prosty #Bezpiecznik-elektroniczny 
+	2. 15: #Projekty-AVT-3g Modyfikowany #Wzmacniacz-JLH #Wzmacniacz-John-Linsley-Hood 
+	3. 18: #Projekty-AVT #Sterownik-kamery-OKO Kit-2950AVT
+	4. 28: #Robotyka #Robot-mobilny - krok po kroku Część 6. Kit-2935AVT
+	5. 30: #Kuchnia-konstruktora #Taki-zwyczajny-zasilacz Część 3
+	6. 58: #Forum-czytelnikow #Strach-na-kuny
+	7. 64: #Forum-czytelnikow #Robot "Kris"
+9. [[edw-2010-09]]
+	1. 15: #Projekty-AVT-3g #System-nawigacji-satelitarnej #GPS Kit-1955AVT
+	2. 30: #Podstawy #Zasilacz-impulsowy Część 1 - Układ sterowania bramek
+	3. 35: #Osla-laczka #Elektronika-dla-poczatkujacych czyli wyprawy na oślą łączkę. EdW A07. Ćwiczenie 4. #Korektor-barwy-dzwieku 
+	4. 59: #Forum-czytelnikow Jeep z inteligentnym #System-omijania-przeszkod #Robot-mobilny 
+	5. 62: #Forum-czytelnikow #AVR + #IIC + #Kontroler = Tanie #Sterowanie #Zdalne-sterowanie 
+	6. 66: #Magazyn-elektroniki-uzytkowej #Poznac-i-zrozumiec-szprzet #Mikro-i-nanorobotyka Część 2
+10. [[edw-2010-10]]
+	1. 15: #Projekty-AVT-3g Saper - #Robot klasy #Robot-nanosumo #Robot-sumo Kit-2958AVT
+	2. 19: #Projekty-AVT-3g #Prostownik-samochodowy Kit-2957AVT
+	3. 26: #Robotyka #Robot-mobilny - krok po kroku Część 8
+	4. 28: #Podstawy #Zasilacz-impulsowy Część 2. Układy sterowania bramek
+	5. 
+11. ------
+12. ------
+13. -------
+14. [[edw-2024-04]]
 	1. str. 19 - #Czujnik-wilgotnosci-gleby  by SaS
 	2. str. 28 - Kuchnia konstruktora: Taki zwyczajny #Zasilacz - część 6 - Parametry dynamiczne
 	3. str. 33 - Programowanie: Kurs Arduino - odcinek 23
