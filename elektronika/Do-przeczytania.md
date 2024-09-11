@@ -10,10 +10,26 @@
 ## 2011
 1. [[edw-2011-01]]
 	8: #Dioda-LED #Dioda-LED-napiecie-przewodzenia #Dioda-LED-prad-przewodzenia #Dioda-LED-napiecie-progowe #Dioda-LED-rezystancja-dynamiczna 
-2. 14: #Jak-to-dziala Jakaś odmiana #Tranzystorowy-przerzutnik-bistabilny 
-3. 15: #Projekty-AVT-3g #STM32 #DSP Kit Część 1. Kit-2975AVT #ARM #Cortex-M3
-4. 21: #Projekty-AVT-2g Wysoko sprawny #Regulator-oswietlenia #Dioda-LED-mocy #Wysoka-sprawnosc Kit-2968AVT
-5. 28: #Wzmacniacz Część 23. #Wzmocnienie, wzmocnienie, wzmoenicnie
+	14: #Jak-to-dziala Jakaś odmiana #Tranzystorowy-przerzutnik-bistabilny 
+	15: #Projekty-AVT-3g #STM32 #DSP Kit Część 1. Kit-2975AVT #ARM #Cortex-M3
+	 21: #Projekty-AVT-2g Wysoko sprawny #Regulator-oswietlenia #Dioda-LED-mocy #Wysoka-sprawnosc Kit-2968AVT
+	 28: #Wzmacniacz Część 23. #Wzmocnienie, wzmocnienie, wzmoenicnie
+	 54: #Policz-rozwiazanie #Policz-174 #Zasilacz-pomocniczy #LM317 #Zasilacz-5V #Zasilacz-9V #Zasilacz-12V
+	 59: #Przetwornica-DC-DC 
+2. [[edw-2011-02]]
+	10: #Transformator #Tyrystor #Triak #Sterowanie-tyrystorem #Sterowanie-triakiem #Regulator-mocy 
+	11: #Filtrowanie #Zasilacz-filtry
+	14: #Jak-to-dziala-rozwiazanie #Uklad-z-2-tranzystorami 	
+	21: #Projekty-AVT-3g #STM32 #DSP KIT Część 2. Kit-2975AVT
+	25: #Tranzystor-MOSFET 
+	52: Pojazd z #Radar-IR #Robot-mobilny Kit-2969AVT
+	55: Prosty #Podswietlacz #Dioda-LED-RGB
+	56: Osobista #Klimatyzacja-dwustrefowa
+	
+	
+ 3. [[edw-2011-03]]
+ 4. [[edw-2011-04]]
+	 
 
 ## 2010
 1. [[edw-2010-02]]

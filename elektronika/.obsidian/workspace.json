@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edw/numery/2011/edw-2011-01.md",
+                "file": "edw/numery/2011/edw-2011-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c93f1e040a61280",
+            "id": "5ec2029cf757fce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "94ff170a60649b10",
+            "id": "0ce9b68a72593e5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dioda-LED-pasek",
+                "query": "tag:#Akwarium",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edw/numery/2011/edw-2011-01.md",
+                "file": "edw/numery/2011/edw-2011-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "edw/numery/2011/edw-2011-01.md",
+                "file": "edw/numery/2011/edw-2011-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edw/numery/2011/edw-2011-01.md"
+                "file": "edw/numery/2011/edw-2011-02.md"
               }
             }
           }
@@ -183,15 +183,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d77b36e7e6b584c",
+  "active": "2697b93309ef8cfa",
   "lastOpenFiles": [
-    "edw/numery/2010/edw-2010-08.md",
-    "edw/numery/2011/edw-2011-01.md",
-    "Do-przeczytania.md",
-    "edw/numery/2010/edw-2010-11.md",
-    "Spis-elementow.md",
-    "edw/numery/2010/edw-2010-09.md",
+    "edw/numery/2011/edw-2011-02.md",
     "Ciekawe-kity-avt.md",
+    "Do-przeczytania.md",
+    "edw/numery/2011/edw-2011-01.md",
+    "edw/numery/2010/edw-2010-07.md",
+    "edw/numery/2011/edw-2011-04.md",
+    "edw/numery/2011/edw-2011-03.md",
+    "Spis-elementow.md",
+    "().md",
+    "edw/numery/2010/edw-2010-03.md",
+    "edw/numery/2010/edw-2010-09.md",
+    "edw/numery/2010/edw-2010-08.md",
+    "edw/numery/2010/edw-2010-11.md",
     "edw/numery/2010/edw-2010-12.md",
     "edw/Czujnik-wilgotnosci-gleby.md",
     "edw/Arduino.md",
@@ -205,13 +211,7 @@
     "edw/Projekty-AVT**.md",
     "edw/Kurs-arduino.md",
     "edw/Kuchnia-konstruktora.md",
-    "edw/Co-tu-nie-gra.md",
     "edw/numery/2011",
-    "edw/Rozwiazanie-zadania.md",
-    "edw/Wokol-Arduino.md",
-    "Do-kupienia.md",
-    "edw/Wyswietlacz-graficzny.md",
-    "edw/numery/2010/edw-2010-10.md",
     "edw/numery/2007",
     "edw/numery/2024",
     "edw/numery/2020",
