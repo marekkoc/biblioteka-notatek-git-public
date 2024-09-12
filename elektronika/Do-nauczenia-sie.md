@@ -40,3 +40,10 @@ W tym pliku postaram się przedstawić dziedziny których powinienem się nauczy
 
 # Sterowniki (?)
 1. CAN
+
+# Elektronika
+1. [[edw-2010-03]] : 8:Porady - #Elektronika-jak-zaczaz-przygode 
+	1. Multiwibrator astabilny (mrugajaca dioda)
+	2. Wyłącznik zmierzchowy
+	3. Wzmacniacz akustyczny: mikrofon i głośnik
+	4. Zasilacz: regulacja napięcia wyjściowego

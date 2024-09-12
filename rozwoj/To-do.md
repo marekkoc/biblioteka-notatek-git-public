@@ -37,12 +37,12 @@
 		2. CSS
 		3. Flask / DJANGO
 	2. Algorithms
-	3. NN
+	3. Neural Networks
 	4. Qt
 	5. Signal Processing
 		1. Lyons
 	6. C++
-		1. Grembos
+		1. Grembosz
 	7. R
 4. Norweski (angielski)
 5. Artificial intelligence - ksiazka od Luci

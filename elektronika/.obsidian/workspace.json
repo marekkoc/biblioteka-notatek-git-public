@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2697b93309ef8cfa",
+            "id": "5ec2029cf757fce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edw/numery/2011/edw-2011-02.md",
+                "file": "edw/numery/2011/edw-2011-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5ec2029cf757fce5",
+            "id": "138a2ecd602090a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciekawe-kity-avt.md",
+                "file": "Do-kupienia.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Akwarium",
+                "query": "LM833",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edw/numery/2011/edw-2011-02.md",
+                "file": "edw/numery/2011/edw-2011-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "edw/numery/2011/edw-2011-02.md",
+                "file": "edw/numery/2011/edw-2011-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edw/numery/2011/edw-2011-02.md"
+                "file": "edw/numery/2011/edw-2011-03.md"
               }
             }
           }
@@ -183,19 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2697b93309ef8cfa",
+  "active": "5ec2029cf757fce5",
   "lastOpenFiles": [
-    "edw/numery/2011/edw-2011-02.md",
-    "Ciekawe-kity-avt.md",
     "Do-przeczytania.md",
+    "edw/numery/2011/edw-2011-03.md",
+    "edw/numery/2011/edw-2011-02.md",
+    "edw/numery/2011/edw-2011-04.md",
+    "Ciekawe-kity-avt.md",
+    "Spis-elementow.md",
+    "Do-kupienia.md",
+    "edw/numery/2010/edw-2010-09.md",
+    "Do-nauczenia-sie.md",
     "edw/numery/2011/edw-2011-01.md",
     "edw/numery/2010/edw-2010-07.md",
-    "edw/numery/2011/edw-2011-04.md",
-    "edw/numery/2011/edw-2011-03.md",
-    "Spis-elementow.md",
     "().md",
     "edw/numery/2010/edw-2010-03.md",
-    "edw/numery/2010/edw-2010-09.md",
     "edw/numery/2010/edw-2010-08.md",
     "edw/numery/2010/edw-2010-11.md",
     "edw/numery/2010/edw-2010-12.md",
@@ -209,8 +210,6 @@
     "edw/Rozne.md",
     "edw/Projety-AVT***.md",
     "edw/Projekty-AVT**.md",
-    "edw/Kurs-arduino.md",
-    "edw/Kuchnia-konstruktora.md",
     "edw/numery/2011",
     "edw/numery/2007",
     "edw/numery/2024",

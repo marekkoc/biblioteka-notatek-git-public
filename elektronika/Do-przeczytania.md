@@ -24,11 +24,14 @@
 	25: #Tranzystor-MOSFET 
 	52: Pojazd z #Radar-IR #Robot-mobilny Kit-2969AVT
 	55: Prosty #Podswietlacz #Dioda-LED-RGB
-	56: Osobista #Klimatyzacja-dwustrefowa
-	
-	
- 3. [[edw-2011-03]]
- 4. [[edw-2011-04]]
+	56: Osobista #Klimatyzacja-dwustrefowa 
+3. [[edw-2011-03]]
+	 10: #Ogniwa #Podwyzszenie-napiecia #Transformator 
+	 14: #Jak-to-dziala-rozwiazanie ￼￼edw-2010-11￼￼ #Regulator-poziomu-cieczy 
+	 25: #Projekty-AVT-3g #STM32 #DSP KIT Część 3. Kit-2975AVT
+	 
+ 1. [[edw-2011-04]]
+ 2. 
 	 
 
 ## 2010
