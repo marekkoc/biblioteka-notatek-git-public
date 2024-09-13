@@ -1,4 +1,6 @@
 1. #BD249 - Darlington. [[edw-2010-08]]: 26 - taki zwyczajny zasilacz
+2. #LM35 - Precyzyjny czujnik temperatury [[edw-2011-03]]:60
+3. #PT100 - czujnik temperatury
 
 
 # Kupione

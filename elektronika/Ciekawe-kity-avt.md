@@ -18,11 +18,13 @@ AVT-1996 - Bedlight - sterownik oświetlenia nocnego z czujką ruchy (reklama: e
 
 # Do przeczytania
 AVT-513 - Zegar ze 100−letnim kalendarzem i dwukanałowym termometrem ([pdf](https://serwis.avt.pl/manuals/AVT513.pdf))
+[AVT-769](https://sklep.avt.pl/pl/products/lampka-z-sygnalizatorem-rozmrozenia-lodowki-migacz-led-lampka-czasowa-zlutowany-avt769-185991.html?query_id=4) -  Lampka z sygnalizatorem rozmrożenia lodówki. Migacz LED. Lampka czasowa ([pdf](https://serwis.avt.pl/manuals/AVT769.pdf))
 [AVT-925](https://sklep.avt.pl/pl/products/karta-przekaznikow-na-usb-kit-avt925-168630.html?query_id=29) - Karta przekaźników na USB, zlutowany([pdf](https://serwis.avt.pl/manuals/AVT925.pdf), [materialy](https://serwis.avt.pl/files/AVT925.zip),  [produkt](https://sklep.avt.pl/pl/products/modul-przekaznikow-sterowanych-przez-port-usb-avtmod04-175706.html?query_id=29), [sterowniki](https://www.ftdichip.com/Drivers/VCP.htm))
 [AVT-950/1 ](https://sklep.avt.pl/pl/products/termostat-elektroniczny-z-niebieskim-wyswietlaczem-zlutowany-avt950-1-175153.html?query_id=21)- Termostat elektroniczny z niebieskim wyświetlaczem, zlutowany ([pdf](https://serwis.avt.pl/manuals/AVT950_1.pdf))
 [AVT-1525](https://sklep.avt.pl/pl/products/sterownik-unipolarnego-silnika-krokowego-kit-avt1525-175756.html?query_id=27) - Sterownik #Unipolarny-silnik-krokowy([pdf](https://serwis.avt.pl/manuals/AVT1525.pdf))
 [AVT-1585](https://sklep.avt.pl/pl/products/sterownik-bipolarnego-silnika-krokowego-kit-avt1585-177625.html?query_id=34) - Sterownik #Bipolarny-silnik-krokowy([pdf](https://serwis.avt.pl/manuals/AVT1585.pdf))
 [AVT1595](https://sklep.avt.pl/pl/products/miniaturowy-konwerter-usb-uart-rs232-kit-avt1595-177680.html?query_id=30) - Miniaturowy konwerter USB - UART (RS232) ([pdf](https://serwis.avt.pl/manuals/AVT1595.pdf))
+[AVT2139](https://sklep.avt.pl/pl/products/strach-na-krety-kit-avt2139-165097.html?query_id=3) - Strach na krety ([pdf](https://serwis.avt.pl/manuals/AVT2139.pdf)) 
 [AVT-5094](https://sklep.avt.pl/pl/products/bezprzewodowy-regulator-temperatury-pcb-i-mikroprocesor-do-projektu-avt5094-165491.html?query_id=32) - Bezprzewodowy regulator temperatury ([pdf](https://sklep.avt.pl/pl/products/bezprzewodowy-regulator-temperatury-pcb-i-mikroprocesor-do-projektu-avt5094-165491.html?query_id=32))
 [AVT-5185](https://serwis.avt.pl/manuals/AVT5185.pdf) - Volumer materiały na CD Elektroniczny potencjometr audio ([pdf](https://serwis.avt.pl/manuals/AVT5185.pdf))
 [AVT-5230](https://sklep.avt.pl/pl/products/rejestrator-temperatury-z-usb-kit-avt5230-176660.html?query_id=22) - Rejestrator temperatury z USB ([pdf](https://serwis.avt.pl/manuals/AVT5230.pdf), [materialy](https://serwis.avt.pl/files/AVT5230.zip))

@@ -29,9 +29,19 @@
 	 10: #Ogniwa #Podwyzszenie-napiecia #Transformator 
 	 14: #Jak-to-dziala-rozwiazanie ￼￼edw-2010-11￼￼ #Regulator-poziomu-cieczy 
 	 25: #Projekty-AVT-3g #STM32 #DSP KIT Część 3. Kit-2975AVT
-	 
- 1. [[edw-2011-04]]
- 2. 
+	 56: #Luksomierz Kit-2974AVT
+	 59: Prosta #Lampa-pierscieniowa makro
+	 60: #Termometr-RGB #ATiny #LM35 #PT100 	 
+4. [[edw-2011-04]]
+   10: #Kluczowanie-Keying #Modulacja #PSK #AM-Amplitude-Modulation #FM-Frequency-Modulation #PM-Phase-Modulation #OOK-On-Off-Keying #PSK-Phase-Shift-Keying #BPSK-Binary-Phase-Shift-Keying #QPSK-4-PSK #16-PSK
+   12: #Jak-to-dziala-rozwiazanie [[edw-2010-12]] #Monitor-pradu-obciazenia
+   58: #Lampa-CCFL, #Lampa-EEFL Część 1
+   60: #Domowy-warsztat 
+   
+1. [[edw-2011-05]]
+2. [[edw-2011-06]]
+3. [[edw-2011-07]]
+4. 
 	 
 
 ## 2010
