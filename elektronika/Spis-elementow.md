@@ -47,7 +47,7 @@
 | 6.  | #TL071   |                         | 3     |
 | 7.  | #TL072   |                         | 6     |
 | 8.  | #TL082C  |                         | 3     |
-| 9.  | #NE5532  | #wzmacniasz-sluchawkowy | 1     |
+| 9.  | #NE5532  | #Wzmacniasz-sluchawkowy | 1     |
 | 10. | #ICL7611 |                         | 1     |
 
 

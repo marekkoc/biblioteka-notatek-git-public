@@ -8,19 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ec2029cf757fce5",
+            "id": "7ccfc3ac5ae77b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edw/numery/2011/edw-2011-02.md",
+                "file": "edw/numery/2011/edw-2011-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d12ba5572c1ed9f",
+            "id": "2fba438be71fe3ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "edw/numery/2011/edw-2011-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ce9b68a72593e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Do-przeczytania.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca75e52641d27f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,19 +80,18 @@
             }
           },
           {
-            "id": "0ce9b68a72593e5d",
+            "id": "0c5643356e64e122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Do-przeczytania.md",
+                "file": "Do-obejrzenia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Mikrofon-krzemowy",
+                "query": "tag:#Transformator-praadu-stalego",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "edw/numery/2011/edw-2011-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "edw/numery/2011/edw-2011-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "edw/numery/2011/edw-2011-09.md"
+              }
             }
           }
         ]
@@ -194,32 +221,33 @@
   },
   "active": "0d77b36e7e6b584c",
   "lastOpenFiles": [
-    "edw/numery/2011/edw-2011-02.md",
-    "edw/numery/2011/edw-2011-04.md",
+    "edw/numery/2011/edw-2011-08.md",
+    "edw/numery/2011/edw-2011-09.md",
     "Do-przeczytania.md",
     "Ciekawe-kity-avt.md",
-    "edw/numery/2011/edw-2011-03.md",
     "Do-kupienia.md",
+    "edw/numery/2011/edw-2011-07.md",
     "edw/numery/2010/edw-2010-05.md",
+    "edw/numery/2011/edw-2011-06.md",
+    "().md",
+    "Untitled",
     "Spis-elementow.md",
+    "edw/numery/2011/edw-2011-03.md",
+    "edw/numery/2011/edw-2011-05.md",
+    "edw/numery/2011/edw-2011-04.md",
+    "Do-obejrzenia.md",
+    "edw/numery/2011/edw-2011-02.md",
     "edw/numery/2010/edw-2010-10.md",
     "edw/numery/2010/edw-2010-09.md",
     "Do-nauczenia-sie.md",
     "edw/numery/2011/edw-2011-01.md",
     "edw/numery/2010/edw-2010-07.md",
-    "().md",
     "edw/numery/2010/edw-2010-03.md",
     "edw/numery/2010/edw-2010-08.md",
     "edw/numery/2010/edw-2010-11.md",
     "edw/numery/2010/edw-2010-12.md",
     "edw/Czujnik-wilgotnosci-gleby.md",
     "edw/Arduino.md",
-    "edw/Inteligentny-dom.md",
-    "edw/Lampy.md",
-    "edw/Lutowanie.md",
-    "edw/Szkola-konstruktorow.md",
-    "edw/System-automatyki-domowej.md",
-    "edw/Rozne.md",
     "edw/numery/2011",
     "edw/numery/2007",
     "edw/numery/2024",
@@ -231,7 +259,6 @@
     "edw",
     "dremel/figs/561-4.JPEG",
     "dremel/figs/561-3.JPEG",
-    "dremel/figs/561-4.JPEG.opdownload",
     "dremel/figs/114-2.png",
     "dremel/figs/114-3.JPEG",
     "dremel/figs/114-4.JPEG",

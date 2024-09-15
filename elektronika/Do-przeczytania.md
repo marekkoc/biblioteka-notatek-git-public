@@ -36,13 +36,38 @@
    10: #Kluczowanie-Keying #Modulacja #PSK #AM-Amplitude-Modulation #FM-Frequency-Modulation #PM-Phase-Modulation #OOK-On-Off-Keying #PSK-Phase-Shift-Keying #BPSK-Binary-Phase-Shift-Keying #QPSK-4-PSK #16-PSK
    12: #Jak-to-dziala-rozwiazanie [[edw-2010-12]] #Monitor-pradu-obciazenia
    58: #Lampa-CCFL, #Lampa-EEFL Część 1
-   60: #Domowy-warsztat 
-   
-1. [[edw-2011-05]]
-2. [[edw-2011-06]]
-3. [[edw-2011-07]]
-4. 
-	 
+   60: #Domowy-warsztat    
+5. [[edw-2011-05]]
+	8: #Z-forum-Elportalu: Pomysły na #Obudowy-DIY
+	13: #Projekty-AVT-2g #Wzmacniacz-lampowy #Lampowy-wzmacniacz-sluchawkowy
+	56: #Teczowy-tancerz
+	57: #Dzwiek-transmiter 
+	58: #Wlacznik-dotykowy
+6.  [[edw-2011-06]]
+	10: #Zasilacz-wlasciwosci #Zasilacz-obciazenie #Brum-sieci-100Hz 
+	12: #Jak-to-dziala-rozwiazanie ￼￼edw-2011-02￼￼ #Wzmacniacz-roznicowy 
+	10: #Zasilacz-wlasciwosci #Zasilacz-obciazenie #Brum-sieci-100Hz 16: #Projekty-AVT-2g #Kolorofon-RGB #Dioda-LED-RGB-sterownik 
+	46: #Co-tu-nie-gra-zadanie #Nie-gra-184 #Uklad-ze-wzmacniaczem-operacyjnym #Wzmacniacz-do-fotodiody
+	46: #Co-tu-nie-gra-rozwiazanie #Nie-gra-179 #zrodlo-pradowe - błędne
+	56: #Karta-przekaznikow-LPT #Przystawka-do-PC #Przekaznik-sterowanie-LPT
+	58: #Plytki-testowe #Plyta-eksperymentalna-CMOS	
+7. [[edw-2011-07]]
+	10: #Wskaznik-wysterowania 
+	11: #Wzmacniacz-operacyjny #Wzmacniacz-odwracajacy 
+	12: #Jak-to-dziala-rozwiazanie #Wtornik-o-duzej-impedancji-wejsciowej
+	51: #Termometr-2-kanalowy Kit-2982AVT
+	54: #Kalkulator-binarny 
+	56: 3rd edition - #Robot-zdalnie-sterowany #Podczerwien \
+8. [[edw-2011-08]]
+	 12: #Jak-to-dziala-rozwiazanie [[edw-2011-04]] #Sygnalizator-otwartej-lodowki
+	 17:  #Projekty-AVT-2g Energooszczędny #Miernik-stezenia-tlenku-wegla #Czujnik-elektrochemiczny 
+	 53: Mini #Termometr-uniwersalny Kit-2985AVT #Termometr-dwukanalowy 
+	 56: Fade to Green. Kit-2984AVT #Gadzet-swietlny #Dioda-LED 
+	 58: #Sejsmometr #Czujnik-tensometryczny
+	 60: #Plytki-drukowane #Plytki-drukowane-prasowalnica  #Miniwiertarka #Zadanie-172 #Metoda-termotransferu 
+
+
+
 
 ## 2010
 1. [[edw-2010-02]]
@@ -64,7 +89,7 @@
 4. [[edw-2010-05]]
 	1. 21: #Projekty-AVT-3g #Nagrzewnica-indukcyjna 1kW Kit-2940AVT
 	2. 29: #Programowanie Obsługa #Port-rownolegly komputera PC w #Jezyk-C z poziomu #Linux 
-	3. 58: #Forum-czytelnikow 2nd edition - #Robot-zdanlie-sterowany #RC5 
+	3. 58: #Forum-czytelnikow 2nd edition - #Robot-zdalnie-sterowany #RC5 
 	4. 62: #Plytki-drukowane Domowa soldermaska
 5. [[edw-2010-06]]
 	1. 25: #Robotyka #Robot-mobilny  - krok po kroku Kit-2935AVT, Część 4
@@ -120,4 +145,6 @@
 	2. 48: #Elektronika-2000 IRguard - alarm turystyczny Kit-2910AVT
 	3. 58: #Forum-czytelnikow Multiled - czyli jak można oszczędnie wykorzystać porty mikrokontrolera
 	4. 62: #Podstawy Miara logarytmiczna i decybele #Logarytm #Decybel
+
+
 
