@@ -65,7 +65,26 @@
 	 56: Fade to Green. Kit-2984AVT #Gadzet-swietlny #Dioda-LED 
 	 58: #Sejsmometr #Czujnik-tensometryczny
 	 60: #Plytki-drukowane #Plytki-drukowane-prasowalnica  #Miniwiertarka #Zadanie-172 #Metoda-termotransferu 
-
+9. [[edw-2011-09]]
+	13: #Projekty-AVT-2g #Wyswietlacz-tekstowy-LED 
+	18: MaxSter - #Komputerowy-sterownik-oswietlenia Kit-2986AVT
+	51: OneLogger  - #Rejestrator-meteorologiczny #Pomiar-temperatury #Pomiar-cisnienia-atmosferycznego #Przystawka-do-PC #Port-USB
+	54: #Termometr-LCD
+	59: #Zasilacz-paraboliczny #Przystawka-do-zasilacza 
+10. [[edw-2011-10]]
+	12: #Jak-to-dziala-rozwiazanie ￼￼edw-2011-06￼￼ #Bufor #Wtornik-o-duzej-impedancji-wejsciowej 
+	13: #Projekty-AVT-3g #Mikroprocesorowy-sterownik-akwarium-cykl część 1 #Sterownik-akwarium
+	44: #Co-tu-nie-gra-rozwiazanie #Nie-gra-183 #Lampa-automatyczna-LED #Fotorezystor 
+	50: #Projekty-AVT-2g #Sygnalizator-temperatury-kotla-CO Kit-2990AVT
+	52: #Projekty-AVT-3g #Detonator #Zapalnik-elektroniczny 
+	54: #Zasilacz do #Szarotka 
+	56: #Alarm-analogowy
+	57: Lewitron #Lewitacja-magnetyczna 
+	59: Prosty #Prostownik 
+	60: #Nawijarka-do-cewek 
+	62: #Domowa-soldermaska 
+	
+	
 
 
 
