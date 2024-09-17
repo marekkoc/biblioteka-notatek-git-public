@@ -7,6 +7,26 @@
 	4. Programowanie: Wokol-Arduino- Wyświetlacze graficzne część 6.
 
 
+## 2012
+1. [[edw-2012-01]]
+	18: #Projekty-AVT-2g #Tablica-swietlna 32x5
+	50: Mój prościutki #Line-followe #Robot-mobilny 
+	52: #Termostat-do-trawiarki-PCB  #Drukowanie-plytek-PCB  #Plytki-drukowane 
+	54: #Detektor-pola-elektromagnetycznego 
+	59: #Lampa-nocna-dla-dziecka
+	
+1. [[edw-2012-02]]
+2. [[edw-2012-03]]
+3. [[edw-2012-04]]
+4. [[edw-2012-05]]
+5. [[edw-2012-06]]
+6. [[edw-2012-07]]
+7. [[edw-2012-08]]
+8. [[edw-2012-09]]
+9. [[edw-2012-10]]
+10. [[edw-2012-11]]
+11. [[edw-2012-12]]
+
 ## 2011
 1. [[edw-2011-01]]
 	8: #Dioda-LED #Dioda-LED-napiecie-przewodzenia #Dioda-LED-prad-przewodzenia #Dioda-LED-napiecie-progowe #Dioda-LED-rezystancja-dynamiczna 
@@ -75,7 +95,7 @@
 	12: #Jak-to-dziala-rozwiazanie ￼￼edw-2011-06￼￼ #Bufor #Wtornik-o-duzej-impedancji-wejsciowej 
 	13: #Projekty-AVT-3g #Mikroprocesorowy-sterownik-akwarium-cykl część 1 #Sterownik-akwarium
 	44: #Co-tu-nie-gra-rozwiazanie #Nie-gra-183 #Lampa-automatyczna-LED #Fotorezystor 
-	50: #Projekty-AVT-2g #Sygnalizator-temperatury-kotla-CO Kit-2990AVT
+	50: #Projekty-AVT-2g #Sygnalizator-temperatury-kotla-centralnego-ogrzewania Kit-2990AVT
 	52: #Projekty-AVT-3g #Detonator #Zapalnik-elektroniczny 
 	54: #Zasilacz do #Szarotka 
 	56: #Alarm-analogowy
@@ -83,11 +103,16 @@
 	59: Prosty #Prostownik 
 	60: #Nawijarka-do-cewek 
 	62: #Domowa-soldermaska 
-	
-	
-
-
-
+11. [[edw-2011-11]]
+	23: #Projekty-AVT-3g #Mikroprocesorowy-sterownik-akwarium-cykl część 2
+	54: #Sterownik-lampek-choinkowych
+	60: #Telefon-GSM jako prosty ekran #Emulator-klawiatury-matrycowej 
+12. [[edw-2011-12]]
+	10: #Zabezpiecznie-ukladow-230V-przed-uszkodzniem #Bezpiecznik #Warystor #Terminstor #Wlacznik-roznicowopradowy #Bezpiecznik-polimerowy 
+	13: #Projekty-AVT-2g #Termometr-SMS #Sterowanie-za-pomoca-GSM 
+	26: #Wzmacniacz Część 34. #Wzmacniacz-przebiegi-elementarne 
+	47:  #Co-tu-nie-gra-rozwiazanie #Nie-gra-184 #Sygnalizator-poziomu-wody  
+	58: #Fototheremin #Generator #Fotorezystor 
 ## 2010
 1. [[edw-2010-02]]
 	1. #Robotyka Robot dla każdego, czyli także dla Ciebie. cz.1, Kit-2935AVT 

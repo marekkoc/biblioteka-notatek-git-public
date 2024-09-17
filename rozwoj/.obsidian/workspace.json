@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-do.md",
+                "file": "codzienne/2024-08-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dez",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do.md",
+                "file": "codzienne/2024-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do.md",
+                "file": "codzienne/2024-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do.md"
+                "file": "codzienne/2024-08-25.md"
               }
             }
           }
@@ -160,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87e14cdc62d1669b",
+  "active": "58b8340b3bcd6653",
   "lastOpenFiles": [
-    "codzienne/2024-08-25.md",
+    "codzienne/2024-08-22.md",
     "To-do.md",
+    "codzienne/2024-08-25.md",
     "zrodla-filmy-materialy.md",
     "Python-programmer-filmy.md",
     "8 powodów prokrastynacji.md",
@@ -172,7 +173,6 @@
     "codzienne/2024-08-26.md",
     "ksiazki",
     "Ptython-programmer.md",
-    "codzienne/2024-08-22.md",
     "Untitled.canvas",
     "codzienne/2024-08-23.md",
     "2024-08-22.md",
