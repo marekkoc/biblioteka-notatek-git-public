@@ -1,7 +1,5 @@
-1. #BD249 - Darlington. [[edw-2010-08]]: 26 - taki zwyczajny zasilacz
-2. #LM35 - Precyzyjny czujnik temperatury [[edw-2011-03]]:60
-3. #PT100 - czujnik temperatury. 
-6. #CMOS4541 - licznik, [[edw-2010-09]]:10:2
+1. #PT100 - czujnik temperatury. 
+
 
 
 # Kupione
@@ -20,6 +18,9 @@
 	1. [[edw-2010-05]] - licznik zdarzeń
 10. #CD5411 - x2 ---> CD 4511
 	1.  [[edw-2010-05]] - licznik zdarzeń
+11. #BD249 - Darlington. [[edw-2010-08]]: 26 - taki zwyczajny zasilacz
+12. #LM35 - Precyzyjny czujnik temperatury [[edw-2011-03]]:60
+13. #CMOS4541 - licznik, [[edw-2010-09]]:10:2
    
    
 	   

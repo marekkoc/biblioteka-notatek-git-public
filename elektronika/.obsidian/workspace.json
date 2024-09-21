@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edw/numery/2012/edw-2012-01.md",
+                "file": "edw/numery/2012/edw-2012-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Odstraszacz",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edw/numery/2012/edw-2012-01.md",
+                "file": "edw/numery/2012/edw-2012-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "edw/numery/2012/edw-2012-01.md",
+                "file": "edw/numery/2012/edw-2012-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edw/numery/2012/edw-2012-01.md"
+                "file": "edw/numery/2012/edw-2012-04.md"
               }
             }
           }
@@ -209,17 +209,21 @@
   },
   "active": "bcb4f98855143f44",
   "lastOpenFiles": [
+    "Do-obejrzenia.md",
+    "edw/numery/2012/edw-2012-04.md",
     "Do-przeczytania.md",
+    "edw/numery/2012/edw-2012-02.md",
+    "edw/numery/2012/edw-2012-03.md",
     "edw/numery/2012/edw-2012-01.md",
-    "Ciekawe-kity-avt.md",
     "Spis-elementow.md",
     "Do-kupienia.md",
+    "Ciekawe-kity-avt.md",
+    "edw/numery/2010/edw-2010-06.md",
+    "edw/numery/2011/edw-2011-02.md",
     "edw/numery/2011/edw-2011-12.md",
     "edw/numery/2011/edw-2011-09.md",
-    "edw/numery/2011/edw-2011-02.md",
     "edw/numery/2011/edw-2011-11.md",
     "edw/numery/2012/edw-2012-12.md",
-    "edw/numery/2012/edw-2012-02.md",
     "edw/numery/2012/edw-2012-11.md",
     "edw/numery/2012/edw-2012-09.md",
     "edw/numery/2012/edw-2012-10.md",
@@ -227,15 +231,11 @@
     "edw/numery/2012/edw-2012-08.md",
     "edw/numery/2012/edw-2012-06.md",
     "edw/numery/2012/edw-2012-05.md",
-    "edw/numery/2012/edw-2012-04.md",
-    "edw/numery/2012/edw-2012-03.md",
     "edw/numery/2012",
     "edw/numery/2011/edw-2011-10.md",
     "edw/numery/2011/edw-2011-03.md",
     "edw/numery/2010/edw-2010-10.md",
     "kurczak.md",
-    "edw/numery/2010/edw-2010-06.md",
-    "edw/numery/2010/edw-2010-09.md",
     "edw/numery/2011",
     "edw/numery/2007",
     "edw/numery/2024",

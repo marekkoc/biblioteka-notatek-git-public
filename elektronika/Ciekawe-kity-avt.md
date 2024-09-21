@@ -30,6 +30,7 @@ AVT-513 - Zegar ze 100−letnim kalendarzem i dwukanałowym termometrem ([pdf](h
 [AVT-1613](https://sklep.avt.pl/pl/products/regulator-obrotow-wentylatora-230v-kit-avt1613-178037.html) - Regulator obrotów wentylatora 230V ([pdf](https://serwis.avt.pl/manuals/AVT1613.pdf), [wideo](https://sklep.avt.pl/settings.php?getAttachmentp=22474_178037_c644b2badea62f54ce34f8618dc3e134))
 [AVT-1615](https://sklep.avt.pl/pl/products/avtduino-lcd-wyswietlacz-dla-arduino-kit-avt1615-178034.html?query_id=11) - AVTduino LCD - wyświetlacz dla Arduino ([pdf](https://serwis.avt.pl/manuals/AVT1615.pdf))
 [AVT-1616](https://sklep.avt.pl/pl/products/wyswietlacz-led-dla-arduino-kit-avt1616-178055.html?query_id=8) - Wyświetlacz LED dla Arduino ([pdf](https://serwis.avt.pl/manuals/AVT1616.pdf))
+[AVT-1655](https://sklep.avt.pl/pl/products/miniaturowy-wlacznik-zmierzchowy-kit-avt1655-178250.html) - Miniaturowy włącznik zmierzchowy ([pdf](https://serwis.avt.pl/manuals/AVT1655.pdf), [wideo](https://sklep.avt.pl/settings.php?getAttachmentp=22480_178250_cce575882d071d56cea340045ffb876b))
 [AVT-1656](https://sklep.avt.pl/pl/products/uniwersalny-modul-wykonawczy-kit-avt1656-178256.html?query_id=21)  - Uniwersalny moduł wykonawczy ([pdf](https://serwis.avt.pl/manuals/AVT1656.pdf))
 [AVT-1722](https://serwis.avt.pl/manuals/AVT1615.pdf) - AVTduino miniLCD - miniaturowy panel operatora dla Arduino ([pdf](https://serwis.avt.pl/manuals/AVT1722.pdf) ,[video](https://sklep.avt.pl/settings.php?getAttachmentp=22495_166980_7653be939b9965abebbf5df577a253c8))
 [AVT2139](https://sklep.avt.pl/pl/products/strach-na-krety-kit-avt2139-165097.html?query_id=3) - Strach na krety ([pdf](https://serwis.avt.pl/manuals/AVT2139.pdf)) 
@@ -39,6 +40,7 @@ AVT-513 - Zegar ze 100−letnim kalendarzem i dwukanałowym termometrem ([pdf](h
 [AVT-5233 ](https://sklep.avt.pl/pl/products/3-kanalowy-woltomierz-z-usb-kit-avt5233-176911.html?query_id=22)- 3-kanałowy woltomierz z USB ([pdf](https://serwis.avt.pl/manuals/AVT5233.pdf), [materialy](https://serwis.avt.pl/files/AVT5233.zip))
 [AVT-5240](https://serwis.avt.pl/manuals/AVT5240.pdf) - Komputerowy sterownik LED ([pdf](https://serwis.avt.pl/files/AVT5233.zip))
 [AVT-5250](https://sklep.avt.pl/pl/products/karta-przekaznikow-z-interfejsem-ethernet-kit-avt5250-177450.html) - Karta przekaźników z interfejsem Ethernet ([pdf](https://serwis.avt.pl/manuals/AVT5250.pdf), [mateialy](https://serwis.avt.pl/files/AVT5250.zip))
+[AVT-5300](https://sklep.avt.pl/pl/products/vmod-miniaturowy-miernik-napiecia-kit-avt5300-178114.html?query_id=2) - VMOD miniaturowy miernik napięcia ([pdf](https://serwis.avt.pl/manuals/AVT5300.pdf))
 [AVT-6013](https://sklep.avt.pl/pl/products/wskaznik-wysterowania-2x8-led-kit-avt6013-190327.html) - Wskaźnik wysterowania 2×8 LED ([pdf](https://serwis.avt.pl/manuals/AVT6013.pdf))
 
 

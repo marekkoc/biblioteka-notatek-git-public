@@ -10,22 +10,36 @@
 ## 2012
 1. [[edw-2012-01]]
 	18: #Projekty-AVT-2g #Tablica-swietlna 32x5
-	50: Mój prościutki #Line-followe #Robot-mobilny 
+	50: Mój prościutki #Line-follower #Robot-mobilny 
 	52: #Termostat-do-trawiarki-PCB  #Drukowanie-plytek-PCB  #Plytki-drukowane 
 	54: #Detektor-pola-elektromagnetycznego 
-	59: #Lampa-nocna-dla-dziecka
-	
-1. [[edw-2012-02]]
-2. [[edw-2012-03]]
-3. [[edw-2012-04]]
-4. [[edw-2012-05]]
-5. [[edw-2012-06]]
-6. [[edw-2012-07]]
-7. [[edw-2012-08]]
-8. [[edw-2012-09]]
-9. [[edw-2012-10]]
-10. [[edw-2012-11]]
-11. [[edw-2012-12]]
+	59: #Lampa-nocna-dla-dziecka	
+2. [[edw-2012-02]]
+	1: #Kino-domowe-wzmacniacz  #Kino-domowe-5p1 #Kino-domowe-przedwzmacniacz #Potencjometr-6-sekcyjny #Cyfrowy-potencjometr-elektroniczny #Potencjometr-audio #Potencjometr-logarytmiczny #Regulator-glosnosci-wielokanalowy
+	12: #Jak-to-dziala-rozwiazanie ￼￼edw-2011-10￼￼ #Uklad-ze-wzmacniaczem-operacyjnym #Uklad-z-2-tranzystorami #Tranzystor-polowy-JFET #Tranzystor-MOSFET 
+	13: #Projekty-AVT #Wyswietlacz-widmowy-sferyczny #Holografia 
+	32: #Elektronika-dla-poczatkujacych czyli wyprawy na oślą łączkę Ćwicznie 5. #Potencjometr-elektroniczny 
+	55: #Sterownik-aparatu-fotograficznego #Sterownik-fotografii-dlugoterminowej
+3. [[edw-2012-03]]
+	1. 8: ==www.robokids.pl - robotyka dla dzieci ... własna działalność!!!!==
+	2. 13: Po prostu... #Trawiarka #Plytki-drukowane #Drukowanie-plytek-PCB  
+	3. 18: #Higrostat-elektroniczny Kit-3026AVT #Czujnik-wilgotnosci 
+	4. 49: #Analizator-dzwieku #K8098 
+	5.  50: #Termostaty-cyfrowy-regulowany Kit-3025AVT
+	6.   54: #Oswietlenie-RGB 
+	7. 55: Moja #Plytka-testowa
+	8. 56: #Rower-alarm znietypowym uzbrojeniem
+	9.  60: #Parametry-diod-LED-cykl  część 2
+4. [[edw-2012-04]]
+	1. 10: #CD4541 - timer, op
+5. [[edw-2012-05]]
+6. [[edw-2012-06]]
+7. [[edw-2012-07]]
+8. [[edw-2012-08]]
+9. [[edw-2012-09]]
+10. [[edw-2012-10]]
+11. [[edw-2012-11]]
+12. [[edw-2012-12]]
 
 ## 2011
 1. [[edw-2011-01]]
