@@ -33,7 +33,9 @@ AVT-513 - Zegar ze 100−letnim kalendarzem i dwukanałowym termometrem ([pdf](h
 [AVT-1655](https://sklep.avt.pl/pl/products/miniaturowy-wlacznik-zmierzchowy-kit-avt1655-178250.html) - Miniaturowy włącznik zmierzchowy ([pdf](https://serwis.avt.pl/manuals/AVT1655.pdf), [wideo](https://sklep.avt.pl/settings.php?getAttachmentp=22480_178250_cce575882d071d56cea340045ffb876b))
 [AVT-1656](https://sklep.avt.pl/pl/products/uniwersalny-modul-wykonawczy-kit-avt1656-178256.html?query_id=21)  - Uniwersalny moduł wykonawczy ([pdf](https://serwis.avt.pl/manuals/AVT1656.pdf))
 [AVT-1722](https://serwis.avt.pl/manuals/AVT1615.pdf) - AVTduino miniLCD - miniaturowy panel operatora dla Arduino ([pdf](https://serwis.avt.pl/manuals/AVT1722.pdf) ,[video](https://sklep.avt.pl/settings.php?getAttachmentp=22495_166980_7653be939b9965abebbf5df577a253c8))
+[AVT-1689](https://sklep.avt.pl/pl/products/przekaznikowy-wylacznik-czasowy-kit-avt1689-166277.html?query_id=2) - Przekaźnikowy wyłącznik czasowy ([pdf](https://serwis.avt.pl/manuals/AVT1689.pdf), [wideo](https://sklep.avt.pl/settings.php?getAttachmentp=22488_166277_278441fec795c447eacfc69e174b7189))
 [AVT2139](https://sklep.avt.pl/pl/products/strach-na-krety-kit-avt2139-165097.html?query_id=3) - Strach na krety ([pdf](https://serwis.avt.pl/manuals/AVT2139.pdf)) 
+[AVT-3035](https://sklep.avt.pl/pl/products/strach-na-krety-antykret-z-5-efektami-dzwiekowymi-pcb-i-mikroprocesor-do-projektu-avt3035-178515.html?query_id=7) - Strach na krety - antykret z 5 efektami dźwiękowymi([pdf](https://serwis.avt.pl/manuals/AVT3035.pdf))
 [AVT-5094](https://sklep.avt.pl/pl/products/bezprzewodowy-regulator-temperatury-pcb-i-mikroprocesor-do-projektu-avt5094-165491.html?query_id=32) - Bezprzewodowy regulator temperatury ([pdf](https://sklep.avt.pl/pl/products/bezprzewodowy-regulator-temperatury-pcb-i-mikroprocesor-do-projektu-avt5094-165491.html?query_id=32))
 [AVT-5185](https://serwis.avt.pl/manuals/AVT5185.pdf) - Volumer materiały na CD Elektroniczny potencjometr audio ([pdf](https://serwis.avt.pl/manuals/AVT5185.pdf))
 [AVT-5230](https://sklep.avt.pl/pl/products/rejestrator-temperatury-z-usb-kit-avt5230-176660.html?query_id=22) - Rejestrator temperatury z USB ([pdf](https://serwis.avt.pl/manuals/AVT5230.pdf), [materialy](https://serwis.avt.pl/files/AVT5230.zip))
@@ -46,6 +48,8 @@ AVT-513 - Zegar ze 100−letnim kalendarzem i dwukanałowym termometrem ([pdf](h
 
 # Układy do zrealizaowania:
 1. Forum-czytelnikow: Licznik-zdarzen - motywator bezmikroprocesorowy [[edw-2010-05]]
+2. [4017](https://i.ytimg.com/vi/D0CPXh-ycvk/maxresdefault.jpg) 
+3. [[edw-2012-08]] 50: #Licznik-do-gier
 
 
 # Kursy

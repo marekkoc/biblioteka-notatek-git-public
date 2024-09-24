@@ -1,4 +1,5 @@
 1. #PT100 - czujnik temperatury. 
+2. uA723 - regulator napiecia
 
 
 

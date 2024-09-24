@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "LM38",
+  "search": "2g",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.46822130772747883,
-  "close": false
+  "scale": 1.5802469135802402,
+  "close": true
 }

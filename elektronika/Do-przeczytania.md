@@ -31,12 +31,53 @@
 	8. 56: #Rower-alarm znietypowym uzbrojeniem
 	9.  60: #Parametry-diod-LED-cykl  część 2
 4. [[edw-2012-04]]
-	1. 10: #CD4541 - timer, op
+	1. 10: #CD4541 - timer, opis, #Uniwibrator
+	2.   48: #Lampka-rowerowa #AVT-3030 
+	3. : 50: #Czujnik-poziomu-cieczy-pojemnosciowy #AVT-3029
+	4. 53: #Makieta-edukacyjna 
+	5. 56: #Alarm-wodny-GSM 
+	6. 57: #Czyna - niezwykły metal
+	7.   66: #Projektowanie-pod-EAGLE-cykl Część 3. Warstwy i kolory. #EAGLE 
+	8. 
 5. [[edw-2012-05]]
+	1. 15: #Projekty-AVT-3g #Galaxy-soccer-2012 część 1
+	2. 21: #Projekty-AVT-3g #Lampka-rowerowa z wbudowanym #Swiatlo-STOP 
+	3. 39: #Policz-rozwiazanie #Policz-190 #Monofoniczy-system-naglasniajacy 
+	4. 46: #Distortion-plus #AVT-3031 
+	5. 50: Czarny kostur czyli elektoniczny płonący kij #Wyswietlacz-widmowy #Dioda-LED-RGB 
+	6. 52: Moje doświadczenia z #Akcelerometr 
+	7. 54: #Sterownik-kolejki Moduł lokomotywy i zwrotnica
+	8. 62: #Cynowanie-PCB-domowy-sposob
+	9. 66: #Projektowanie-pod-EAGLE-cykl Część 4 - warstwy i kolory dla dociekliwych
 6. [[edw-2012-06]]
+	1. 45: #Budzik-wspomagacz 
+	2. 46: #Samochodowy-licznik-dzienny 
+	3. 52: #Termostat-do-trawiarki-PCB  #Sterownik-trwaiarki #Trawiarka-B327 #AVT-3033 
 7. [[edw-2012-07]]
+	1.  12: #USB-jako-zrodlo-zasilania #USB-Universal-Serial-Bus #USB-podstawy #USB-porady-praktyczne 
+	2. 12: #Neonowka #Neonowka-podstawy 
+	3. 13: #Dioda-LED-mocy #Dioda-LED-mocy-sterowanie-impulsowe #Dioda-LED-sterowanie-PWM
+	4. 44: #Optyczny-czujnik-zblizeniowy #K8092
+	5. 46: #AntyKret #Strach-na-krety #AVT-3035
+	6. 50: #Zamek-gestowy #AVT-3036 
+	7. 53: #Mikrofon-pomiarowy 
+	8. 54: #Swiecacy-domek-serduszko 
 8. [[edw-2012-08]]
+	1. 46: #Projekty-AVT-1g #Minisystem-audio-dla-seniora
+	2. 48: #Selektor-wejsc 
+	3. 50: #Licznik-do-gier 
+	4. 54: #Robotyka-amatorska-cykl część 1
+	5. 56: #Chropowata-kalafonia #Kalafonia 
+	6. 57: #Nietypowe-obudowy-cykl część 2
+	7. 58: Ekspresowe #Tworzenie-dokumentacji-rysunkowej w #EAGLE #Dokumentacja 
+	8. 61: #Projektowanie-pod-EAGLE-cykl część 2 #Podstawy-EAGLE-cykl Realizacja płytki
 9. [[edw-2012-09]]
+	1. 17: #Projekty-AVT-2g #EcoBlue #Robotyka #Robot-mobilny 
+	2. 22: #Projekty-AVT-2g Nie bój się #Mikroporcesor-kod-RC5 #Kod-RC5 
+	3. 44: #Policz-rozwiazanie #Policz-194 #Przelacznik-5cio-pozycyjny #Decybel 
+	4. 53: #Zegar-binarny 
+	5. 55: #Mikroprocesorowa-centrala-alarmowa #ATmega8515 
+	6. 
 10. [[edw-2012-10]]
 11. [[edw-2012-11]]
 12. [[edw-2012-12]]
