@@ -79,6 +79,9 @@
 	5. 55: #Mikroprocesorowa-centrala-alarmowa #ATmega8515 
 	6. 
 10. [[edw-2012-10]]
+	1. 53: Nietypowe eksperymenty #Przetwarzanie-dzwiekow
+	2. 55: #Plytki-drukowane #Plytki-drukowane-metoda-domowa
+	3. 56: #Wiercenie-otworow 
 11. [[edw-2012-11]]
 12. [[edw-2012-12]]
 

@@ -11,8 +11,12 @@
             "id": "b8cd0545f08d44b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sugestie-RRutkowskiego.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sugestie-RRutkowskiego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sugestie-RRutkowskiego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sugestie-RRutkowskiego.md"
+              }
             }
           }
         ]
@@ -140,10 +148,10 @@
   },
   "active": "b8cd0545f08d44b6",
   "lastOpenFiles": [
+    "Next.md",
+    "Dezyderata.md",
     "Instytut Rybny.md",
     "sugestie-RRutkowskiego.md",
-    "Dezyderata.md",
-    "Next.md",
     "Welcome.md"
   ]
 }

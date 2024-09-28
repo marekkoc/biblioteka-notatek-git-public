@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edw/numery/2012/edw-2012-09.md",
+                "file": "edw/numery/2012/edw-2012-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Nietypowa-obudowa",
+                "query": "kab",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edw/numery/2012/edw-2012-09.md",
+                "file": "edw/numery/2012/edw-2012-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "edw/numery/2012/edw-2012-09.md",
+                "file": "edw/numery/2012/edw-2012-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edw/numery/2012/edw-2012-09.md"
+                "file": "edw/numery/2012/edw-2012-11.md"
               }
             }
           }
@@ -208,12 +209,14 @@
   },
   "active": "bcb4f98855143f44",
   "lastOpenFiles": [
-    "edw/numery/2012/edw-2012-08.md",
     "edw/numery/2012/edw-2012-09.md",
+    "edw/numery/2012/edw-2012-11.md",
+    "edw/numery/2012/edw-2012-08.md",
     "edw/numery/2012/edw-2012-07.md",
+    "edw/numery/2012/edw-2012-10.md",
+    "Do-przeczytania.md",
     "edw/numery/2011/edw-2011-11.md",
     "Ciekawe-kity-avt.md",
-    "Do-przeczytania.md",
     "Spis-elementow.md",
     "Do-kupienia.md",
     "edw/numery/2010/edw-2010-11.md",
@@ -230,8 +233,6 @@
     "edw/numery/2011/edw-2011-02.md",
     "edw/numery/2011/edw-2011-12.md",
     "edw/numery/2012/edw-2012-12.md",
-    "edw/numery/2012/edw-2012-11.md",
-    "edw/numery/2012/edw-2012-10.md",
     "edw/numery/2012",
     "edw/numery/2011/edw-2011-10.md",
     "edw/numery/2011/edw-2011-03.md",

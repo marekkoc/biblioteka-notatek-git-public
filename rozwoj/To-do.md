@@ -37,12 +37,16 @@
 		2. CSS
 		3. Flask / DJANGO
 	2. Algorithms
-	3. Neural Networks
+	3. Neural Networks / AI
+		1. FastAI
 	4. Qt
 	5. Signal Processing
 		1. Lyons
-	6. C++
+	6. Analiza danych
+		1. Książka Sigurd (ta od Przemka Barańskiego)
+		2. 
+	7. C++
 		1. Grembosz
-	7. R
+	
 4. Norweski (angielski)
 5. Artificial intelligence - ksiazka od Luci

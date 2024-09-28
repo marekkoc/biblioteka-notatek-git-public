@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codzienne/2024-08-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87e14cdc62d1669b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codzienne/2024-08-25.md",
+                "file": "zrodla-filmy-materialy.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dez",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codzienne/2024-08-25.md",
+                "file": "zrodla-filmy-materialy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codzienne/2024-08-25.md",
+                "file": "zrodla-filmy-materialy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codzienne/2024-08-25.md"
+                "file": "zrodla-filmy-materialy.md"
               }
             }
           }
@@ -162,14 +149,15 @@
   },
   "active": "58b8340b3bcd6653",
   "lastOpenFiles": [
-    "codzienne/2024-08-22.md",
     "To-do.md",
-    "codzienne/2024-08-25.md",
-    "zrodla-filmy-materialy.md",
     "Python-programmer-filmy.md",
-    "8 powodów prokrastynacji.md",
+    "dawka-motywacji.md",
+    "codzienne/2024-08-25.md",
+    "codzienne/2024-08-22.md",
     "Prokrastynacja.md",
+    "8 powodów prokrastynacji.md",
     "ksiazki/2018xOakley_Ucz-sie-szybko-i-skutecznie.md",
+    "zrodla-filmy-materialy.md",
     "codzienne/2024-08-26.md",
     "ksiazki",
     "Ptython-programmer.md",
