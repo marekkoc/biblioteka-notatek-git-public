@@ -8,7 +8,7 @@ tags:
 
 ## Przebieg
 Linki:
-1. [Aiderr](https://aider.chat)s AI pair programming in your terminal
+1. [Aider](https://aider.chat)s AI pair programming in your terminal
 2. Przeglądarka internetowa: [Perplexity](https://www.perplexity.ai)
 
 
