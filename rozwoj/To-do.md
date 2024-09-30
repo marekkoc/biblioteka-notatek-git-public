@@ -14,39 +14,7 @@
 	3. dremel
 	4. ---
 	5. list od magdy adamczyk
-	6. LinkedIn -> Paul
-
-# Tematy do nauki elektroniki:
-1. Kurs Arduino cd
-2. Elektronika z kiązki :Elektronika dla wszysckich cd
-3. Elektornika z YT np. [The engineering experience](https://www.youtube.com/@TheEngineeringExperienceYT)
-4. edw 
-5. ze
 
 
-# Moje Priorytety - czego chce sie uczyc?
-1. Elektronika
-	1. Arduino
-	2. Mikroprocesory - książka
-	3. układy cyfrowe - np. krus na Forbot
-	4. PLD i Xilinx - kurs na Forbot - na sprartanie
-2. Czytanie
-3. Python 
-	1. Web App
-		1. HTML
-		2. CSS
-		3. Flask / DJANGO
-	2. Algorithms
-	3. Neural Networks / AI
-		1. FastAI
-	4. Qt
-	5. Signal Processing
-		1. Lyons
-	6. Analiza danych
-		1. Książka Sigurd (ta od Przemka Barańskiego)
-		2. 
-	7. C++
-		1. Grembosz
-	
-4. Norweski (angielski)
-5. Artificial intelligence - ksiazka od Luci
+
+

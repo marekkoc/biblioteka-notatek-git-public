@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edw/Lutowanie.md",
+                "file": "Do-zrobienia-projekty.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edw/Lutowanie.md",
+                "file": "Do-zrobienia-projekty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "edw/Lutowanie.md",
+                "file": "Do-zrobienia-projekty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edw/Lutowanie.md"
+                "file": "Do-zrobienia-projekty.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "138a2ecd602090a9",
   "lastOpenFiles": [
+    "edw/Lutowanie.md",
     "edw/Lampy.md",
     "edw/Inteligentny-dom.md",
     "edw/Czujnik-wilgotnosci-gleby.md",
@@ -205,7 +206,6 @@
     "edw/numery/2012/edw-2012-02.md",
     "edw/numery/2012/edw-2012-04.md",
     "Do-obejrzenia.md",
-    "edw/numery/2012/edw-2012-03.md",
     "edw/numery/2012",
     "edw/numery/2011",
     "edw/numery/2007",
