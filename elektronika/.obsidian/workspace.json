@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcb4f98855143f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "edw/numery/2012/edw-2012-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b06c3144551a6d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Do-przeczytania.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca75e52641d27f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciekawe-kity-avt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "138a2ecd602090a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Do-kupienia.md",
+                "file": "edw/Lutowanie.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edw/numery/2012/edw-2012-11.md",
+                "file": "edw/Lutowanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "edw/numery/2012/edw-2012-11.md",
+                "file": "edw/Lutowanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edw/numery/2012/edw-2012-11.md"
+                "file": "edw/Lutowanie.md"
               }
             }
           }
@@ -207,20 +170,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcb4f98855143f44",
+  "active": "138a2ecd602090a9",
   "lastOpenFiles": [
-    "edw/numery/2012/edw-2012-09.md",
+    "edw/Lampy.md",
+    "edw/Inteligentny-dom.md",
+    "edw/Czujnik-wilgotnosci-gleby.md",
+    "Screenshot from 2024-09-29 20-53-58.png",
+    "figs/cvinhais-strona-graf.png",
+    "figs",
+    "templates/wzorzec rozmowy.md",
+    "cvinaish/cvinais-strony-www.md",
+    "Untitled.canvas",
+    "Ciekawe-kity-avt.md",
+    "Do-przeczytania.md",
+    "templates",
+    "projekty/mk-Pomodoro.md",
+    "templates",
+    "cvinaish",
+    "edw/numery/2008/edw-2008-02.md",
+    "edw/numery/2008",
     "edw/numery/2012/edw-2012-11.md",
+    "edw/numery/2012/edw-2012-09.md",
     "edw/numery/2012/edw-2012-08.md",
     "edw/numery/2012/edw-2012-07.md",
     "edw/numery/2012/edw-2012-10.md",
-    "Do-przeczytania.md",
     "edw/numery/2011/edw-2011-11.md",
-    "Ciekawe-kity-avt.md",
     "Spis-elementow.md",
     "Do-kupienia.md",
     "edw/numery/2010/edw-2010-11.md",
-    "edw-2008-02.md",
     "edw/numery/2011/edw-2011-09.md",
     "edw/numery/2012/edw-2012-05.md",
     "edw/numery/2012/edw-2012-06.md",
@@ -229,32 +206,18 @@
     "edw/numery/2012/edw-2012-04.md",
     "Do-obejrzenia.md",
     "edw/numery/2012/edw-2012-03.md",
-    "edw/numery/2010/edw-2010-06.md",
-    "edw/numery/2011/edw-2011-02.md",
-    "edw/numery/2011/edw-2011-12.md",
-    "edw/numery/2012/edw-2012-12.md",
     "edw/numery/2012",
-    "edw/numery/2011/edw-2011-10.md",
-    "edw/numery/2011/edw-2011-03.md",
     "edw/numery/2011",
     "edw/numery/2007",
     "edw/numery/2024",
     "edw/numery/2020",
-    "edw/numery/2010",
-    "edw/numery/2009",
-    "projekty",
-    "edw/numery",
-    "edw",
     "dremel/figs/561-4.JPEG",
     "dremel/figs/561-3.JPEG",
     "dremel/figs/114-2.png",
     "dremel/figs/114-3.JPEG",
     "dremel/figs/114-4.JPEG",
-    "Untitled.canvas",
     "dremel/figs/114-1.png",
     "dremel/figs/4486-3.jpeg",
-    "dremel/figs/4486-2.JPEG",
-    "dremel/figs/4486-1.png",
-    "dremel/figs/628-3.JPEG"
+    "dremel/figs/4486-2.JPEG"
   ]
 }
