@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ce89f88e99a0e2b4",
+        "id": "0cea38529f0d1d09",
         "type": "tabs",
         "children": [
           {
-            "id": "58b8340b3bcd6653",
+            "id": "e43c08ff5f7d00be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zrodla-filmy-materialy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zrodla-filmy-materialy.md",
+                "file": "dawka-motywacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zrodla-filmy-materialy.md",
+                "file": "dawka-motywacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zrodla-filmy-materialy.md"
+                "file": "dawka-motywacji.md"
               }
             }
           }
@@ -147,18 +143,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58b8340b3bcd6653",
+  "active": "bde0b68550010b94",
   "lastOpenFiles": [
-    "To-do.md",
     "Prokrastynacja.md",
-    "Python-programmer-filmy.md",
+    "zrodla-filmy-materialy.md",
+    "To-do.md",
     "dawka-motywacji.md",
+    "Python-programmer-filmy.md",
     "8 powodów prokrastynacji.md",
     "ksiazki/2018xOakley_Ucz-sie-szybko-i-skutecznie.md",
     "figs/20240822.png",
     "codzienne/2024-08-25.md",
     "codzienne/2024-08-22.md",
-    "zrodla-filmy-materialy.md",
     "codzienne/2024-08-26.md",
     "ksiazki",
     "Ptython-programmer.md",

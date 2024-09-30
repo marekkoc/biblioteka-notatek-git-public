@@ -13,13 +13,6 @@
 1. #Nelson-Dellis: # [5 MEMORY TIPS TO GET YOU STARTED](https://www.youtube.com/watch?v=bEx60e_45-Q)
 2. 
 ---
-
-# Robienie notatek
-#robienie-notatek
-
----
-
-
 # Pisanie
 #pisanie
 1. #Python-programmer:[The Best Learning Tool in History](https://www.youtube.com/watch?v=lML0ndFlBuc&t=31s) - 400 years ahead of its time!
