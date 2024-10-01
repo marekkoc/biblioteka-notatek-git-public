@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Do-zrobienia-projekty.md",
+                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Do-zrobienia-projekty.md",
+                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Do-zrobienia-projekty.md",
+                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Do-zrobienia-projekty.md"
+                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md"
               }
             }
           }
@@ -172,6 +172,12 @@
   },
   "active": "138a2ecd602090a9",
   "lastOpenFiles": [
+    "Do-obejrzenia.md",
+    "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
+    "ksiazki/1986xNuhrman-technika-cyfrowa",
+    "Do-zrobienia-projekty.md",
+    "Untitled",
+    "ksiazki",
     "edw/Lutowanie.md",
     "edw/Lampy.md",
     "edw/Inteligentny-dom.md",
@@ -203,14 +209,8 @@
     "edw/numery/2012/edw-2012-05.md",
     "edw/numery/2012/edw-2012-06.md",
     "edw/numery/2012/edw-2012-01.md",
-    "edw/numery/2012/edw-2012-02.md",
-    "edw/numery/2012/edw-2012-04.md",
-    "Do-obejrzenia.md",
     "edw/numery/2012",
     "edw/numery/2011",
-    "edw/numery/2007",
-    "edw/numery/2024",
-    "edw/numery/2020",
     "dremel/figs/561-4.JPEG",
     "dremel/figs/561-3.JPEG",
     "dremel/figs/114-2.png",

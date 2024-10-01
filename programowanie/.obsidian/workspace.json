@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorytmy/midpoint-circle-algorithm.md",
+                "file": "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorytmy/midpoint-circle-algorithm.md",
+                "file": "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorytmy/midpoint-circle-algorithm.md",
+                "file": "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorytmy/midpoint-circle-algorithm.md"
+                "file": "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "2dba1473e5afb6a6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "python-programmer/Python-Programmer-I-have-read-over-100-books-on-Python.md",
+    "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
     "algorytmy/midpoint-circle-algorithm.md",
+    "Untitled.md",
     "algorytmy/midpoint-circle-algorithm-3.md",
     "algorytmy/midpoint-circle-algorithm-2.md",
     "templates/algorytm-opis.md",
@@ -160,9 +162,7 @@
     "python-programmer",
     "create a link.md",
     "Welcome.md",
-    "python-programmer/Python-Programmer-I-have-read-over-100-books-on-Python.md",
     "algorytmy",
-    "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
     "figs/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
     "figs/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.png",
     "figs/Screenshot from 2024-09-28 12-46-10.png",
