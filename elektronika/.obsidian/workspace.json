@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "138a2ecd602090a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "464bd3cf4f7586b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "zagadnienia/sygnal-cyfrowy.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kab",
+                "query": "tag:Tranzystorowy-przerzutnik-bistabilny",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
+                "file": "zagadnienia/sygnal-cyfrowy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
+                "file": "zagadnienia/sygnal-cyfrowy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md"
+                "file": "zagadnienia/sygnal-cyfrowy.md"
               }
             }
           }
@@ -170,13 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "138a2ecd602090a9",
+  "active": "464bd3cf4f7586b1",
   "lastOpenFiles": [
-    "Do-obejrzenia.md",
+    "zagadnienia/monostabilny-vs-bistabilny.md",
+    "zagadnienia/sygnal-cyfrowy.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
+    "Spis-elementow.md",
+    "templates/notatka-ogolna.md",
+    "templates/wzorzec rozmowy.md",
+    "zagadnienia",
+    "Do-obejrzenia.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa",
     "Do-zrobienia-projekty.md",
-    "Untitled",
     "ksiazki",
     "edw/Lutowanie.md",
     "edw/Lampy.md",
@@ -185,7 +178,6 @@
     "Screenshot from 2024-09-29 20-53-58.png",
     "figs/cvinhais-strona-graf.png",
     "figs",
-    "templates/wzorzec rozmowy.md",
     "cvinaish/cvinais-strony-www.md",
     "Untitled.canvas",
     "Ciekawe-kity-avt.md",
@@ -202,13 +194,9 @@
     "edw/numery/2012/edw-2012-07.md",
     "edw/numery/2012/edw-2012-10.md",
     "edw/numery/2011/edw-2011-11.md",
-    "Spis-elementow.md",
     "Do-kupienia.md",
     "edw/numery/2010/edw-2010-11.md",
     "edw/numery/2011/edw-2011-09.md",
-    "edw/numery/2012/edw-2012-05.md",
-    "edw/numery/2012/edw-2012-06.md",
-    "edw/numery/2012/edw-2012-01.md",
     "edw/numery/2012",
     "edw/numery/2011",
     "dremel/figs/561-4.JPEG",

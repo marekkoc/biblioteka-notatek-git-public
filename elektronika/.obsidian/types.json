@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Data": "datetime",
-    "Uczestnicy": "multitext"
+    "Uczestnicy": "multitext",
+    "Utworzono": "datetime",
+    "Zmodyfikowano": "datetime"
   }
 }

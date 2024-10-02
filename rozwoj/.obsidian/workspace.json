@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-do.md",
+                "file": "dawka-motywacji.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do.md",
+                "file": "dawka-motywacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do.md",
+                "file": "dawka-motywacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do.md"
+                "file": "dawka-motywacji.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "e43c08ff5f7d00be",
   "lastOpenFiles": [
+    "To-do.md",
     "Prokrastynacja.md",
     "zrodla-filmy-materialy.md",
-    "To-do.md",
     "dawka-motywacji.md",
     "Python-programmer-filmy.md",
     "8 powodów prokrastynacji.md",
