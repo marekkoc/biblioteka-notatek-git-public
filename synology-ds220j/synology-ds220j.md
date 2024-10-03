@@ -8,7 +8,7 @@ Zmodyfikowano: 2023.09.30
 
 ==DSM== - DiskStation Manager
 
-==NAS== - Networ Attached Strorage  czyli **sieciowa pamięć masowa**. Jest to urządzenie podłączone do sieci, które umożliwia przechowywanie i udostępnianie danych w sieci lokalnej (np. w domu, biurze) lub zdalnie przez Internet.
+==NAS== - Network Attached Strorage  czyli **sieciowa pamięć masowa**. Jest to urządzenie podłączone do sieci, które umożliwia przechowywanie i udostępnianie danych w sieci lokalnej (np. w domu, biurze) lub zdalnie przez Internet.
 
 Podstawowe cechy NAS:
 

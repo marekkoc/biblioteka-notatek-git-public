@@ -7,6 +7,8 @@ tags:
 ## Sygnał cyfrowy
 Sygnał w którym informacje odczytuje się na podstawie oddzielnie sprawdzonych sygnałów elektrycznych. Każda pojedyncza informacja jest reprezentowana przez jeden sygnał w którym są rozróżniane tylko dwa stany: TAK lub NIE. Sygnał taki jest przesyłany oddzielnym przewodem i może jednocześnie reprezentować stan jednego wyjścia układu scalonego. 
 
+W technice cyfrowej **przekazywanie informacji** odbywa się za pomocą odpowiedniej kombinacji sygnałów (tzw. kodu) o dwóch różniących się poziomach napięcia pojawiających się na jednym lub kilku przewodach (wyjściach)e [1, str. 21].
+
 
 
 

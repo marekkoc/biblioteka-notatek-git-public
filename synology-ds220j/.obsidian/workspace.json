@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synology-ds220j.md",
+                "file": "konfiguracja-serwera-www.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "synology-ds220j.md",
+                "file": "konfiguracja-serwera-www.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "synology-ds220j.md",
+                "file": "konfiguracja-serwera-www.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synology-ds220j.md"
+                "file": "konfiguracja-serwera-www.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "e106ed4dc86cb551",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "konfiguracja-serwera-www.md",
+    "synology-ds220j.md",
+    "templates/notatka-ogolna.md",
     "figs/synology-220j-ogolne.png",
-    "figs",
-    "synology-ds220j.md"
+    "figs"
   ]
 }
