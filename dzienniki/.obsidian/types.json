@@ -4,7 +4,9 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Data": "datetime",
-    "Uczestnicy": "multitext",
+    "Początek dnia": "text",
+    "Dobry dzień (?)": "checkbox",
+    "Aktywność fizyczna": "checkbox",
     "Utworzono": "datetime",
     "Zmodyfikowano": "datetime",
     "Dzidedzina rozmowy": "multitext"
