@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zagadnienia/sygnal-cyfrowy.md",
+                "file": "templates/notatka-ogolna.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zagadnienia/sygnal-cyfrowy.md",
+                "file": "templates/notatka-ogolna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zagadnienia/sygnal-cyfrowy.md",
+                "file": "templates/notatka-ogolna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zagadnienia/sygnal-cyfrowy.md"
+                "file": "templates/notatka-ogolna.md"
               }
             }
           }
@@ -160,12 +160,12 @@
   },
   "active": "464bd3cf4f7586b1",
   "lastOpenFiles": [
-    "zagadnienia/monostabilny-vs-bistabilny.md",
+    "templates/notatka-z-rozmowy.md",
+    "templates/notatka-ogolna.md",
     "zagadnienia/sygnal-cyfrowy.md",
+    "zagadnienia/monostabilny-vs-bistabilny.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
     "Spis-elementow.md",
-    "templates/notatka-ogolna.md",
-    "templates/wzorzec rozmowy.md",
     "zagadnienia",
     "Do-obejrzenia.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa",

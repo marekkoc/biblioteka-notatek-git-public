@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rozmowy/abt-aider-perplexity.md",
+                "file": "rozmowy/ABT-aider-perplexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rozmowy/abt-aider-perplexity.md",
+                "file": "rozmowy/ABT-aider-perplexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rozmowy/abt-aider-perplexity.md",
+                "file": "rozmowy/ABT-aider-perplexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rozmowy/abt-aider-perplexity.md"
+                "file": "rozmowy/ABT-aider-perplexity.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "69b6c31734110c6b",
   "lastOpenFiles": [
-    "templates/notatka-ogolna.md",
     "templates/notatka-ze-spotkania.md",
-    "rozmowy/abt-aider-perplexity.md",
+    "rozmowy/abt-aider-perplexity-2.md",
+    "templates/notatka-ogolna.md",
     "kursy-deep-lerning.md",
     "templates",
     "Welcome.md",

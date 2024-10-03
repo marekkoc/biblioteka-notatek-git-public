@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dff5bba64d04a5ce",
+        "id": "583206deb62da7b9",
         "type": "tabs",
         "children": [
           {
-            "id": "65765df43ab0daeb",
+            "id": "289c11d486dbf969",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "rozmowy/AM-sugestie-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "rozmowy/AM-sugestie-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "rozmowy/AM-sugestie-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "rozmowy/AM-sugestie-1.md"
               }
             }
           },
@@ -161,9 +161,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "65765df43ab0daeb",
+  "active": "289c11d486dbf969",
   "lastOpenFiles": [
+    "templates/notatka-z-rozmowy.md",
+    "rozmowy/AM-sugestie-1.md",
+    "rozmowy/ABT-aider-perplexity.md",
+    "templates/notatka-ogolna.md",
+    "templates/dziennik-wzorzec.md",
+    "rozmowy",
+    "2024-10-02.md",
     "2024-09-29.md",
+    "Untitled.md",
     "Welcome.md",
     "www.onet.pl.md"
   ]

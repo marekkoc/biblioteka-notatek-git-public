@@ -11,12 +11,8 @@
             "id": "2dba1473e5afb6a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md"
+                "file": "cvinaish/cvinais-strony-www-1.md"
               }
             }
           }
@@ -147,10 +141,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dba1473e5afb6a6",
+  "active": "4d43bf17528105a4",
   "lastOpenFiles": [
-    "python-programmer/Python-Programmer-I-have-read-over-100-books-on-Python.md",
     "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
+    "python-programmer/Python-Programmer-I-have-read-over-100-books-on-Python.md",
     "algorytmy/midpoint-circle-algorithm.md",
     "Untitled.md",
     "algorytmy/midpoint-circle-algorithm-3.md",
