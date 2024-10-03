@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cvinaish/cvinais-strony-www-1.md",
+                "file": "HTML/01-getting-started.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Synology-jako-serwer-www",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cvinaish/cvinais-strony-www-1.md",
+                "file": "HTML/01-getting-started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cvinaish/cvinais-strony-www-1.md",
+                "file": "HTML/01-getting-started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cvinaish/cvinais-strony-www-1.md"
+                "file": "HTML/01-getting-started.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "e106ed4dc86cb551",
   "lastOpenFiles": [
+    "figs/moja-strona-www-szkic.jpeg",
     "konfiguracja-serwera-www.md",
-    "Untitled.canvas",
     "synology-ds220j.md",
+    "cvinaish/cvinais-strony-www-1.md",
+    "HTML/01-getting-started.md",
+    "HTML",
+    "figs/cvinhais-strona-graf.png",
+    "Untitled.canvas",
     "templates/notatka-ogolna.md",
     "figs/synology-220j-ogolne.png",
     "figs"

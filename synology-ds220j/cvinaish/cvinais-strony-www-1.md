@@ -5,7 +5,7 @@ Uczestnicy:
   - Carlos Vinhais
 Uwagi: 
 tags:
-  - "#tworzenie-mojej-strony-www"
+  - "#Tworzenie-mojej-strony-www"
 ---
 ## Temat rozmowy
 1. Tworzenie stron www, server Synology, hosting stron www
