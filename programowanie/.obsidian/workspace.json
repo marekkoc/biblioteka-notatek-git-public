@@ -11,8 +11,12 @@
             "id": "2dba1473e5afb6a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "python-programmer/python-programmer-best-sql-books.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "python-programmer/python-programmer-best-sql-books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "python-programmer/python-programmer-best-sql-books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "python-programmer/python-programmer-best-sql-books.md"
+              }
             }
           }
         ],
@@ -139,18 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d43bf17528105a4",
+  "active": "2dba1473e5afb6a6",
   "lastOpenFiles": [
-    "python-programmer/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
-    "python-programmer/Python-Programmer-I-have-read-over-100-books-on-Python.md",
-    "algorytmy/midpoint-circle-algorithm.md",
+    "figs/ksiazka-beaulieu-learning-sql.png",
+    "figs/ksiazka-debarros-practical-sql.png",
+    "figs/Screenshot from 2024-10-05 14-50-09.png",
+    "figs/learning-sql-beaulieu.png",
+    "figs/Screenshot from 2024-10-05 14-47-52.png",
+    "python-programmer/python-programmer-i-have-read-over-100-books-on-Python.md",
+    "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
+    "python-programmer/python-programmer-best-sql-books.md",
+    "figs/python-programmer-sql-books.png",
+    "figs/Screenshot from 2024-10-05 14-41-59.png",
+    "python-programmer/python-programmer-filmy.md",
     "Untitled.md",
+    "templates/notatka-ogolna.md",
+    "algorytmy/midpoint-circle-algorithm.md",
     "algorytmy/midpoint-circle-algorithm-3.md",
     "algorytmy/midpoint-circle-algorithm-2.md",
     "templates/algorytm-opis.md",
     "templates",
     "templates",
-    "python-programmer/Python-programmer-filmy.md",
     "python-programmer",
     "create a link.md",
     "Welcome.md",
@@ -160,12 +177,6 @@
     "figs/Screenshot from 2024-09-28 12-46-10.png",
     "figs/Python-Programmer-I-have-read-over-100-books-on-Python.png",
     "figs/ksiazka-harrison-effective-pandas-2.png",
-    "figs/ksiazka-harrison-effective-pandas.png",
-    "figs/ksiazka-vaughan-python-tools-for-scientists.png",
-    "figs/ksiazka-hill-learning-scientific-programming.png",
-    "figs/ksiazka-learning-scientific-programming.png",
-    "figs/ksiazka-roughgarden-algorithms-illuminated.png",
-    "figs/ksiazka-kopec-classic-computer-science-problems.png",
     "figs"
   ]
 }

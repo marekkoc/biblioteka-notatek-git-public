@@ -5,6 +5,8 @@
     "tags": "tags",
     "Data utworzenia": "date",
     "Data modyfikacji": "datetime",
-    "Źródło": "checkbox"
+    "Źródło": "checkbox",
+    "Utworzono": "datetime",
+    "Zmodyfikowano": "datetime"
   }
 }
