@@ -1,6 +1,6 @@
 ---
 Utworzono: 2024-10-03T16:20:00
-Zmodyfikowano: 2024-10-03T20:46:00
+Zmodyfikowano: 2024-10-05T00:43:00
 tags:
   - Tworzenie-mojej-strony-www
 ---
@@ -118,7 +118,19 @@ Napiszmy teraz pierwszy kod, który między innymi wyświetla obrazek.
     <title>My test page</title>
   </head>
   ​￼<body>
-    <img src="" alt="My test image" />
+    <img src="" alt="To jeste ja na Urliken" />
   </body>
 </html>
 ```
+
+Parametry obrazów które wstawiamy są opisane tutaj: [description of the image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#authoring_meaningful_alternate_descriptions)
+
+
+# [Postawy HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+**HTML** to skrót od pełnej nazwy: *Hyper Text Markup Language*. HTML jest kodem który jest stosowany do strukturyzowania  stron www i ich zawartości.  Treść strony www może mieć strukturę:
+ - paragrafów,
+ - wypunktowanej listy,
+ - obrazów,
+ - zbioru tabel. 
+W tym paragrafie zawrzemy podstawowe wyjaśnienie HTML jak i jego funkcji.
