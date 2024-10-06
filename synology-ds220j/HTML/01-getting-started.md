@@ -134,3 +134,30 @@ Parametry obrazów które wstawiamy są opisane tutaj: [description of the image
  - obrazów,
  - zbioru tabel. 
 W tym paragrafie zawrzemy podstawowe wyjaśnienie HTML jak i jego funkcji.
+
+HTML jest językiem znacznikowym, który definiuje w ten sposób strukturę zawartości strony. HTML składa się z serii **elementów**, które zawierają, owijają, poszczególne elementy zawartości strony, aby wyglądały w określony sposób, lub aby zachowały się w określony sposób- w taki w jaki chcemy.
+
+### [Element](https://developer.mozilla.org/en-US/docs/Glossary/Element)
+
+*Element* jest częścią strony internetowej. W języku XML lub HTML element może zawierać jednostkę danych, trochę tekstu, obrazek lub może być też pusty - nic nie zawierać. Typowo, element składa się z ***tagu otwierającego*** z opcjonalnymi atrybutami, zawartością tekstową oraz ***tagu zamykającego***.
+
+![[element-struktura.png]]
+
+*Element* i tag to są dwie różne rzeczy. *Tag* zaczyna i kończy *element* jaki część jego kodu źródłowego.
+
+*Tagi* ograniczające *element* mogą zamieścić w tekście lub obrazku odnośnik do innego miejsca np. do strony internetowej, mogą zamienić tekst w kursywę, zmienić rozmiar tekstu itd. 
+
+Aby zapisać następujący tekst w języku HTML:
+
+```html
+Mój kot jest wredny
+```
+ musimy zastosować odpowiednią strukturę - element i ograniczyć treść naszego zdania odpowiednimi tagami, co w całości stworzy *element*.
+
+```html
+<p>Mój kot jest wredny</p>
+```
+
+#### Budowa elementu HTML
+
+![[element-anatomia.png]]

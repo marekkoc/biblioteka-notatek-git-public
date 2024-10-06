@@ -1,5 +1,11 @@
 
-1. 
+1. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
+   
+   Powtarzanie tego samego procesu, dokładnie w tej samej formie każdego dnia, jest dla mnie ważne. Jest to forma hipnotyzowania siebie. Aby osiągnąć stan głębokiej koncentracji, potrzebuję regularności”. 
+	Unika nadmiernych rozproszeń, co pomaga mu skupić się na pracy i bieganiu
+	
+- Haruki Murakami.
+ 
 2. Urodzić się głupcem to nie wstyd. Wstyd tylko głupcem umierać. - #Erich-Maria-Remarque
 3. Należy się wystrzegać pouczania młodych ludzi, że tradycyjnie rozumiany sukces stanowi główny cel życia. Najważniejszą motywacją w edukacji i w życiu jest przyjemność płynąca z pracy, przyjemność płynąca z jej owoców oraz świadomość znaczenia, jakie one mają dla całej społeczności. - #Albert-Einstein
 4. ==NIE SZUKAJ WIĘCEJ ŹRÓDEŁ. TE ŹRÓDŁA W ZUPEŁNOŚCI WYSTARCZĄ. ZACZNIJ PRACOWAĆ I PISAĆ STRONĘ. INACZEJ WPADNIESZ W PUŁAPKĘ CIĄGŁEGO SZUKANIA!!!== #Python-programmer 
