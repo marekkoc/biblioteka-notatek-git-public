@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/01-getting-started.md",
+                "file": "synology-ds220j.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/01-getting-started.md",
+                "file": "synology-ds220j.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/01-getting-started.md",
+                "file": "synology-ds220j.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/01-getting-started.md"
+                "file": "synology-ds220j.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "e106ed4dc86cb551",
   "lastOpenFiles": [
+    "cvinaish/cvinais-strony-www-1.md",
+    "synology-ds220j.md",
+    "HTML/01-getting-started.md",
     "figs/element-anatomia.png",
     "figs/Opera Snapshot_2024-10-05_224816_developer.mozilla.org.png",
     "figs/element-struktura.png",
     "figs/moja-strona-www-szkic.jpeg",
     "konfiguracja-serwera-www.md",
-    "synology-ds220j.md",
-    "cvinaish/cvinais-strony-www-1.md",
-    "HTML/01-getting-started.md",
     "HTML",
     "figs/cvinhais-strona-graf.png",
     "Untitled.canvas",
