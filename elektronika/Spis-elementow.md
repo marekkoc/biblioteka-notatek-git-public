@@ -2,6 +2,32 @@
 
 # Tranzystory
 
+| Lp  | Rodzaj | Nazwa | Opis/zastosowanie | Typ | Obudowa | Sztuk | Pudełko |
+| --- | ------ | ----- | ----------------- | --- | ------- | ----- | ------- |
+|     | BJT    | BD    |                   | NPN |         |       |         |
+|     |        |       |                   |     |         |       |         |
+
+# Stabilizatory napięcia
+
+| Lp  | Rodzaj | Nazwa | Opis/zastosowanie | Typ | Obudowa | Sztuk | Pudełko |
+| --- | ------ | ----- | ----------------- | --- | ------- | ----- | ------- |
+|     | BJT    | BD    |                   | NPN |         |       |         |
+|     |        |       |                   |     |         |       |         |
+
+# Kity do zmontowania
+
+Zm* - zmontowano: tak, nie lub +, -
+
+| Lp. | Kit                                                                                                                                          | Nazwa                                            | Opis                                                                                                                                                                                                                                                                                                                         | Linki                                                                                                                                                           | Zm.* | Uwagi                                                 |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------- |
+| 1.  | [AVT EDU 363](https://sklep.avt.pl/pl/products/sygnalizator-suchego-kwiatka-avtedu636-zestaw-diy-do-nauki-lutowania-185559.html?query_id=20) | Sygnalizator suchego kwiatka                     | Sygnalizator monitorowania wilgotności gleby roślin w doniczkach.<br>Właściwości<br><br>- czujnik wilgotności - dwie elektrody wbijane w grunt<br>- sygnalizacja - migająca dioda LED<br>- możliwość regulacji czułości zadziałania<br>- napięcie zasilania: 3 VDC [1×CR2032] - brak w zestawie<br>- wymiary płytki: 45x45mm | [pdf](https://serwis.avt.pl/manuals/AVTEDU636.pdf)<br><br>[eng](https://serwis.avt.pl/manuals/AVTEDU636_EN.pdf)                                                 | +    | Przejrzeć i **zrozumieć ** schemat i zasadę działania |
+| 2.  | [AVT-5489](https://sklep.avt.pl/pl/products/8-kanalowy-termometr-55-c-do-125-c-z-alarmem-kit-avt5489-167637.html)                            | # 8-kanałowy termometr -55°C do +125°C z alarmem |                                                                                                                                                                                                                                                                                                                              | [pdf](https://serwis.avt.pl/manuals/AVT5489.pdf)<br><br>[video](https://sklep.avt.pl/settings.php?getAttachmentp=22555_167637_bd1a88ef753a9436be50a2d10944500d) |      |                                                       |
+| 3.  |                                                                                                                                              |                                                  |                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                 |      |                                                       |
+| 4.  |                                                                                                                                              |                                                  |                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                 |      |                                                       |
+
+
+
+
 
 | Lp. | Nazwa    | Opis | Typ | Sztuk |
 | --- | -------- | ---- | --- | ----- |

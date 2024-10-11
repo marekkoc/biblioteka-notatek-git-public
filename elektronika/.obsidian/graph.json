@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "2g",
+  "search": "#avt",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5802469135802402,
-  "close": true
+  "scale": 2.37037037037036,
+  "close": false
 }

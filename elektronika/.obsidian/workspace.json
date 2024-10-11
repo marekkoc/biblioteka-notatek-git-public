@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/Rozdzial-2.md",
+                "file": "Spis-elementow.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Tranzystorowy-przerzutnik-bistabilny",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/Rozdzial-2.md",
+                "file": "Spis-elementow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/Rozdzial-2.md",
+                "file": "Spis-elementow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ksiazki/1986xNuhrman-technika-cyfrowa/Rozdzial-2.md"
+                "file": "Spis-elementow.md"
               }
             }
           }
@@ -160,52 +160,51 @@
   },
   "active": "464bd3cf4f7586b1",
   "lastOpenFiles": [
+    "Ciekawe-kity-avt.md",
+    "Spis-elementow.md",
+    "avt-kity/AVT-EDU-636_EN.pdf",
+    "avt-kity/AVT-EDU-636.pdf",
+    "avt-kity/AVT-5489.pdf",
+    "avt-kity/AVT-5489.pdf.opdownload",
+    "Do-przeczytania.md",
+    "avt-kity/avt-edu-636.pdf",
+    "avt-kity/avt-edu-636.pdf.opdownload",
+    "avt-kity/avt-edu-636_EN.pdf",
+    "avt-kity/avt-edu-636_EN.pdf.opdownload",
+    "avt-kity",
+    "templates/element-nota.md",
+    "templates/notatka-ogolna.md",
+    "zagadnienia/tranzystor-jako-wlacznik.md",
+    "Do-zrobienia-projekty.md",
+    "Do-zrobienia-aktywnosc.md",
+    "Do-wyjasnienia-zagadnienia.md",
+    "Do-obejrzenia.md",
+    "Do-nauczenia-sie.md",
+    "ksiazki/1986xNuhrman-technika-cyfrowa/Rozdzial-2.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs/3.1-poziomy-napiec-wejsciowych-i-wyjsciowych.JPEG",
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs/2.5-obszary-dozwolone.JPEG",
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs/2.5-czas-przelaczania.JPEG",
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs/tranystor-jako-wlacznik-charakterystyki.JPEG.JPEG",
-    "ksiazki/1986xNuhrman-technika-cyfrowa/Rozdzial-2.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs/tranystor-jako-inwerter.JPEG.JPEG",
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs/tranystor-jako-wlacznik-schemat.JPEG",
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs",
-    "tranzystor-jako-wlacznik.md",
     "zagadnienia/sygnal-cyfrowy.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
-    "templates/notatka-ogolna.md",
     "templates/notatka-z-rozmowy.md",
     "zagadnienia/monostabilny-vs-bistabilny.md",
-    "Spis-elementow.md",
-    "zagadnienia",
-    "Do-obejrzenia.md",
-    "ksiazki/1986xNuhrman-technika-cyfrowa",
-    "Do-zrobienia-projekty.md",
-    "ksiazki",
     "edw/Lutowanie.md",
     "edw/Lampy.md",
     "edw/Inteligentny-dom.md",
     "edw/Czujnik-wilgotnosci-gleby.md",
     "Screenshot from 2024-09-29 20-53-58.png",
     "figs/cvinhais-strona-graf.png",
-    "figs",
     "cvinaish/cvinais-strony-www.md",
     "Untitled.canvas",
-    "Ciekawe-kity-avt.md",
-    "Do-przeczytania.md",
-    "templates",
     "projekty/mk-Pomodoro.md",
-    "templates",
-    "cvinaish",
     "edw/numery/2008/edw-2008-02.md",
-    "edw/numery/2008",
     "edw/numery/2012/edw-2012-11.md",
     "edw/numery/2012/edw-2012-09.md",
-    "edw/numery/2012/edw-2012-08.md",
-    "edw/numery/2012/edw-2012-07.md",
-    "edw/numery/2012/edw-2012-10.md",
-    "edw/numery/2011/edw-2011-11.md",
-    "edw/numery/2012",
     "dremel/figs/561-4.JPEG",
-    "dremel/figs/561-3.JPEG",
-    "dremel/figs/114-2.png"
+    "dremel/figs/561-3.JPEG"
   ]
 }

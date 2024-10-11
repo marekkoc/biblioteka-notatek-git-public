@@ -7,6 +7,8 @@
     "Uczestnicy": "multitext",
     "Utworzono": "datetime",
     "Zmodyfikowano": "datetime",
-    "Dzidedzina rozmowy": "multitext"
+    "Dzidedzina rozmowy": "multitext",
+    "Funkcje": "multitext",
+    "sztuk": "number"
   }
 }
