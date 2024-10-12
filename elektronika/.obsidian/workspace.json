@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "kity-avt/AVT-EDU-636.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "kity-avt/AVT-EDU-636.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spis-elementow.md",
+                "file": "kity-avt/AVT-EDU-636.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spis-elementow.md"
+                "file": "kity-avt/AVT-EDU-636.md"
               }
             }
           }
@@ -160,8 +160,18 @@
   },
   "active": "464bd3cf4f7586b1",
   "lastOpenFiles": [
+    "templates/element-nota.md",
+    "templates/notatka-element-nota-opis.md",
+    "templates/notatka-kit.md",
+    "kity-avt/AVT-EDU-636.md",
+    "kity-avt/Untitled.md",
+    "kity-avt/AVT-EDU-636_PL.pdf",
+    "templates/notatka-ogolna.md",
     "Ciekawe-kity-avt.md",
     "Spis-elementow.md",
+    "kity-avt/AVT-EDU-636.pdf",
+    "kity-avt/AVT-5489.pdf",
+    "kity-avt/AVT-EDU-636_EN.pdf",
     "avt-kity/AVT-EDU-636_EN.pdf",
     "avt-kity/AVT-EDU-636.pdf",
     "avt-kity/AVT-5489.pdf",
@@ -169,11 +179,6 @@
     "Do-przeczytania.md",
     "avt-kity/avt-edu-636.pdf",
     "avt-kity/avt-edu-636.pdf.opdownload",
-    "avt-kity/avt-edu-636_EN.pdf",
-    "avt-kity/avt-edu-636_EN.pdf.opdownload",
-    "avt-kity",
-    "templates/element-nota.md",
-    "templates/notatka-ogolna.md",
     "zagadnienia/tranzystor-jako-wlacznik.md",
     "Do-zrobienia-projekty.md",
     "Do-zrobienia-aktywnosc.md",
@@ -187,7 +192,6 @@
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs/tranystor-jako-wlacznik-charakterystyki.JPEG.JPEG",
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs/tranystor-jako-inwerter.JPEG.JPEG",
     "ksiazki/1986xNuhrman-technika-cyfrowa/figs/tranystor-jako-wlacznik-schemat.JPEG",
-    "ksiazki/1986xNuhrman-technika-cyfrowa/figs",
     "zagadnienia/sygnal-cyfrowy.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
     "templates/notatka-z-rozmowy.md",
@@ -201,9 +205,6 @@
     "cvinaish/cvinais-strony-www.md",
     "Untitled.canvas",
     "projekty/mk-Pomodoro.md",
-    "edw/numery/2008/edw-2008-02.md",
-    "edw/numery/2012/edw-2012-11.md",
-    "edw/numery/2012/edw-2012-09.md",
     "dremel/figs/561-4.JPEG",
     "dremel/figs/561-3.JPEG"
   ]
