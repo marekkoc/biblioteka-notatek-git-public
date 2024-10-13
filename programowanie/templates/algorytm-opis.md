@@ -8,8 +8,8 @@ To do:
 "Skrypt:":
 ---
 
-Żródło: []() 
-Tytuł : []()
+Żródło: 
+Tytuł : 
 
 
 

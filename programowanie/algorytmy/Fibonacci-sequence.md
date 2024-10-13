@@ -6,12 +6,12 @@ tags:
   - "#Fibonacci-algorytm"
 Uwagi: 
 To do: 
-"Skrypt:":
+"Skrypt:": kody/fib1.py
 ---
 
 
-Żródło: [Książka]() 
-Tytuł : [2019#Kopec_Classic-comuter-science-problems-in-Python](), Rozdział 1
+Żródło: Książka 
+Tytuł : #book-2019-kopec-classic-computer-science-problems-in-python , Rozdział 1
 
 
 # Algorytm
@@ -32,3 +32,9 @@ def fib1(n: int) -> int:
 ```
 
 W funkcji rekursywnej musimy zdefiniować **warunek bazowy**, taki warunek, który w odpowiednim miejscu przerwie wykonywanie się funkcji.
+
+It is the duty of the programmer to avoid infinite recursion, not the compiler or the interpreter. The reason for the infinite recursion is that we never specified a base case. In a recursive function, a base case serves as a stopping point.
+
+In the case of the Fibonacci function, we have **natural base cases** in the form of the
+special first two sequence values, 0 and 1. **Neither 0 nor 1 is the sum of the previous**
+**two numbers** in the sequence. Instead, **they are the special first two values.**

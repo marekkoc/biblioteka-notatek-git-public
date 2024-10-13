@@ -12,6 +12,8 @@ Uczenie się programowania jest **procesem iteracyjnym**, podobnie jak uczenie s
 
 | ![[ksiazka-matthes-python-crash-course.png]]<br> | Eric Matthes<br><br>[Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702?crid=FBM43IWR6ZG1&keywords=python+crash+course&qid=1706732782&sprefix=python+crash,aps,157&sr=8-1&linkCode=sl1&tag=flickthrough-20&linkId=d5bc6efe572fb63428b9c5aa961dbf6f&language=en_US&ref_=as_li_ss_tl) - (pobrana) |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+#book-2023-matthes-python-crash-course-a-hands-on-projtect-based-intoduction-to-programming
+
 
 Książka podzielona jest na dwie części. W pierwszej części przedstawiono podstawy języka, a w drugiej części są wykonywane projekty zawierające elementy z części pierwszej, takich jak: 
 - gra - Space invaders, 
@@ -39,6 +41,8 @@ Jednak niezależnie od kierunku dalszego rozwoju powinniśmy mieć podstawowe zr
 
 | !![[ksiazka-zelle-python-programming.png]] | John Zelle<br><br> [Python Programming: An Introduction to Computer Science, 3rd Ed](https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282752?crid=1XRIY7S8FVKK2&keywords=john+zelle+python+programming+3rd&qid=1706732837&sprefix=python+programming+john+zelle,aps,171&sr=8-1&linkCode=sl1&tag=flickthrough-20&linkId=97405e5604375d8050dc07db54834f25&language=en_US&ref_=as_li_ss_tl). (Pobrana) |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+#book-2016-zelle-python-programming-an-introduction-to-computer-science
+
 Książka daje solidne podstawy informatyki. Pokazuje jak pisać programy w odpowiedni sposób, wzmacnia myślenie algorytmiczne i umiejętność rozwiązywania problemów. Na końcu każdego rozdziału są zagadnienia do rozwiązania. Można spróbować je rozwiązać, a jeśli utkniemy to wtedy należy wrócić do treści książki.
 
 
@@ -53,7 +57,7 @@ Wybór trzeciej książki jest jeszcze trudniejszy niż drugiej.
 
 | ![[ksiazka-kopec-classic-computer-science-problems.png]] | David Kopec<br><br>[Classic Computer Science Problems in Python](https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/1617295981/ref=sr_1_1?crid=1GOJ9EVG6XTHB&dib=eyJ2IjoiMSJ9.j8OeJwjB34ZF_MdONGUWNd6ZO39ilCaImEoetaYJfBgEccrikurkRb-MEaWT5U6PcjJ6gas0bhhMzFeq2U4VYhJ8S3gS8qAmZ4U51N4Pd6MNiGZT7PqfK8nooYfoc4UYhstei4_91YbZOb2EYKjvDknYrnjZSLoRzGOJesHkAPx3sZkq-wOzJW3v2TBT0v0a.2PDefvOkIrUUlVcK5d6b9JoxzsvwDJR0joSF3duXREE&dib_tag=se&keywords=classic+computer+science+problems+in+python&qid=1724688425&sprefix=classic+computer+s%2Caps%2C172&sr=8-1)(Pobrana) |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
+#book-2019-kopec-classic-computer-science-problems-in-python 
 
 ## 3B Algorithms Illuminated
 

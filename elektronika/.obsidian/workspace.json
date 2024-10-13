@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52ab4bb5098fe391",
+        "id": "f154ad843aedd2f8",
         "type": "tabs",
         "children": [
           {
-            "id": "464bd3cf4f7586b1",
+            "id": "65bb4cbc26b75bf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kity-avt/AVT-EDU-636.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c5643356e64e122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Do-obejrzenia.md",
+                "file": "kity-avt/AVT-5399.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kity-avt/AVT-EDU-636.md",
+                "file": "kity-avt/AVT-5399.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kity-avt/AVT-EDU-636.md",
+                "file": "kity-avt/AVT-5399.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kity-avt/AVT-EDU-636.md"
+                "file": "kity-avt/AVT-5399.md"
               }
             }
           }
@@ -158,44 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "464bd3cf4f7586b1",
+  "active": "65bb4cbc26b75bf1",
   "lastOpenFiles": [
-    "figs/AVT-EDU-636-schemat.png",
-    "figs/Screenshot from 2024-10-12 15-51-53.png",
-    "kity-avt/AVT-EDU-636.png",
-    "figs/AVT-EDU-636.png",
-    "templates/notatka-kit.md",
+    "figs/AVT-5399-3.png",
+    "kity-avt/AVT-5489.md",
+    "figs/AVT-5399-schemat.png",
+    "kity-avt/AVT-5399.md",
+    "figs/AVT-5399-2.png",
+    "figs/AVT-5399-1.png",
+    "figs/AVT-.png",
+    "kity-avt/AVT-5399-PL.pdf",
+    "kity-avt/AVT-5399_PL.pdf",
+    "kity-avt/AVT-5399.pdf",
+    "kity-avt/AVT-5399.pdf.opdownload",
+    "kity-avt/AVT-5489_PL.pdf",
+    "figs/AVT-5489-czujnik.png",
+    "figs/AVT-5489-schemat.png",
+    "figs/AVT-5489-1.png",
+    "figs/AVT-5489-2.png",
+    "figs/AVT-5489-1l.png",
+    "kity-avt/AVT-5489_PL.pdf.opdownload",
+    "kity-avt/AVT-3172.md",
+    "Do-obejrzenia.md",
     "kity-avt/AVT-EDU-636.md",
-    "kity-avt/AVT-EDU-636_PL.pdf",
-    "templates/notatka-element-nota-opis.md",
-    "templates/element-nota.md",
-    "kity-avt/Untitled.md",
-    "templates/notatka-ogolna.md",
+    "figs/AVT-3172-5.png",
+    "kity-avt/AVT-3172_EN.pdf",
+    "kity-avt/AVT-3172_PL.pdf",
+    "kity-avt/AVT-3172_EN.pdf.opdownload",
+    "kity-avt/AVT-3172_PL.pdf.opdownload",
+    "templates/notatka-kit.md",
     "Ciekawe-kity-avt.md",
     "Spis-elementow.md",
-    "kity-avt/AVT-EDU-636.pdf",
-    "kity-avt/AVT-5489.pdf",
-    "kity-avt/AVT-EDU-636_EN.pdf",
-    "avt-kity/AVT-EDU-636_EN.pdf",
-    "avt-kity/AVT-EDU-636.pdf",
-    "avt-kity/AVT-5489.pdf",
-    "avt-kity/AVT-5489.pdf.opdownload",
+    "templates/notatka-element-nota-opis.md",
+    "templates/element-nota.md",
+    "templates/notatka-ogolna.md",
     "Do-przeczytania.md",
-    "avt-kity/avt-edu-636.pdf",
-    "avt-kity/avt-edu-636.pdf.opdownload",
     "zagadnienia/tranzystor-jako-wlacznik.md",
     "Do-zrobienia-projekty.md",
     "Do-zrobienia-aktywnosc.md",
     "Do-wyjasnienia-zagadnienia.md",
-    "Do-obejrzenia.md",
     "Do-nauczenia-sie.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa/Rozdzial-2.md",
-    "ksiazki/1986xNuhrman-technika-cyfrowa/figs/3.1-poziomy-napiec-wejsciowych-i-wyjsciowych.JPEG",
-    "ksiazki/1986xNuhrman-technika-cyfrowa/figs/2.5-obszary-dozwolone.JPEG",
-    "ksiazki/1986xNuhrman-technika-cyfrowa/figs/2.5-czas-przelaczania.JPEG",
-    "ksiazki/1986xNuhrman-technika-cyfrowa/figs/tranystor-jako-wlacznik-charakterystyki.JPEG.JPEG",
-    "ksiazki/1986xNuhrman-technika-cyfrowa/figs/tranystor-jako-inwerter.JPEG.JPEG",
-    "ksiazki/1986xNuhrman-technika-cyfrowa/figs/tranystor-jako-wlacznik-schemat.JPEG",
     "zagadnienia/sygnal-cyfrowy.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
     "templates/notatka-z-rozmowy.md",
@@ -203,9 +194,6 @@
     "edw/Lutowanie.md",
     "edw/Lampy.md",
     "edw/Inteligentny-dom.md",
-    "edw/Czujnik-wilgotnosci-gleby.md",
-    "Screenshot from 2024-09-29 20-53-58.png",
-    "cvinaish/cvinais-strony-www.md",
     "Untitled.canvas"
   ]
 }

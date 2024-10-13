@@ -7,5 +7,7 @@ tags:
 
 ![[python-programmer-ksiazka-kopec.png]]
 #Books-Python #Books-algorithms #Books-computer-science 
+#book-2019-kopec-classic-computer-science-problems-in-python
+
 
  On lubi tą książkę. Ta książka nie jest dla początkujących użytkowników. Jest już dla średni-zaawansowanych i zaawansowanych.>>

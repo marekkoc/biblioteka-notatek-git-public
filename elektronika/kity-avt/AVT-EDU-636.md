@@ -4,11 +4,12 @@ Zmodyfikowano: 2024-10-12T15:30:00
 tags:
   - "#Sygnalizator-wilgoci"
 Data zakupu: 
+Zmontowany: Tak
 Uwagi:
 ---
 
 
-# Sygnalizator suchego kwiatka - opis 
+# Sygnalizator suchego kwiatka - info. ze strony 
 
 
 Sygnalizator przeznaczony jest do monitorowania wilgotności gleby roślin hodowanych w doniczkach. 

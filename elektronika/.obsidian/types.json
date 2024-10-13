@@ -11,6 +11,8 @@
     "Funkcje": "multitext",
     "sztuk": "number",
     "Data zakupu": "date",
-    "Uwagi": "multitext"
+    "Uwagi": "multitext",
+    "AVT": "multitext",
+    "Botland": "multitext"
   }
 }
