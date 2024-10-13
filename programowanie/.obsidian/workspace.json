@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
+                "file": "algorytmy/Fibonacci-sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 267.5
   },
   "right": {
     "id": "c99bb1052c9c3d6c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
+                "file": "algorytmy/Fibonacci-sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
+                "file": "algorytmy/Fibonacci-sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md"
+                "file": "algorytmy/Fibonacci-sequence.md"
               }
             }
           }
@@ -149,33 +149,41 @@
   },
   "active": "2dba1473e5afb6a6",
   "lastOpenFiles": [
+    "kody/tmp31acscno",
+    "kody/tmpb5sbv87t",
+    "kody/tmphi2rx8oh",
+    "kody/tmppi22tdnf",
+    "kody/tmpq_6zuh2m",
+    "kody/tmps2sq1_5t",
+    "kody/tmpq_3rgewz",
+    "kody/tmplhuddwlr",
+    "kody/tmpyof8m4nv",
+    "kody/tmpt2trj4qf",
+    "kody/tmpvs24urt1",
+    "templates/algorytm-opis.md",
+    "algorytmy/Fibonacci-sequence.md",
+    "python-programmer/python-programmer-book-classic-computer-science-problems-in-python.md",
+    "python-programmer/python-programmer-i-have-read-over-100-books-on-Python.md",
+    "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
+    "figs/python-programmer-ksiazka-kopec.png",
+    "figs/Screenshot from 2024-10-12 22-32-28.png",
+    "templates/notatka-ogolna.md",
     "python-programmer/python-programmer-best-sql-books.md",
     "figs/ksiazka-beaulieu-learning-sql.png",
     "figs/ksiazka-debarros-practical-sql.png",
     "figs/Screenshot from 2024-10-05 14-50-09.png",
     "figs/learning-sql-beaulieu.png",
     "figs/Screenshot from 2024-10-05 14-47-52.png",
-    "python-programmer/python-programmer-i-have-read-over-100-books-on-Python.md",
-    "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
     "figs/python-programmer-sql-books.png",
     "figs/Screenshot from 2024-10-05 14-41-59.png",
     "python-programmer/python-programmer-filmy.md",
     "Untitled.md",
-    "templates/notatka-ogolna.md",
     "algorytmy/midpoint-circle-algorithm.md",
     "algorytmy/midpoint-circle-algorithm-3.md",
     "algorytmy/midpoint-circle-algorithm-2.md",
-    "templates/algorytm-opis.md",
-    "templates",
-    "templates",
-    "python-programmer",
     "create a link.md",
     "Welcome.md",
-    "algorytmy",
     "figs/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.md",
-    "figs/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.png",
-    "figs/Screenshot from 2024-09-28 12-46-10.png",
-    "figs/Python-Programmer-I-have-read-over-100-books-on-Python.png",
-    "figs"
+    "figs/Python-Programmer-How-to-build-a-web-app-in-python-complete-roadmap.png"
   ]
 }

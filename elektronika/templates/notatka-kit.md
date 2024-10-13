@@ -1,7 +1,9 @@
 ---
 Utworzono: 
 Zmodyfikowano: 
-tags:
+Data zakupu: 
+tags: 
+Uwagi:
 ---
 
 

@@ -4,7 +4,8 @@ Data modyfikacji:
 Opis: 
 tags: 
 Uwagi: 
-To do:
+To do: 
+"Skrypt:":
 ---
 
 Żródło: []() 

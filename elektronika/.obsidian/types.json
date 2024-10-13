@@ -9,6 +9,8 @@
     "Zmodyfikowano": "datetime",
     "Dzidedzina rozmowy": "multitext",
     "Funkcje": "multitext",
-    "sztuk": "number"
+    "sztuk": "number",
+    "Data zakupu": "date",
+    "Uwagi": "multitext"
   }
 }
