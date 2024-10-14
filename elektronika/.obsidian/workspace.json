@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f154ad843aedd2f8",
+        "id": "fc4e355d573df81c",
         "type": "tabs",
         "children": [
           {
-            "id": "65bb4cbc26b75bf1",
+            "id": "4a8d1bc814a5cec2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kity-avt/AVT-5399.md",
+                "file": "kity-avt/AVT-1990.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kity-avt/AVT-5399.md",
+                "file": "kity-avt/AVT-1990.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kity-avt/AVT-5399.md",
+                "file": "kity-avt/AVT-1990.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kity-avt/AVT-5399.md"
+                "file": "kity-avt/AVT-1990.md"
               }
             }
           }
@@ -146,12 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65bb4cbc26b75bf1",
+  "active": "4a8d1bc814a5cec2",
   "lastOpenFiles": [
+    "kity-avt/AVT-3172.md",
+    "kity-avt/AVT-1990.md",
+    "figs/AVVT-1990-3.png",
+    "figs/AVT-1990-2.png",
+    "figs/AVT-1990-schemat.png",
+    "figs/AVT-1990-1.png",
+    "kity-avt/AVT-1990-PL.pdf",
+    "kity-avt/AVT-1990-PL.pdf.opdownload",
+    "Ciekawe-kity-avt.md",
+    "kity-avt/AVT-5399.md",
     "figs/AVT-5399-3.png",
     "kity-avt/AVT-5489.md",
     "figs/AVT-5399-schemat.png",
-    "kity-avt/AVT-5399.md",
     "figs/AVT-5399-2.png",
     "figs/AVT-5399-1.png",
     "figs/AVT-.png",
@@ -161,21 +170,12 @@
     "kity-avt/AVT-5399.pdf.opdownload",
     "kity-avt/AVT-5489_PL.pdf",
     "figs/AVT-5489-czujnik.png",
-    "figs/AVT-5489-schemat.png",
-    "figs/AVT-5489-1.png",
-    "figs/AVT-5489-2.png",
-    "figs/AVT-5489-1l.png",
     "kity-avt/AVT-5489_PL.pdf.opdownload",
-    "kity-avt/AVT-3172.md",
     "Do-obejrzenia.md",
     "kity-avt/AVT-EDU-636.md",
-    "figs/AVT-3172-5.png",
     "kity-avt/AVT-3172_EN.pdf",
     "kity-avt/AVT-3172_PL.pdf",
-    "kity-avt/AVT-3172_EN.pdf.opdownload",
-    "kity-avt/AVT-3172_PL.pdf.opdownload",
     "templates/notatka-kit.md",
-    "Ciekawe-kity-avt.md",
     "Spis-elementow.md",
     "templates/notatka-element-nota-opis.md",
     "templates/element-nota.md",
@@ -193,7 +193,6 @@
     "zagadnienia/monostabilny-vs-bistabilny.md",
     "edw/Lutowanie.md",
     "edw/Lampy.md",
-    "edw/Inteligentny-dom.md",
     "Untitled.canvas"
   ]
 }

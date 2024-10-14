@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "#avt",
-  "showTags": true,
+  "search": "AVT-3172",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,

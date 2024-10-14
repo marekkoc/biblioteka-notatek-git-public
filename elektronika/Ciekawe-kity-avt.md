@@ -14,7 +14,7 @@
 [AVT-1618](https://sklep.avt.pl/pl/products/avtduino-joy-manipulator-dla-arduino-kit-avt1618-178078.html) -  AVTduino JOY - manipulator dla Arduino
 [AVT-1980](https://sklep.avt.pl/pl/products/czasowy-wlacznik-zblizeniowy-kit-avt1980-180858.html) - Czasowy włącznik zbliżeniowy
 [AVT-1990](https://sklep.avt.pl/pl/products/regulowany-zasilacz-do-plytek-stykowych-kit-avt1990-182246.html) - Regulowany zasilacz do płytek stykowych
-[AVT-3172](https://sklep.avt.pl/pl/products/praktyczny-zasilacz-warsztatowy-kit-avt3172-173938.html) - Praktyczny zasilacz warsztatowy ([pdf](https://serwis.avt.pl/manuals/AVT3172.pdf), [eng](https://serwis.avt.pl/manuals/AVT3172_EN.pdf))
+[[AVT-3172]]  - Praktyczny zasilacz warsztatowy ([www](https://sklep.avt.pl/pl/products/praktyczny-zasilacz-warsztatowy-kit-avt3172-173938.html), [pdf](https://serwis.avt.pl/manuals/AVT3172.pdf), [eng](https://serwis.avt.pl/manuals/AVT3172_EN.pdf))
 
 
 # Do przeczytania
