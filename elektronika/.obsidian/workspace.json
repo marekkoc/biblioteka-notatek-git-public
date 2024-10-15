@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kity-avt/AVT-1990.md",
+                "file": "kity-avt/AVT-EDU-636.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kity-avt/AVT-1990.md",
+                "file": "kity-avt/AVT-EDU-636.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kity-avt/AVT-1990.md",
+                "file": "kity-avt/AVT-EDU-636.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kity-avt/AVT-1990.md"
+                "file": "kity-avt/AVT-EDU-636.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4a8d1bc814a5cec2",
   "lastOpenFiles": [
-    "kity-avt/AVT-3172.md",
+    "kity-avt/AVT-5489.md",
+    "kity-avt/AVT-5399.md",
     "kity-avt/AVT-1990.md",
+    "kity-avt/AVT-3172.md",
     "figs/AVVT-1990-3.png",
     "figs/AVT-1990-2.png",
     "figs/AVT-1990-schemat.png",
@@ -157,9 +159,7 @@
     "kity-avt/AVT-1990-PL.pdf",
     "kity-avt/AVT-1990-PL.pdf.opdownload",
     "Ciekawe-kity-avt.md",
-    "kity-avt/AVT-5399.md",
     "figs/AVT-5399-3.png",
-    "kity-avt/AVT-5489.md",
     "figs/AVT-5399-schemat.png",
     "figs/AVT-5399-2.png",
     "figs/AVT-5399-1.png",
