@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorytmy/python-type-annotation.md",
+                "file": "bash/shebang.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorytmy/python-type-annotation.md",
+                "file": "bash/shebang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorytmy/python-type-annotation.md",
+                "file": "bash/shebang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorytmy/python-type-annotation.md"
+                "file": "bash/shebang.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "2dba1473e5afb6a6",
   "lastOpenFiles": [
+    "templates/notatka-ogolna.md",
+    "bash/shebang.md",
+    "algorytmy/python-type-annotation.md",
+    "bash",
     "algorytmy/Fibonacci-sequence.md",
     "kody/tmp9whg924j",
     "kody/tmpwfzkzfhp",
@@ -159,16 +163,13 @@
     "kody/tmptmmvw50v",
     "kody/tmp881qky2a",
     "kody/tmp7jk4oxyf",
-    "kody/tmpak7b_lkk",
     "templates/algorytm-opis.md",
     "algorytmy/().md",
-    "algorytmy/python-type-annotation.md",
     "python-programmer/python-programmer-i-have-read-over-100-books-on-Python.md",
     "python-programmer/python-programmer-book-classic-computer-science-problems-in-python.md",
     "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
     "figs/python-programmer-ksiazka-kopec.png",
     "figs/Screenshot from 2024-10-12 22-32-28.png",
-    "templates/notatka-ogolna.md",
     "python-programmer/python-programmer-best-sql-books.md",
     "figs/ksiazka-beaulieu-learning-sql.png",
     "figs/ksiazka-debarros-practical-sql.png",
