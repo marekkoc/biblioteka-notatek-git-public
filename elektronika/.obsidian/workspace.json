@@ -11,8 +11,26 @@
             "id": "4a8d1bc814a5cec2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "kity-avt/AVT-5399.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AVT-5399"
+            }
+          },
+          {
+            "id": "6b66103021b547b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ]
@@ -35,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +70,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "kity-avt/AVT-5399.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AVT-5399"
             }
           },
           {
@@ -97,9 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "kity-avt/AVT-5399.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AVT-5399"
             }
           },
           {
@@ -110,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +150,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "kity-avt/AVT-5399.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AVT-5399"
             }
           }
         ]
@@ -140,12 +176,18 @@
   },
   "active": "4a8d1bc814a5cec2",
   "lastOpenFiles": [
+    "kity-avt/AVT-3172.md",
+    "kity-avt/pdfs/AVT-3172_EN.pdf",
+    "kity-avt/pdfs/AVT-3172_PL.pdf",
+    "zagadnienia/monostabilny-vs-bistabilny.md",
+    "kity-avt/AVT-1990.md",
+    "kity-avt/pdfs/AVT-1990-PL.pdf",
+    "figs/AVT-1990-2.png",
+    "kity-avt/pdfs/AVT-1990.md",
+    "kity-avt/pdfs/AVT-3172.md",
     "kity-avt/AVT-5489.md",
     "kity-avt/AVT-5399.md",
-    "kity-avt/AVT-1990.md",
-    "kity-avt/AVT-3172.md",
     "figs/AVVT-1990-3.png",
-    "figs/AVT-1990-2.png",
     "figs/AVT-1990-schemat.png",
     "figs/AVT-1990-1.png",
     "kity-avt/AVT-1990-PL.pdf",
@@ -162,11 +204,8 @@
     "kity-avt/AVT-5399.pdf.opdownload",
     "kity-avt/AVT-5489_PL.pdf",
     "figs/AVT-5489-czujnik.png",
-    "kity-avt/AVT-5489_PL.pdf.opdownload",
     "Do-obejrzenia.md",
     "kity-avt/AVT-EDU-636.md",
-    "kity-avt/AVT-3172_EN.pdf",
-    "kity-avt/AVT-3172_PL.pdf",
     "templates/notatka-kit.md",
     "Spis-elementow.md",
     "templates/notatka-element-nota-opis.md",
@@ -178,13 +217,10 @@
     "Do-zrobienia-aktywnosc.md",
     "Do-wyjasnienia-zagadnienia.md",
     "Do-nauczenia-sie.md",
-    "ksiazki/1986xNuhrman-technika-cyfrowa/Rozdzial-2.md",
+    "ksiazki/1986xNuhrman-technika-cyfrowa/figs/Rozdzial-2.md",
     "zagadnienia/sygnal-cyfrowy.md",
     "ksiazki/1986xNuhrman-technika-cyfrowa/spis-elementow.md",
     "templates/notatka-z-rozmowy.md",
-    "zagadnienia/monostabilny-vs-bistabilny.md",
-    "edw/Lutowanie.md",
-    "edw/Lampy.md",
     "Untitled.canvas"
   ]
 }
