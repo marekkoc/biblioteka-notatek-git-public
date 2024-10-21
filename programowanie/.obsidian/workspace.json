@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-programmer/python-programmer-book-python-destilled.md",
+                "file": "github/laczenie-repozytoriow-github.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "laczenie-repozytoriow-github"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python-programmer/python-programmer-book-python-destilled.md",
+                "file": "bash/wget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for wget"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python-programmer/python-programmer-book-python-destilled.md",
+                "file": "bash/wget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from wget"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python-programmer/python-programmer-book-python-destilled.md"
-              }
+                "file": "bash/wget.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of wget"
             }
           }
         ],
@@ -149,8 +165,11 @@
   },
   "active": "2dba1473e5afb6a6",
   "lastOpenFiles": [
-    "python-programmer/python-programmer-book-classic-computer-science-problems-in-python.md",
+    "bash/wget.md",
+    "github/laczenie-repozytoriow-github.md",
+    "github",
     "python-programmer/python-programmer-book-python-destilled.md",
+    "python-programmer/python-programmer-book-classic-computer-science-problems-in-python.md",
     "figs/python-programmer-book-python-distiled.png",
     "figs/python-programmer-book-python-destiled.png",
     "figs/Screenshot from 2024-10-16 16-38-36.png",
@@ -167,7 +186,6 @@
     "kody/tmp6xs0t3wa",
     "kody/tmptmmvw50v",
     "kody/tmp881qky2a",
-    "kody/tmp7jk4oxyf",
     "templates/algorytm-opis.md",
     "algorytmy/().md",
     "python-programmer/python-programmer-i-have-read-over-100-books-on-Python.md",

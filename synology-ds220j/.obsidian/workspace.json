@@ -16,7 +16,9 @@
                 "file": "HTML/01-getting-started.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "01-getting-started"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01-getting-started"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "file": "HTML/01-getting-started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-getting-started"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "HTML/01-getting-started.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-getting-started"
             }
           }
         ]
@@ -148,16 +164,16 @@
   },
   "active": "e106ed4dc86cb551",
   "lastOpenFiles": [
-    "synology-ds220j.md",
+    "figs/moja-strona-www-szkic.jpeg",
+    "figs/element-struktura.png",
+    "figs/element-anatomia.png",
+    "figs/cvinhais-strona-graf.png",
     "cvinaish/cvinais-strony-www-1.md",
     "HTML/01-getting-started.md",
-    "figs/element-anatomia.png",
+    "synology-ds220j.md",
     "figs/Opera Snapshot_2024-10-05_224816_developer.mozilla.org.png",
-    "figs/element-struktura.png",
-    "figs/moja-strona-www-szkic.jpeg",
     "konfiguracja-serwera-www.md",
     "HTML",
-    "figs/cvinhais-strona-graf.png",
     "Untitled.canvas",
     "templates/notatka-ogolna.md",
     "figs/synology-220j-ogolne.png",
