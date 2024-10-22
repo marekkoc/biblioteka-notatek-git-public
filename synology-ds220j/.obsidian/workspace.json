@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/01-getting-started.md",
+                "file": "cvinaish/cvinais-strony-www-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-getting-started"
+              "title": "cvinais-strony-www-1"
             }
           }
         ]
@@ -164,12 +164,12 @@
   },
   "active": "e106ed4dc86cb551",
   "lastOpenFiles": [
+    "HTML/01-getting-started.md",
     "figs/moja-strona-www-szkic.jpeg",
     "figs/element-struktura.png",
     "figs/element-anatomia.png",
     "figs/cvinhais-strona-graf.png",
     "cvinaish/cvinais-strony-www-1.md",
-    "HTML/01-getting-started.md",
     "synology-ds220j.md",
     "figs/Opera Snapshot_2024-10-05_224816_developer.mozilla.org.png",
     "konfiguracja-serwera-www.md",
