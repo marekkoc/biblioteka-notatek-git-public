@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-programmer/python-programmer-projekty.md",
+                "file": "github/laczenie-repozytoriow-github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python-programmer-projekty"
+              "title": "laczenie-repozytoriow-github"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "2dba1473e5afb6a6",
   "lastOpenFiles": [
-    "python-programmer/python-programmer-impractical-python-projects.md",
     "python-programmer/python-programmer-projekty.md",
+    "python-programmer/python-programmer-impractical-python-projects.md",
     "python-programmer/python-programmer-intermediate-python.md",
     "figs/ksiazka-vaughan-impractical-python-projects.png",
     "figs/ksiazka-mcdonald-dead-simple-python.png",
