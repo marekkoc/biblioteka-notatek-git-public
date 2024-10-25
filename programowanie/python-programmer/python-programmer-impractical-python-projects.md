@@ -11,5 +11,6 @@ tags:
 ![[ksiazka-vaughan-impractical-python-projects.png]]
 #Books-python-projects
 
+
 Książka zawiera same projekty!
 

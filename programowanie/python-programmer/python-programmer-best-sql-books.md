@@ -6,6 +6,9 @@ tags:
 ---
 ![[python-programmer-sql-books.png]]
 
+#Book-2021-beazley-python-distilled 
+#Book-
+
 Nauka SQL jest bardzo ważna, zwłaszcza gdy pracujemy z danymi. Mamy 2 znakomite książki do nauki SQLa.
 
 Zawartość obu książek jest podobna, jednak obie mają zupełnie inny styl pisania. 
