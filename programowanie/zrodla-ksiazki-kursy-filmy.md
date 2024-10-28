@@ -4,6 +4,7 @@
  1. AI od Luci
  2. Geron
  3. FAstAI
+ 4. ta ksiażka o automatyzacji procesow pythona
 
 # Kursy
 1. moje kursy z Udemy

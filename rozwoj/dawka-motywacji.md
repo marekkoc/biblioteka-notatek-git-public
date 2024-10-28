@@ -1,8 +1,9 @@
 
 1. 
-2. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
-3. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
-4. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
+2. Życie nie polega na posiadaniu dobrych kart, tylko na graniu dobrze kiepskimi kartami - #Robert-Lewis-Stevenson
+3. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
+4. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
+5. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
    
    Powtarzanie tego samego procesu, dokładnie w tej samej formie każdego dnia, jest dla mnie ważne. Jest to forma hipnotyzowania siebie. Aby osiągnąć stan głębokiej koncentracji, potrzebuję regularności”. 
 	Unika nadmiernych rozproszeń, co pomaga mu skupić się na pracy i bieganiu

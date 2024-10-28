@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9531f220a490314b",
+        "id": "c96698b51946b40b",
         "type": "tabs",
         "children": [
           {
-            "id": "587273e2d26b47f3",
+            "id": "41896a493f7ac8e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "zrodla-ksiazki-kursy-filmy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "zrodla-ksiazki-kursy-filmy"
             }
           }
         ]
@@ -69,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 249.50390243530273
   },
   "right": {
     "id": "c99bb1052c9c3d6c",
@@ -161,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "587273e2d26b47f3",
+  "active": "41896a493f7ac8e9",
   "lastOpenFiles": [
-    "html/html-menu-strony.md",
     "projekty/szyfrowanie-hasel.md",
+    "html/html-menu-strony.md",
     "projekty",
     "python-programmer/python-programmer-filmy.md",
     "python-programmer/zrodla-ksiazki-kursy-filmy.md",
