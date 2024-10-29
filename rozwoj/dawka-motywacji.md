@@ -1,9 +1,10 @@
 
 1. 
-2. Życie nie polega na posiadaniu dobrych kart, tylko na graniu dobrze kiepskimi kartami - #Robert-Lewis-Stevenson
-3. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
-4. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
-5. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
+2. Człowiek jest w stanie zrobić więcej rzeczy niż jest w stanie sobie kiedykolwiek wyobrazić - jeśli się tylko odważy. Zwykle się nie odważamy, bo rzeczy są trudne. Ale są one trudne tylko dlatego, że się nie odważamy. #Terencjusz
+3. Życie nie polega na posiadaniu dobrych kart, tylko na graniu dobrze kiepskimi kartami - #Robert-Lewis-Stevenson
+4. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
+5. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
+6. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
    
    Powtarzanie tego samego procesu, dokładnie w tej samej formie każdego dnia, jest dla mnie ważne. Jest to forma hipnotyzowania siebie. Aby osiągnąć stan głębokiej koncentracji, potrzebuję regularności”. 
 	Unika nadmiernych rozproszeń, co pomaga mu skupić się na pracy i bieganiu
