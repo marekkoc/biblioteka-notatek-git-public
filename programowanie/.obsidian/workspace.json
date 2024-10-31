@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/__repr__vs__str__.md",
+                "file": "bash/source-dot-powloki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__repr__vs__str__"
+              "title": "source-dot-powloki"
             }
           }
         ],
@@ -180,8 +180,11 @@
   },
   "active": "9c684922a9493b39",
   "lastOpenFiles": [
-    "python/dunder-method.md",
+    "bash/dlugosc-argumentu.md",
+    "bash/source-dot-powloki.md",
+    "bash/for-loop.md",
     "python/__repr__vs__str__.md",
+    "python/dunder-method.md",
     "python/type-annotation.md",
     "python/spaghetti-code-and-clean-code.md",
     "python/nazewnictwo-zmiennych-pep8.md",
@@ -208,17 +211,14 @@
     "figs/python-programmer-ksiazka-skiena-data-science.png",
     "figs/python-programmer-ksiazka-skiena-algorytmy.png",
     "figs/pyyhon-programmer-book-the-best-data-science-book.png",
-    "github/laczenie-repozytoriow-github.md",
     "figs/ksiazka-vaughan-impractical-python-projects.png",
     "figs/ksiazka-mcdonald-dead-simple-python.png",
     "figs/python-programmer-books-intermediate-python.png",
     "html",
-    "bash/wget.md",
     "github",
     "figs/python-programmer-book-python-distiled.png",
     "figs/python-programmer-book-python-destiled.png",
     "figs/Screenshot from 2024-10-16 16-38-36.png",
-    "templates/notatka-ogolna.md",
     "bash",
     "kody/tmp9whg924j",
     "kody/tmpwfzkzfhp",
