@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/spaghetti-code-and-clean-code.md",
+                "file": "python/__repr__vs__str__.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spaghetti-code-and-clean-code"
+              "title": "__repr__vs__str__"
             }
           }
         ],
@@ -180,13 +180,15 @@
   },
   "active": "9c684922a9493b39",
   "lastOpenFiles": [
-    "python/importowanie-modulow.md",
-    "python/spaghetti-code-and-clean-code.md",
-    "python/dokumentowanie-funkcji.md",
+    "python/dunder-method.md",
+    "python/__repr__vs__str__.md",
     "python/type-annotation.md",
+    "python/spaghetti-code-and-clean-code.md",
+    "python/nazewnictwo-zmiennych-pep8.md",
+    "python/importowanie-modulow.md",
+    "python/dokumentowanie-funkcji.md",
     "algorytmy/python-type-annotation.md",
     "algorytmy/midpoint-circle-algorithm.md",
-    "python/nazewnictwo-zmiennych-pep8.md",
     "zrodla-ksiazki-kursy-filmy.md",
     "python",
     "projekty/szyfrowanie-hasel.md",
@@ -218,13 +220,11 @@
     "figs/Screenshot from 2024-10-16 16-38-36.png",
     "templates/notatka-ogolna.md",
     "bash",
-    "algorytmy/Fibonacci-sequence.md",
     "kody/tmp9whg924j",
     "kody/tmpwfzkzfhp",
     "kody/tmppdlxg7xj",
     "kody/tmp6jw51vik",
     "kody/tmpj17ljha4",
-    "templates/algorytm-opis.md",
     "figs/python-programmer-ksiazka-kopec.png"
   ]
 }

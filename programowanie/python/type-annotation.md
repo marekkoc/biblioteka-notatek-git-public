@@ -2,6 +2,7 @@
 Utworzono: 2024-10-13T10:18:00
 Zmodyfikowano: 2024-10-28T10:18:00
 tags:
+  - "#type-annotation"
 ---
 
 # Type annotation - type hint

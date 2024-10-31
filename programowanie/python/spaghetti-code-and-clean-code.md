@@ -3,6 +3,7 @@ Utworzono: 2024-10-28T15:46:00
 Zmodyfikowano: 2024-10-28T15:46:00
 Źródło: chatGPT
 tags:
+  - "#Spaghetti-code"
 ---
 
 "Spaghetti code" to potoczne określenie kodu źródłowego, który jest trudny do zrozumienia, śledzenia i utrzymania. Charakteryzuje się chaotyczną strukturą, z wieloma powiązaniami, skokami, oraz niejasnym przepływem kontroli, co przypomina splątane nitki spaghetti. Kod taki zwykle powstaje w wyniku braku planowania, niewystarczającego stosowania zasad modularności, nadmiarowego użycia instrukcji warunkowych lub pętli oraz zbyt skomplikowanej logiki w jednej funkcji lub module.
