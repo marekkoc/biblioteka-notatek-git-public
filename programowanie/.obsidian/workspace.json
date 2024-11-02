@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash/source-dot-powloki.md",
+                "file": "github/gitignore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-dot-powloki"
+              "title": "gitignore"
             }
           }
         ],
@@ -180,8 +180,9 @@
   },
   "active": "9c684922a9493b39",
   "lastOpenFiles": [
-    "bash/dlugosc-argumentu.md",
     "bash/source-dot-powloki.md",
+    "github/gitignore.md",
+    "bash/dlugosc-argumentu.md",
     "bash/for-loop.md",
     "python/__repr__vs__str__.md",
     "python/dunder-method.md",
@@ -207,7 +208,6 @@
     "python-programmer/python-programmer-i-have-read-over-100-books-on-Python.md",
     "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
     "python-programmer/python-programmer-book-classic-computer-science-problems-in-python.md",
-    "bash/shebang.md",
     "figs/python-programmer-ksiazka-skiena-data-science.png",
     "figs/python-programmer-ksiazka-skiena-algorytmy.png",
     "figs/pyyhon-programmer-book-the-best-data-science-book.png",
