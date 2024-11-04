@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sugestie-RRutkowskiego.md",
+                "file": "Next.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sugestie-RRutkowskiego"
+              "title": "Next"
             }
           }
         ]
@@ -164,11 +164,11 @@
   },
   "active": "b8cd0545f08d44b6",
   "lastOpenFiles": [
+    "rozmowy/AM-sugestie-1.md",
+    "Next.md",
     "professional-research-cv.md",
     "sugestie-RRutkowskiego.md",
     "Untitled",
-    "Next.md",
-    "rozmowy/AM-sugestie-1.md",
     "Dezyderata.md",
     "Instytut Rybny.md",
     "Welcome.md"

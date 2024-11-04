@@ -17,9 +17,9 @@ Rozmowa przebiegała jak zawsze w dobrej, przyjaznej atmosferze. Prof mnie słuc
 
 # Sugestie AM
 1. mam doświadczenie w inżynierii biomedycznej
-2. całe życie spędziłem na uczleni, mam dobry kontakt ze studenatmi, powinienem rozważyć pracę **związaną z dydaktyką**
+2. całe życie spędziłem na uczelni, mam dobry kontakt ze studentami, powinienem rozważyć pracę **związaną z dydaktyką**
 3. Moja mocna stroną **jest komunikacja** z medykami i z ludźmi w ogóle. Jestem otwarty!! Powinienem wyeksponować moją umiejętność kontaktów.
-4. inną opcją jest: ==własna firma==. Powinienem założyć firmę samemu lub z kimś i rozwiązać jakiś problem. Firma może być ukierunkowana na zastosowanie techniki w medycnie, np. z lekarzami
+4. inną opcją jest: ==własna firma==. Powinienem założyć firmę samemu lub z kimś i rozwiązać jakiś problem. Firma może być ukierunkowana na zastosowanie techniki w medycynie, np. z lekarzami
 
 
 ## Wnioski
