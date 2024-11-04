@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43c08ff5f7d00be",
+  "active": "65cda41803aaed9a",
   "lastOpenFiles": [
     "To-do.md",
     "Prokrastynacja.md",
