@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projekty/waga-dashbord-www.md",
+                "file": "html/skalowanie-strony-na-telefonie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "waga-dashbord-www"
+              "title": "skalowanie-strony-na-telefonie"
             }
           }
         ],
@@ -180,8 +180,9 @@
   },
   "active": "9c684922a9493b39",
   "lastOpenFiles": [
-    "projekty/szyfrowanie-hasel.md",
     "projekty/waga-dashbord-www.md",
+    "html/skalowanie-strony-na-telefonie.md",
+    "projekty/szyfrowanie-hasel.md",
     "zrodla-ksiazki-kursy-filmy.md",
     "github/gitignore.md",
     "bash/source-dot-powloki.md",
@@ -207,7 +208,6 @@
     "python-programmer/python-programmer-book-python-destilled.md",
     "python-programmer/python-programmer-impractical-python-projects.md",
     "python-programmer/python-programmer-i-have-read-over-100-books-on-Python.md",
-    "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
     "figs/python-programmer-ksiazka-skiena-data-science.png",
     "figs/python-programmer-ksiazka-skiena-algorytmy.png",
     "figs/pyyhon-programmer-book-the-best-data-science-book.png",

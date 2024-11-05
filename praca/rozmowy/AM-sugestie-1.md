@@ -21,6 +21,12 @@ Rozmowa przebiegała jak zawsze w dobrej, przyjaznej atmosferze. Prof mnie słuc
 3. Moja mocna stroną **jest komunikacja** z medykami i z ludźmi w ogóle. Jestem otwarty!! Powinienem wyeksponować moją umiejętność kontaktów.
 4. inną opcją jest: ==własna firma==. Powinienem założyć firmę samemu lub z kimś i rozwiązać jakiś problem. Firma może być ukierunkowana na zastosowanie techniki w medycynie, np. z lekarzami
 
+## Uwagi profa. z listu 30.10.2024
+
+Co do pominiętych w CV osiągnięć/umiejętności: 
+- oprócz prowadzenia zajęć laboratoryjnych i wykładów przygotowywał Pan ich programy,
+- był Pan instruktorem szkolenia w Tampere, finansowanego przez europejski program COST, w zakresie wykorzystania programu analizy tekstury obrazów.
+
 
 ## Wnioski
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.md",
+                "file": "rozmowy/AM-sugestie-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next"
+              "title": "AM-sugestie-1"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "b8cd0545f08d44b6",
   "lastOpenFiles": [
-    "rozmowy/AM-sugestie-1.md",
     "Next.md",
+    "rozmowy/AM-sugestie-1.md",
     "professional-research-cv.md",
     "sugestie-RRutkowskiego.md",
     "Untitled",
