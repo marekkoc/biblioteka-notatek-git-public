@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "skalowanie-strony-na-telefonie"
             }
+          },
+          {
+            "id": "6b868616af900d38",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c684922a9493b39",
+  "active": "6b868616af900d38",
   "lastOpenFiles": [
     "projekty/waga-dashbord-www.md",
     "html/skalowanie-strony-na-telefonie.md",
