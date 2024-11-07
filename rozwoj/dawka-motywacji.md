@@ -1,12 +1,13 @@
 
 1. 
-2. Bycie realistą jest najprostszą drogą do przeciętności - #Will-Smith
-3. Najważniejszą godziną jest zawsze ta obecna! Najważniejszym człowiekiem jest zawsze ten, który akurat stoi przede mną! Dziełem najkonieczniejszym jest zawsze miłość! - #Johannes-Eckhart
-4. Człowiek jest w stanie zrobić więcej rzeczy niż jest w stanie sobie kiedykolwiek wyobrazić - jeśli się tylko odważy. Zwykle się nie odważamy, bo rzeczy są trudne. Ale są one trudne tylko dlatego, że się nie odważamy. #Terencjusz
-5. Życie nie polega na posiadaniu dobrych kart, tylko na graniu dobrze kiepskimi kartami - #Robert-Lewis-Stevenson
-6. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
-7. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
-8. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
+2. ==Za rok będziesz żałować, że nie zacząłeś dzisiaj== - #Zig-Ziglar
+3. Bycie realistą jest najprostszą drogą do przeciętności - #Will-Smith
+4. Najważniejszą godziną jest zawsze ta obecna! Najważniejszym człowiekiem jest zawsze ten, który akurat stoi przede mną! Dziełem najkonieczniejszym jest zawsze miłość! - #Johannes-Eckhart
+5. Człowiek jest w stanie zrobić więcej rzeczy niż jest w stanie sobie kiedykolwiek wyobrazić - jeśli się tylko odważy. Zwykle się nie odważamy, bo rzeczy są trudne. Ale są one trudne tylko dlatego, że się nie odważamy. #Terencjusz
+6. Życie nie polega na posiadaniu dobrych kart, tylko na graniu dobrze kiepskimi kartami - #Robert-Lewis-Stevenson
+7. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
+8. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
+9. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
    
    Powtarzanie tego samego procesu, dokładnie w tej samej formie każdego dnia, jest dla mnie ważne. Jest to forma hipnotyzowania siebie. Aby osiągnąć stan głębokiej koncentracji, potrzebuję regularności”. 
 	Unika nadmiernych rozproszeń, co pomaga mu skupić się na pracy i bieganiu
