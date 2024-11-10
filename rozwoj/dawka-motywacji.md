@@ -1,14 +1,15 @@
 
 1. 
-2. Nie obawiaj się porażki – to nie porażka, ale mało ambitny cel jest błędem. W wielkiej próbie honorowo jest nawet polec. - Bruce Lee
-3. ==Za rok będziesz żałować, że nie zacząłeś dzisiaj== - #Zig-Ziglar
-4. Bycie realistą jest najprostszą drogą do przeciętności - #Will-Smith
-5. Najważniejszą godziną jest zawsze ta obecna! Najważniejszym człowiekiem jest zawsze ten, który akurat stoi przede mną! Dziełem najkonieczniejszym jest zawsze miłość! - #Johannes-Eckhart
-6. Człowiek jest w stanie zrobić więcej rzeczy niż jest w stanie sobie kiedykolwiek wyobrazić - jeśli się tylko odważy. Zwykle się nie odważamy, bo rzeczy są trudne. Ale są one trudne tylko dlatego, że się nie odważamy. #Terencjusz
-7. Życie nie polega na posiadaniu dobrych kart, tylko na graniu dobrze kiepskimi kartami - #Robert-Lewis-Stevenson
-8. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
-9. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
-10. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
+2. Jeżeli chcesz pełnego bezpieczeństwa, idź do więzienia. Tam cię nakarmią, ubiorą, zapewnią opiekę medyczną i tak dalej. Jedyną rzeczą, której tam brak… jest wolność. - #Dwight-Eisenhower
+3. Nie obawiaj się porażki – to nie porażka, ale mało ambitny cel jest błędem. W wielkiej próbie honorowo jest nawet polec. - Bruce Lee
+4. ==Za rok będziesz żałować, że nie zacząłeś dzisiaj== - #Zig-Ziglar
+5. Bycie realistą jest najprostszą drogą do przeciętności - #Will-Smith
+6. Najważniejszą godziną jest zawsze ta obecna! Najważniejszym człowiekiem jest zawsze ten, który akurat stoi przede mną! Dziełem najkonieczniejszym jest zawsze miłość! - #Johannes-Eckhart
+7. Człowiek jest w stanie zrobić więcej rzeczy niż jest w stanie sobie kiedykolwiek wyobrazić - jeśli się tylko odważy. Zwykle się nie odważamy, bo rzeczy są trudne. Ale są one trudne tylko dlatego, że się nie odważamy. #Terencjusz
+8. Życie nie polega na posiadaniu dobrych kart, tylko na graniu dobrze kiepskimi kartami - #Robert-Lewis-Stevenson
+9. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
+10. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
+11. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
    
    Powtarzanie tego samego procesu, dokładnie w tej samej formie każdego dnia, jest dla mnie ważne. Jest to forma hipnotyzowania siebie. Aby osiągnąć stan głębokiej koncentracji, potrzebuję regularności”. 
 	Unika nadmiernych rozproszeń, co pomaga mu skupić się na pracy i bieganiu
