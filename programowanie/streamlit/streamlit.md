@@ -21,4 +21,13 @@ tags:
 
 # Build and Deploy a Multi-Page Web Application Using Python (Streamlit)
 
+![[code-si-fun-build-and-deploy-multipage-web-app.png]]
+
 [20 min 40](https://www.youtube.com/watch?v=9n4Ch2Dgex0)
+
+# [How to create a Streamlit Multi-Page Web App](https://www.youtube.com/watch?v=YClmpnpszq8 "How to create a Streamlit Multi-Page Web App")
+
+![[coding-is-fun-streamlit-multi-page-web-app.png]]
+
+[6 min 23](https://www.youtube.com/watch?v=YClmpnpszq8)
+
