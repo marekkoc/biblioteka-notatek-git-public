@@ -1,0 +1,88 @@
+---
+Utworzono: 2024-11-23
+Zmodyfikowano: 2024-11-23
+tags:
+---
+
+Te trzy platformy pełnią różne role w cyklu tworzenia i wdrażania aplikacji mobilnych. Oto ich zadania, odpowiedzialności, zastosowania oraz sposób współdziałania:
+
+---
+
+### **1. React Native (reactnative.dev)**
+
+**Zadania i odpowiedzialności:**
+
+- **React Native** to framework umożliwiający tworzenie aplikacji mobilnych przy użyciu języka JavaScript i React.
+- Odpowiada za **frontend aplikacji mobilnej**, czyli interfejs użytkownika oraz logikę, która jest realizowana na urządzeniu użytkownika.
+- Umożliwia tworzenie aplikacji działających na systemach **iOS** i **Android** przy użyciu wspólnego kodu, co znacznie redukuje czas i koszty związane z rozwojem aplikacji.
+
+**Zastosowania:**
+
+- Tworzenie **interaktywnych interfejsów użytkownika**.
+- Obsługa logiki związanej z zachowaniem aplikacji (np. nawigacja między ekranami, animacje, przetwarzanie danych wejściowych).
+- Komunikacja z backendem (np. zapytania do API).
+
+---
+
+### **2. Firebase (firebase.google.com)**
+
+**Zadania i odpowiedzialności:**
+
+- **Firebase** to platforma Google zapewniająca różne narzędzia backendowe.
+- Odpowiada za **backend aplikacji**, czyli funkcjonalności działające po stronie serwera.
+- Zawiera wiele modułów, takich jak:
+    - **Firestore/Realtime Database** - bazy danych do przechowywania danych aplikacji.
+    - **Authentication** - zarządzanie logowaniem i rejestracją użytkowników.
+    - **Hosting** - hosting dla statycznych i dynamicznych zasobów aplikacji.
+    - **Cloud Functions** - uruchamianie funkcji backendowych w odpowiedzi na zdarzenia (serverless).
+    - **Push Notifications** - obsługa powiadomień push.
+
+**Zastosowania:**
+
+- Przechowywanie danych użytkowników w czasie rzeczywistym.
+- Obsługa logowania (np. przez Google, Facebook, e-mail).
+- Zarządzanie analizą użytkowania aplikacji (Firebase Analytics).
+- Wysyłanie powiadomień push lub automatyczne skalowanie funkcji backendowych.
+
+---
+
+### **3. Figma (figma.com)**
+
+**Zadania i odpowiedzialności:**
+
+- **Figma** to narzędzie do projektowania interfejsów użytkownika (UI/UX).
+- Odpowiada za fazę **projektowania i prototypowania** aplikacji przed jej implementacją.
+- Umożliwia współpracę zespołów projektantów i programistów w czasie rzeczywistym.
+
+**Zastosowania:**
+
+- Tworzenie wizualnego projektu aplikacji (np. wygląd ekranów, przycisków, ikon).
+- Tworzenie interaktywnych prototypów, które pokazują, jak użytkownik będzie poruszał się po aplikacji.
+- Udostępnianie zasobów graficznych programistom (eksport ikon, kolorów, stylów, a także kodu CSS).
+
+---
+
+### **Przepływ informacji między systemami:**
+
+1. **Figma → React Native:**
+    
+    - Projektanci przygotowują wizualne projekty aplikacji w Figmie (UI/UX).
+    - Programiści eksportują projekty z Figmy (np. układ ekranów, style, grafiki) i implementują je w kodzie przy użyciu React Native.
+2. **React Native → Firebase:**
+    
+    - Aplikacja napisana w React Native komunikuje się z Firebase za pomocą jego SDK (Software Development Kit).
+    - Dane mogą być wysyłane i pobierane w czasie rzeczywistym z bazy danych Firebase (np. zapisywanie profilu użytkownika, pobieranie listy produktów).
+    - Firebase może dostarczać dodatkowe funkcjonalności, takie jak obsługa logowania czy powiadomień push, które aplikacja React Native integruje.
+3. **Firebase → React Native/Figma:**
+    
+    - Firebase gromadzi dane użytkowników i analizy. Na podstawie tych danych zespół projektowy może dostosowywać projekt w Figmie (np. poprawiając UX).
+    - Powiadomienia push wysyłane przez Firebase są wyświetlane w aplikacji stworzonej w React Native.
+
+---
+
+### **Podsumowanie przepływu ról i danych:**
+
+- **Figma**: Tworzenie wizualnego projektu → programiści wykorzystują te zasoby w React Native.
+- **React Native**: Tworzenie aplikacji mobilnej → aplikacja łączy się z backendem Firebase.
+- **Firebase**: Backend dla danych, logowania i innych funkcji → dane są wykorzystywane w aplikacji React Native.
+- Informacje przepływają między systemami w sposób płynny, zapewniając spójność między fazami projektowania, implementacji i działania aplikacji.

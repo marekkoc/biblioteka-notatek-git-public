@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rozmowy/ABT-aider-perplexity.md",
+                "file": "kursy-deep-lerning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABT-aider-perplexity"
+              "title": "kursy-deep-lerning"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "69b6c31734110c6b",
   "lastOpenFiles": [
+    "rozmowy/ABT-aider-perplexity.md",
     "templates/notatka-ze-spotkania.md",
     "rozmowy/abt-aider-perplexity-2.md",
     "templates/notatka-ogolna.md",
