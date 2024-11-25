@@ -1,6 +1,6 @@
 ---
 Utworzono: 2024-11-23T22:24:00
-Zmodyfikowano: 2024-11-24T15:05:00
+Zmodyfikowano: 2024-11-25T08:34:00
 Źródło: udemy
 tags:
 ---
@@ -8,9 +8,9 @@ tags:
 GitHub [Repo](https://github.com/pythonforeveryonetraining/objectorientedpirates/tree/main)
 
 
-# Sekcja 1. 
+# Sekcja 1. Course Introduction 
 ## 1. [Course Introduction](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189306#overview)
-# Sekcja 2
+# Sekcja 2 Introduction
 ## 2 [Introduction](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189382#overview)
  
  **Pirates and Object Oriented Programming**
@@ -185,5 +185,76 @@ to avert - zapobiec
 
 ## 12. [Add Cook and Deck Scrubber](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189426#overview)
 
-1. 
+1. Dodajemy dwóch członków załogi: Cook and Deck Scrubber
+	   ![[udemy-Loek-OOPirates-12-1.png]]
+2. Dodajemy piratów do danych, czyli do pliku JSON
+3. Dodajemy ich do switcha w funkcji JSONDataLoader 
+4. Dodajemy importy nowo zdefiniowanych subclass do modulu data.py
+5. Aktualizujemy wartość zdobytego łupu
+6. ==Single responsibility== -> code needs to be changed in as few places as possible (!!!) 
+7. Still, there is a problem with OPEN-CLOSE PRINCIPLE violation (!!!) in JSONDalaLoader method. There is a switch, that based on PIRATE TITLE to create instances of classes. We don't know the exact number of pirate titles. Pirate titles can be created and added in the future too. In such a case a new subclasses need to be created and the switch need to be changed. -> in other words: code needs to be changed in a few places. This is an  ```LIMITATION OF INHERITANCE```. The code is not flexible enough, and it is time to introduce a new concept: ==FAVOR COMPOSITION OVER INHERITANCE==
 
+	![[udemy-Loek-OOPirates-12-2.png]]
+# Sekcja 6: Composition
+
+## 13. [Composition over Inheritance](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189432#overview)
+
+1. W sekcji 3 stworzyliśmy dodatkowe klasy za pomocą dziedziczenia, aby uniknąć powtarzania kodu (duplicate code). Przenieśliśmy wtedy część kodu szczególną dla poszczególnych klas (funkcja, oraz stopień) do klas podrzędnych a konstruktor i imię pozostały w klasie nadrzędnej. W ten sposób zmniejszyliśmy ilość kodu pisanego podczas tworzenia nowych obiektów, do konstruktora danej klasy podawaliśmy tylko imię pirata, a stopień i funkcja była automatycznie wywoływana w danej klasie.
+   ![[udemy-Loek-OOPirates-13-1.png]]
+   Jednak liczba klas zaczęła szybko wzrastać wraz z pojawieniem się nowych piratów w załodze, a także ze wzrostem liczby funkcji nowych piratów trzeba było pisać nowe klasy dla nowych zawodów oraz aktualizować funkcję JSONDataLoader w zależności od zawodu. 
+2. Ale od tamtego czasu nastąpiła zasadnicza zmiana!!! Listę piratów wczytujemy z pliku JSON, tam jest wszystko podane, imię, funkcja i stopień pirata, zatem już nie ma potrzeby powtarzania tego wszystkiego w osobnych funkcjach określonych dla każdego zawodu osobno. To usuwa problem wpisywania imienia, funkcji i stopnia każdego pirata ręcznie    ![[udemy-Loek-OOPirates-13-2.png]]
+3. Jednak cały czas musimy zmieniać inne części kodu, takie jak JSONDataLoader
+   ![[udemy-Loek-OOPirates-13-3.png]]
+4. Teraz chcemy to zmienić. Nadal chcemy aby funkcja pirata była powiązana z jego stopniem (przy podziale łupu) ale nie chcemy już mieć tylu podklas związanych z każdym zawodem osobno. Zamiast podklasy, utworzymy nową klasę ```Role``` związaną z funkcją i stopniem i połączoną z klasą nadrzędną - Pirat. 
+5. Tą nowo utworzoną klasę będziemy przekazywać jako argument podczas tworzenia obiektu Pirat! Obiekt ```Role``` będzie zachowywany jako atrybut klasy ```Pirat```. Dzięki temu możemy ```skasować wszystkie klasy dziedziczące!!!```
+6. Teraz przechodzimy do funkcji JSONDataLodader(). Usuwamy całą dużą część związaną ze ```switchem``` i ze sprawdzeniem roli pirata. Zastępujemy to z użyciem parametru ```role```. Wystarczy jedna linia kodu (!!!)
+7. Role class is instantiated and pass to each Pirate object. Zatem każdy pirat ma Role a Role ma title and rank.
+8. Dlatego musimy zmienić funkcję main.py w 3 miejscach
+9. To sie nazywa ==Kompozycja - Composition==
+10. Association line is drown between two classes. When the Pirate object is deleted, the Role object is deleted too. As the Pirate object is the ==owner== of the Role object and this is indicated with a ==black diamond==.
+    ![[udemy-Loek-OOPirates-13-4.png]]
+11. A Pirate object is ```composed of``` a name and role. It is known as a ==has relationship==. ==A Pirate has a role==
+12. Aby zapobiec duplicate code zaczęliśmy od dziedziczenie, wtedy była to najlepsza decyzja. Ale liczba klas dziedziczących szybko rosła i powodowała zmiany w kodzie gdy pojawiał się pirat z nową rolą.
+13. Ważną rolą SOFTWARE ENGINEERING jest to aby wiedzieć kiedy należy zmienić budowę systemu jako że kompozycja teraz jest już lepszym rozwiązaniem.
+    ![[udemy-Loek-OOPirates-13-5.png]]
+14. Dzięki tej zmianie usunęliśmy sporo kodu który trzeba cały czas modyfikować gdy pojawia się nowa rola pirata. Dzięki temu system stał się znacznie łatwiejszy w obsłudze i elastyczny.
+    ![[udemy-Loek-OOPirates-13-6.png]]
+15.  Dodajemy nowego członka załogi: Doc  Bone; Doctor; 5 do pliku json.dat, aktualizujemy łup do 1610 dukatów.
+16. Oto zaktualizowany diagram klas UML
+    ![[udemy-Loek-OOPirates-13-7.png]]
+17. Usunięcie klas dziedziczących spowodowało wzrost przejrzystości diagramu i zwiększyło "lekkość" projektu.
+18. Co zrobić ze starą klasą DataLoader() -> o tym w następnej części.
+
+## 14 [Test with Test DataLoader](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189436#overview)
+
+1. DataLoader() - faliste linie wskazuję na problemy w kodzie.
+		
+		wiggly lines - linie faliste
+2.  Zmieniamy JSONDataLoader na DataLoader() w main.py
+3. Mamy nowy JSONDataLoader(), czy powinniśmy skasować starty DataLoader()?
+4. NIE! Zamienimy cel DataLoader aby teraz był ```Test Data Loader``` Dlaczego to nam się przyda??? Poniewaz:
+	1. Gdy baza danych lub sieć internetowa będzie miała awarie to nie będziemy mogli wczytać/pobrać pliku z danymi ```data.json``` A to jest bardzo frustrujące, gdy nie możemy rozwijać kodu ze względu na brak danych. Jeśli będziemy mieć dane testowe wpisane na sztywno (hard coded) zawsze będziemy mogli testować i rozwijać nasz program.
+	2. Dane wpisane na sztywno (hard coded) są bardzo dobre do testowania, ponieważ ZAWSZE POWINNY DAĆ TEN SAM ZNANY/PRZEWIDZIANY WYNIK. Dobrze jest zastosować w danych testowych ROZPOZNAWALNE NAZWY I ŁATWE DO OBLICZEŃ WARTOŚCI 
+	   ![[udemy-Loek-OOPirates-14-1.png]]
+5.  Zatem teraz przerobimy stertą funkcję DataLoader() do nowych celów.
+6. DataLoader() -> TestDataLoader() w kilu miejscach
+7. ducates = 100
+8. Sprawdzamy ponownie czy JSONDataLoader() nadal działa? -> TAK!
+9. Ponownie przełączamy się do TestDataLoader() i sprawdzamy czy działa? -> Tak!
+10. To jest super! Przełączanie się pomiędzy danymi testowymi i danym JSON jest bardzo łatwe ponieważ wystarczy utworzyć obiekt innej klasy!!!!
+    ![[udemy-Loek-OOPirates-14-2.png]]
+11.  Obie klasy z danymi zawierają funkcję o tej samej nazwie (współdzielą nazwę funkcji)
+    ![[udemy-Loek-OOPirates-14-3.png]] co jest kluczem do ==POLIMORFIZMU==.
+
+12. Nazwy w danych testowych, są fejkowe, znane i łatwe do zapamiętania. Zawsze należy wybrać takie nazwy np bohaterów z filmów, z bajek gdy prezentujemy działanie naszego kodu kolegom z grupy. To automatycznie wskaże im, że mają przed sobą projekt który jest w toku, który nadal jest rozwijany, dzięki czemu powstrzymają się nad krytyką pewnych części kodu/ projektu które wymagają jeszcze dopracowania.
+13. Zobaczmy teraz diagram zależności w aktualnym stanie naszego kodu:
+    ![[udemy-Loek-OOPirates-14-4.png]]
+14. A jak wygląda diagram UML?
+	![[udemy-Loek-OOPirates-14-5.png]]
+15. Aby uprościć diagram  zamieniamy obie klasy w jedną klasę DataLoader() (tylko na diagramie), kod pozostaje ten sam. Robimy tak bo obie klasy mają wspólny interfejs (funkcję o tej samej nazwie). To jest tylko po to aby uprościć diagram UML.
+    ![[udemy-Loek-OOPirates-14-6.png]]
+    
+
+# Sekcja 7. Payroll
+## 15. [Payroll](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189442#overview)
+1. 
