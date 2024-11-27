@@ -257,4 +257,75 @@ to avert - zapobiec
 
 # Sekcja 7. Payroll
 ## 15. [Payroll](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189442#overview)
+
+1. The dependency diagram shows the logical division of functionality in the system.
+   ![[udemy-Loek-OOPirates-15-1.png]]
+2. Single responsibility of modules and classes should have clear defined responsibilities.
+3. WHAT IS RESPONSIBILITY OF main.py? -> ==main.py controls the flow of the app! ==
+	1. import modules
+	2. create an object tree
+	3. triggers functionality
+	4. outputs the results
+4. Currently main.py calculates the pirate shares! It shouldn't be done here!
+5. The code to calculate shares and the code to print the results is tight together!
+6. We can move it to a new module payroll.py but that module should be responsible for calculate share NOT for PRINTING THE REPORT.
+7. ==GENERAL RULE== : NEVER PUT PRINT STATEMENT IN CLASSES AND FUNCTIONS!!! LET CLASSES AND FUNCTIONS CALCULATE THINGS AND RETURN THE RESULTS. 
+
+| ![[udemy-Loek-OOPirates-15-2.png]] | ![[udemy-Loek-OOPirates-15-3.png]] |
+| ---------------------------------- | ---------------------------------- |
+
+
+8. There are a few steps to take:
+	1. Create a Payroll class
+	2. create share method that takes a crew list and total ducats
+	3. return shares including to what pirate it belongs
+	4. creae a Share class
+9. We need a class that contains pirate and its share
+10. Let's use Payroll class in main.py
+11. Now we need to print the list of shares
+12. Main in quite simple now! There is no calculation logic in main.py any more. Is responsible for
+	1. importing and instantiating classes
+	2. use them
+	3. print the result in the terminal
+	4. there is no data loading or calculation logic any more
+	5. all functionality is done in other modules
+	![[udemy-Loek-OOPirates-15-4.png]]
+13. During the last update we have changed only main.py and payroll.py, we didn't change neither pirates.py nor data.py -> signle responsibility at work!!!
+    ![[udemy-Loek-OOPirates-15-5.png]]
+14. Updated UML diagram. A Share object contain Pirate object, but with an open diamond. When a Share object is destroyed, a Pirate object is NOT DESTROYED, as it is stored in Pirates variable and owned by main.py!!!! THIS TYPE OF ASSOCIATION IS CALLED ==AGGREGATION== and is indicated with the ==open diamond==.
+    ![[udemy-Loek-OOPirates-15-6.png]]
+
+## 16. [Missions](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189444#overview)
+1. The list of pirates is growing, however not all of them are needed for each mission. Sometimes the captan chooses a subset to build a crew. So the system needs MISSIONS. Missions specifies  the loot and  the crew. 
+   ![[udemy-Loek-OOPirates-16-1.png]]
+2. Let's create the test data, and later on create an appropriate JSON file.
+3. Let's create a mission.py module.
+4. Implement the Mission in a TestDataLoader() . Create a NEW METHODS that creates thes mission
+5. Let's use test mission in main.py. We can delete ```pirate``` list and ```ducates``` variables as those variables are loaded from the ```mission``` object.
+   ![[udemy-Loek-OOPirates-16-2.png]]
+6. Main calls the methods from modules and prints the results. 
+   ![[udemy-Loek-OOPirates-16-3.png]]
+7.  Let's prepare the JSON file that includes ```missions``` as well.
+
+## 17. [Missions JSON](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189448#overview)
+
+1. Let's update the structure of JSON file data.json with ```mission``` part
+![[udemy-Loek-OOPirates-17-1.png]]
+2. Let's update JSONDataLoader() with ```load_missions()``` 
+3. Let's switch data loaders in main.py.
+   ![[udemy-Loek-OOPirates-17-2.png]]
+4. The dependency diagram old vs updated
+
+
+| ![[udemy-Loek-OOPirates-17-3.png]] | ![[udemy-Loek-OOPirates-17-4.png]] |
+| ---------------------------------- | ---------------------------------- |
+   
+5. The class diagram
+   ![[udemy-Loek-OOPirates-17-5.png]]
+   
+
+# Sekcja 8. Bank Exchange
+
+## 18. [Exchange loot](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189452#overview)
+
 1. 
