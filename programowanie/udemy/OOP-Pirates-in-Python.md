@@ -1,11 +1,12 @@
 ---
 Utworzono: 2024-11-23T22:24:00
-Zmodyfikowano: 2024-11-25T08:34:00
+Zmodyfikowano: 2024-11-30T08:37:00
 Źródło: udemy
 tags:
 ---
 
 GitHub [Repo](https://github.com/pythonforeveryonetraining/objectorientedpirates/tree/main)
+Course [www](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/?couponCode=CPSALEBRAND24)
 
 
 # Sekcja 1. Course Introduction 
@@ -328,4 +329,43 @@ to avert - zapobiec
 
 ## 18. [Exchange loot](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189452#overview)
 
-1. 
+1.  słowniczek:
+	1. they must to agree with the terms - muszą się zgodzić na warunku
+2. We add programmer to the payroll list with rank 11. 
+3. Musimy zamienić loot z liczby (int) na listę liczb 
+   ![[udemy-Loek-OOPirates-18-1.png]]
+4. Let's create a LootItem class in the mission.py module
+5. The TestDataLoader() needs to return LootItems for mission. We replace a list of ducats with the list of LootItems in function load_mission() in the TestDataLoader() class.
+6. We need to change the Mission class dunder string. Instead the number of ducats, we will return the number of ducats.
+7. Lets explain a ```currency_key``` we used to calculate the value of each loot item type. It is kind of a bank exchange rate. Our bank is a Turtle, who stores the ```currency table```. 
+   ![[udemy-Loek-OOPirates-18-2.png]]
+8.  We create a ``Currency`` class, that stores a ``name`` and ``exchange rate`` and a method ``value_in_ducates()`` that takes amount of loot items and changes it to ducates.
+  ```
+ number of Goold Chains -> value in Ducats
+```
+   ![[udemy-Loek-OOPirates-18-3.png]] The class does not contain the ``currency_key`` !!!
+9. Currencies are stored in dictionary, where each ``key`` i a ``currency_key``.
+10. We need to create an ``exchange.py`` module with the ``Currency`` class.
+11. ``LoadCurrency()`` method that returns the dictionary in the ``TestDataLoader`` class.
+12. Now ``Mission`` returns ``loot_itmes`` and a ``list of currencies`` is available. 
+13. We can connect things in a new ``Bank`` class.
+14. As exchange rates change all the time, we can't load them once, we must load them each time when they are needed.
+15. ``Bank`` class can store an object of ``DataLoader`` class, this allows the ``Bank`` class to load a ``currency_rate`` when it need it.
+16. ``exhange()`` method, converts the list of loot.
+## 19. [Currency real data](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189456#overview)
+
+1. Let's update ``data.json`` with the last ``Mission``
+2. We need to create JSON ``currency_loader()`` in ``JSONLoader``.
+3. UML diagram
+   ![[udemy-Loek-OOPirates-19-1.png]]
+4. Dependency diagram
+   ![[udemy-Loek-OOPirates-19-2.png]]
+5. The final thing to do: test the system with a new mission 
+   
+## 20. [The reward](https://www.udemy.com/course/object-oriented-programming-adventure-in-python/learn/lecture/40189460#overview)
+
+1. Dodajemy ``Perły`` w łupie. Aktualizujemy tylko ``dane.json`` i ``currencies.json``
+2. i to starczy!!! Cały system działa!!!!
+   ![[udemy-Loek-OOPirates-20-1.png]]
+3. Dodajemy Sama jako ``Programmer`` z ``rank`` 11 do następnej listy.
+4. Nowa misja
