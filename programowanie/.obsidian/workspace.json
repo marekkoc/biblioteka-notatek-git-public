@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "udemy/OOP-Pirates-in-Python.md",
+                "file": "python-programmer/python-programmer-i-have-read-over-100-books-on-Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP-Pirates-in-Python"
+              "title": "python-programmer-i-have-read-over-100-books-on-Python"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50390243530273
+    "width": 414.50390243530273
   },
   "right": {
     "id": "c99bb1052c9c3d6c",
@@ -165,6 +165,22 @@
   },
   "active": "a413d7ca3af86d24",
   "lastOpenFiles": [
+    "python-programmer/python-programmer-how-to-build-a-web-app-in-python-complete-roadmap.md",
+    "python-programmer/python-programmer-filmy.md",
+    "python-programmer/python-programmer-book-python-destilled.md",
+    "python-programmer/python-programmer-book-classic-computer-science-problems-in-python.md",
+    "python-programmer/python-programmer-best-sql-books.md",
+    "python-programmer/python-programmer-best-data-science-book.md",
+    "projekty/rozne.md",
+    "code-with-josh/expense-tracker-app.md",
+    "code-with-josh/fitness-tracker.md",
+    "code-with-josh/ice-cream-never-use-print.md",
+    "code-with-josh/python-app-development-full-course.md",
+    "code-with-josh/python-desktop-app.md",
+    "code-with-josh/wather-app.md",
+    "code-with-josh/python-mobile-app.md",
+    "projekty/baza-danych-ksiazek.md",
+    "udemy/OOP-Pirates-in-Python.md",
     "figs/udemy-Loek-OOPirates-20-1.png",
     "figs/udemy-Loek-OOPirates-19-2.png",
     "figs/udemy-Loek-OOPirates-19-1.png",
@@ -175,9 +191,7 @@
     "figs/udemy-Loek-OOPirates-17-4.png",
     "figs/udemy-Loek-OOPirates-17-3.png",
     "figs/udemy-Loek-OOPirates-17-2.png",
-    "figs/udemy-Loek-OOPirates-17-1.png",
     "udemy/().md",
-    "udemy/OOP-Pirates-in-Python.md",
     "python/klasa-abstrakcyjna-dekorator-abstractmethod.md",
     "python/zmienna-klasy.md",
     "python/open-close-principle.md",
@@ -188,22 +202,8 @@
     "python/nazewnictwo-zmiennych-pep8.md",
     "python/dokumentowanie-funkcji.md",
     "python/virtual-environment.md",
-    "algorytmy/rekurencja.md",
-    "python/importowanie-modulow.md",
-    "python/coupling.md",
-    "github/gitignore.md",
     "streamlit",
-    "python/10-fajnych-funkcji-pythona.md",
-    "python/20-fajnych-funkcji-pythona.md",
-    "python/operator-trojargumentowy.md",
-    "aplikacje-mobilne/technologie-aplikacji-mobilnych.md",
-    "html/skalowanie-strony-na-telefonie.md",
     "aplikacje-mobilne",
-    "python/self-tworzenie-obiektu.md",
-    "python/metoda-clasowa-vs-metoda-statyczna.md",
-    "code-with-josh/python-app-development-full-course.md",
-    "code-with-josh/ice-cream-never-use-print.md",
-    "code-with-josh/fitness-tracker.md",
     "code-with-josh",
     "python",
     "projekty",
