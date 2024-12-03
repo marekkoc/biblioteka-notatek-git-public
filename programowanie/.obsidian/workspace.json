@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/find-cp-wybrane-pliki.md",
+                "file": "python/type-annotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "find-cp-wybrane-pliki"
+              "title": "type-annotation"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "a413d7ca3af86d24",
   "lastOpenFiles": [
-    "python/type-annotation.md",
     "python/find-cp-wybrane-pliki.md",
+    "python/type-annotation.md",
     "python/spaghetti-code-and-clean-code.md",
     "python/self-tworzenie-obiektu.md",
     "python/rigid-code-vs-fragile-code.md",
