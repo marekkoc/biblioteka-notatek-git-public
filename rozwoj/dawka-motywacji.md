@@ -1,6 +1,7 @@
 
-1. 
-2. ==Człowiek, który marnuje swój czas, nie poznał jeszcze wartości życia== - #Karol-Darwin
+1.  
+2. Zrób to zanim będziesz gotów, gdyż nigdy nie będziesz gotów jeśli będziesz czekać - #Les-Brown
+3. ==Człowiek, który marnuje swój czas, nie poznał jeszcze wartości życia== - #Karol-Darwin
 4. Jeżeli chcesz pełnego bezpieczeństwa, idź do więzienia. Tam cię nakarmią, ubiorą, zapewnią opiekę medyczną i tak dalej. Jedyną rzeczą, której tam brak… jest wolność. - #Dwight-Eisenhower
 5. Nie obawiaj się porażki – to nie porażka, ale mało ambitny cel jest błędem. W wielkiej próbie honorowo jest nawet polec. - Bruce Lee
 6. ==Za rok będziesz żałować, że nie zacząłeś dzisiaj== - #Zig-Ziglar
