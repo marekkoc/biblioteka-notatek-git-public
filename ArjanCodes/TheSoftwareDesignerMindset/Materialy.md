@@ -1,1 +1,0 @@
-1. [GitHub](https://github.com/ArjanCodes/software-designer-mindset)

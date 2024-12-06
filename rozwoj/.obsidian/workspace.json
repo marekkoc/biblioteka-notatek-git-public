@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filmy.md",
+                "file": "conor-neill/Filmy.md",
                 "mode": "source",
                 "source": false
               },
@@ -178,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "985cc0387a9ac1d3",
+  "active": "bde0b68550010b94",
   "lastOpenFiles": [
     "dawka-motywacji.md",
-    "Filmy.md",
+    "conor-neill/Filmy.md",
     "conor-neill",
     "To-do.md",
     "Prokrastynacja.md",
