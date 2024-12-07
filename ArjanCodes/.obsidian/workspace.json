@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-day-design-challenge/01-KISS.md",
+                "file": "TheSoftwareDesignerMindset/01-type-hints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-KISS"
+              "title": "01-type-hints"
             }
           }
         ]
@@ -164,16 +164,18 @@
   },
   "active": "44d0cca37c0bc4db",
   "lastOpenFiles": [
+    "TheSoftwareDesignerMindset/pdfs/20241204_Welcome-to-The-Software-Designer-Mindset.pdf",
+    "TheSoftwareDesignerMindset/01-type-hints.md",
+    "TheSoftwareDesignerMindset/Materialy.md",
+    "30-day-design-challenge/01-KISS.md",
     "templates/notatka-z-algorytmu.md",
     "templates/notatka-ogolna.md",
     "templates/algorytm-opis.md",
-    "30-day-design-challenge/01-KISS.md",
     "2024-12-05.md",
     "Welcome.md",
     "Untitled.md",
     "30-day-design-challenge/Materialy.md",
     "templates",
-    "TheSoftwareDesignerMindset/Materialy.md",
     "TheSoftwareDesignerMindset"
   ]
 }

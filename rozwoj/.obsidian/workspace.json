@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conor-neill/Filmy.md",
+                "file": "dawka-motywacji.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filmy"
+              "title": "dawka-motywacji"
             }
           }
         ],
@@ -178,16 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bde0b68550010b94",
+  "active": "985cc0387a9ac1d3",
   "lastOpenFiles": [
-    "dawka-motywacji.md",
+    "8 powodów prokrastynacji.md",
     "conor-neill/Filmy.md",
+    "dawka-motywacji.md",
     "conor-neill",
     "To-do.md",
     "Prokrastynacja.md",
     "zrodla-filmy-materialy.md",
     "Python-programmer-filmy.md",
-    "8 powodów prokrastynacji.md",
     "ksiazki/2018xOakley_Ucz-sie-szybko-i-skutecznie.md",
     "figs/20240822.png",
     "codzienne/2024-08-25.md",
