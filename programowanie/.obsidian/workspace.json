@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code-with-josh/sql-for-beginners-SQLite.md",
+                "file": "inzynieria-oprogramowania/duck-typing-strukturalny-polimorfizm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sql-for-beginners-SQLite"
+              "title": "duck-typing-strukturalny-polimorfizm"
             }
           }
         ]
@@ -165,8 +165,11 @@
   },
   "active": "a413d7ca3af86d24",
   "lastOpenFiles": [
-    "templates/notatka-ogolna.md",
+    "inzynieria-oprogramowania/rigid-code-vs-fragile-code.md",
+    "inzynieria-oprogramowania/spaghetti-code-and-clean-code.md",
+    "inzynieria-oprogramowania/duck-typing-strukturalny-polimorfizm.md",
     "code-with-josh/sql-for-beginners-SQLite.md",
+    "templates/notatka-ogolna.md",
     "code-with-josh/figs/sql-for-beginners-SQLite.png",
     "code-with-josh/figs/Screenshot from 2024-12-06 19-14-56.png",
     "code-with-josh/figs",
@@ -192,8 +195,6 @@
     "python/type-annotation.md",
     "bash/virtual-environment.md",
     "inzynieria-oprogramowania/zmienna-klasy.md",
-    "inzynieria-oprogramowania/spaghetti-code-and-clean-code.md",
-    "inzynieria-oprogramowania/rigid-code-vs-fragile-code.md",
     "inzynieria-oprogramowania",
     "bash/find",
     "figs/udemy-Loek-OOPirates-20-1.png",
