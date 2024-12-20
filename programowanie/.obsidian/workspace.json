@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inzynieria-oprogramowania/duck-typing-strukturalny-polimorfizm.md",
+                "file": "udemy/OOP-Pirates-in-Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "duck-typing-strukturalny-polimorfizm"
+              "title": "OOP-Pirates-in-Python"
             }
           }
         ]
@@ -165,9 +165,9 @@
   },
   "active": "a413d7ca3af86d24",
   "lastOpenFiles": [
+    "inzynieria-oprogramowania/duck-typing-strukturalny-polimorfizm.md",
     "inzynieria-oprogramowania/rigid-code-vs-fragile-code.md",
     "inzynieria-oprogramowania/spaghetti-code-and-clean-code.md",
-    "inzynieria-oprogramowania/duck-typing-strukturalny-polimorfizm.md",
     "code-with-josh/sql-for-beginners-SQLite.md",
     "templates/notatka-ogolna.md",
     "code-with-josh/figs/sql-for-beginners-SQLite.png",
