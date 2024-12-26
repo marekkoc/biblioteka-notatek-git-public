@@ -1,18 +1,19 @@
 
 1.  
-2. Narzekałem, że nie mam butów, dopóki nie spotkałem człowieka, który nie miał stóp - #James-Matthew-Barrie
-3. Zrób to zanim będziesz gotów, gdyż nigdy nie będziesz gotów jeśli będziesz czekać - #Les-Brown
-4. ==Człowiek, który marnuje swój czas, nie poznał jeszcze wartości życia== - #Karol-Darwin
-5. Jeżeli chcesz pełnego bezpieczeństwa, idź do więzienia. Tam cię nakarmią, ubiorą, zapewnią opiekę medyczną i tak dalej. Jedyną rzeczą, której tam brak… jest wolność. - #Dwight-Eisenhower
-6. Nie obawiaj się porażki – to nie porażka, ale mało ambitny cel jest błędem. W wielkiej próbie honorowo jest nawet polec. - Bruce Lee
-7. ==Za rok będziesz żałować, że nie zacząłeś dzisiaj== - #Zig-Ziglar
-8. Bycie realistą jest najprostszą drogą do przeciętności - #Will-Smith
-9. Najważniejszą godziną jest zawsze ta obecna! Najważniejszym człowiekiem jest zawsze ten, który akurat stoi przede mną! Dziełem najkonieczniejszym jest zawsze miłość! - #Johannes-Eckhart
-10. Człowiek jest w stanie zrobić więcej rzeczy niż jest w stanie sobie kiedykolwiek wyobrazić - jeśli się tylko odważy. Zwykle się nie odważamy, bo rzeczy są trudne. Ale są one trudne tylko dlatego, że się nie odważamy. #Terencjusz
-11. Życie nie polega na posiadaniu dobrych kart, tylko na graniu dobrze kiepskimi kartami - #Robert-Lewis-Stevenson
-12. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
-13. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
-14. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
+2. ==Nic nie jest szczególnie trudne do zrobienia, jeśli tylko rozłożyć to na etapy.== - #Henry-Ford
+3. Narzekałem, że nie mam butów, dopóki nie spotkałem człowieka, który nie miał stóp - #James-Matthew-Barrie
+4. Zrób to zanim będziesz gotów, gdyż nigdy nie będziesz gotów jeśli będziesz czekać - #Les-Brown
+5. ==Człowiek, który marnuje swój czas, nie poznał jeszcze wartości życia== - #Karol-Darwin
+6. Jeżeli chcesz pełnego bezpieczeństwa, idź do więzienia. Tam cię nakarmią, ubiorą, zapewnią opiekę medyczną i tak dalej. Jedyną rzeczą, której tam brak… jest wolność. - #Dwight-Eisenhower
+7. Nie obawiaj się porażki – to nie porażka, ale mało ambitny cel jest błędem. W wielkiej próbie honorowo jest nawet polec. - Bruce Lee
+8. ==Za rok będziesz żałować, że nie zacząłeś dzisiaj== - #Zig-Ziglar
+9. Bycie realistą jest najprostszą drogą do przeciętności - #Will-Smith
+10. Najważniejszą godziną jest zawsze ta obecna! Najważniejszym człowiekiem jest zawsze ten, który akurat stoi przede mną! Dziełem najkonieczniejszym jest zawsze miłość! - #Johannes-Eckhart
+11. Człowiek jest w stanie zrobić więcej rzeczy niż jest w stanie sobie kiedykolwiek wyobrazić - jeśli się tylko odważy. Zwykle się nie odważamy, bo rzeczy są trudne. Ale są one trudne tylko dlatego, że się nie odważamy. #Terencjusz
+12. Życie nie polega na posiadaniu dobrych kart, tylko na graniu dobrze kiepskimi kartami - #Robert-Lewis-Stevenson
+13. Żyj tak, byś przy końcu nie starał się życia swego naprawiać #Johannes-Eckhart
+14. **Nie jestem bardzo bystry, po prostu długo siedzę nad problemem**. #Albert-Einstein  
+15. ==Kiedy piszę powieść, wstaję o czwartej rano i pracuję przez pięć do sześciu godzin. Po południu biegam przez dziesięć kilometrów lub pływam przez półtora kilometra (albo robię jedno i drugie), następnie czytam i słucham muzyki. Kładę się spać o 21:00”==
    
    Powtarzanie tego samego procesu, dokładnie w tej samej formie każdego dnia, jest dla mnie ważne. Jest to forma hipnotyzowania siebie. Aby osiągnąć stan głębokiej koncentracji, potrzebuję regularności”. 
 	Unika nadmiernych rozproszeń, co pomaga mu skupić się na pracy i bieganiu
