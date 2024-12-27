@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "udemy/OOP-Pirates-in-Python.md",
+                "file": "python/operator-trojargumentowy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP-Pirates-in-Python"
+              "title": "operator-trojargumentowy"
+            }
+          },
+          {
+            "id": "5fda65be0f81508d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/operator-przypisania.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "operator-przypisania"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d43bf17528105a4",
+  "active": "5fda65be0f81508d",
   "lastOpenFiles": [
+    "python/operator-trojargumentowy.md",
+    "python/operator-przypisania.md",
+    "python/try-except.md",
+    "udemy/OOP-Pirates-in-Python.md",
     "inzynieria-oprogramowania/duck-typing-strukturalny-polimorfizm.md",
     "inzynieria-oprogramowania/rigid-code-vs-fragile-code.md",
     "inzynieria-oprogramowania/spaghetti-code-and-clean-code.md",
@@ -179,8 +198,6 @@
     "projekty/waga-dashbord-www.md",
     "templates/algorytm-opis.md",
     "code-with-josh/python-mobile-app.md",
-    "python/operator-trojargumentowy.md",
-    "udemy/OOP-Pirates-in-Python.md",
     "yt-taylor-software/projekty-rozne.md",
     "yt-taylor-software",
     "python/importowanie-modulow.md",
@@ -193,8 +210,6 @@
     "inzynieria-oprogramowania/open-close-principle.md",
     "bash/find/find-cp-wybrane-pliki.md",
     "python/type-annotation.md",
-    "bash/virtual-environment.md",
-    "inzynieria-oprogramowania/zmienna-klasy.md",
     "inzynieria-oprogramowania",
     "bash/find",
     "figs/udemy-Loek-OOPirates-20-1.png",
