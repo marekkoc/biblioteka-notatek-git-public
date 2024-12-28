@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inzynieria-oprogramowania/scrapping.md",
+                "file": "github/gitignore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scrapping"
+              "title": "gitignore"
+            }
+          },
+          {
+            "id": "492f2e710d20ecfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bazy-danych/sqlalchemy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sqlalchemy"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,10 +206,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1514432ed722d9b",
+  "active": "492f2e710d20ecfc",
   "lastOpenFiles": [
-    "inzynieria-oprogramowania/().md",
+    "bazy-danych/sql-for-beginners-SQLite.md",
+    "github/gitignore.md",
+    "bazy-danych/sqlalchemy.md",
+    "bazy-danych",
     "inzynieria-oprogramowania/scrapping.md",
+    "inzynieria-oprogramowania/().md",
     "zrodla-ksiazki-kursy-filmy.md",
     "python/operator-przypisania.md",
     "python/operator-trojargumentowy.md",
@@ -221,9 +239,6 @@
     "inzynieria-oprogramowania/asocjacja-agregacja-kompozycja.md",
     "inzynieria-oprogramowania/coupling.md",
     "python/asocjacja-agregacja-kompozycja.md",
-    "python/coupling.md",
-    "inzynieria-oprogramowania/klasa-abstrakcyjna-dekorator-abstractmethod.md",
-    "inzynieria-oprogramowania/metoda-clasowa-vs-metoda-statyczna.md",
     "inzynieria-oprogramowania",
     "bash/find",
     "figs/udemy-Loek-OOPirates-20-1.png",
@@ -238,7 +253,6 @@
     "streamlit",
     "aplikacje-mobilne",
     "code-with-josh",
-    "python",
-    "projekty"
+    "python"
   ]
 }
