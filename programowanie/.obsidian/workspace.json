@@ -34,37 +34,9 @@
               "icon": "lucide-file",
               "title": "zrodla-ksiazki-kursy-filmy"
             }
-          },
-          {
-            "id": "f1514432ed722d9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "github/gitignore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gitignore"
-            }
-          },
-          {
-            "id": "492f2e710d20ecfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bazy-danych/sqlalchemy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sqlalchemy"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,11 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "492f2e710d20ecfc",
+  "active": "5fda65be0f81508d",
   "lastOpenFiles": [
-    "bazy-danych/sql-for-beginners-SQLite.md",
     "github/gitignore.md",
+    "python/dekoratory.md",
     "bazy-danych/sqlalchemy.md",
+    "bazy-danych/sql-for-beginners-SQLite.md",
     "bazy-danych",
     "inzynieria-oprogramowania/scrapping.md",
     "inzynieria-oprogramowania/().md",
@@ -238,7 +211,6 @@
     "python/importowanie-modulow.md",
     "inzynieria-oprogramowania/asocjacja-agregacja-kompozycja.md",
     "inzynieria-oprogramowania/coupling.md",
-    "python/asocjacja-agregacja-kompozycja.md",
     "inzynieria-oprogramowania",
     "bash/find",
     "figs/udemy-Loek-OOPirates-20-1.png",
