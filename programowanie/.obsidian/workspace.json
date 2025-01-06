@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zrodla-ksiazki-kursy-filmy.md",
+                "file": "projekty/baza-danych-ksiazek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zrodla-ksiazki-kursy-filmy"
+              "title": "baza-danych-ksiazek"
+            }
+          },
+          {
+            "id": "ba431a467c15debf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projekty/money-manager-mk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "money-manager-mk"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,16 +192,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fda65be0f81508d",
+  "active": "ba431a467c15debf",
   "lastOpenFiles": [
+    "projekty/baza-danych-ksiazek.md",
+    "projekty/money-manager-mk.md",
+    "github/laczenie-repozytoriow-github.md",
     "github/gitignore.md",
+    "zrodla-ksiazki-kursy-filmy.md",
     "python/dekoratory.md",
     "bazy-danych/sqlalchemy.md",
     "bazy-danych/sql-for-beginners-SQLite.md",
     "bazy-danych",
     "inzynieria-oprogramowania/scrapping.md",
     "inzynieria-oprogramowania/().md",
-    "zrodla-ksiazki-kursy-filmy.md",
     "python/operator-przypisania.md",
     "python/operator-trojargumentowy.md",
     "python/try-except.md",
@@ -201,7 +218,6 @@
     "code-with-josh/figs/Screenshot from 2024-12-06 19-14-56.png",
     "code-with-josh/figs",
     "projekty/monitorowanie-cen-walut.md",
-    "projekty/baza-danych-ksiazek.md",
     "projekty/szyfrowanie-hasel.md",
     "projekty/waga-dashbord-www.md",
     "templates/algorytm-opis.md",
@@ -209,8 +225,6 @@
     "yt-taylor-software/projekty-rozne.md",
     "yt-taylor-software",
     "python/importowanie-modulow.md",
-    "inzynieria-oprogramowania/asocjacja-agregacja-kompozycja.md",
-    "inzynieria-oprogramowania/coupling.md",
     "inzynieria-oprogramowania",
     "bash/find",
     "figs/udemy-Loek-OOPirates-20-1.png",

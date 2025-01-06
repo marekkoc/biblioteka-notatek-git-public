@@ -16,3 +16,11 @@ System może zawierać:
 	- baze danych np. SQLite...
 	- połączenie z chmurą
 	- przeliczanie cen w różnych walutach (?)
+	- automatycze zeskanowanie katalogu z ksiązkami w celu
+		- wyznaczenie roku wydania, autora, tytułu
+		- automatycznego wyznacznia formatow plikow ksiazki (pdf, epub, mobi, zip)
+	- skanowanie kodu ksiazki za pomoca czytnika
+	- tabela powinna zawierac polozenie ksiazki
+		- miejsce: łódź/Bergen
+		- regał A/B/C/D
+		- półka
